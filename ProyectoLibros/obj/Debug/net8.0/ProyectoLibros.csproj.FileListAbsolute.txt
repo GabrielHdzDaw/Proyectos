@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\DAW\Programación\ProyectoLibros\bin\Debug\net8.0\ProyectoLibros.exe
+C:\Users\gabri\Documents\DAW\Programación\ProyectoLibros\bin\Debug\net8.0\ProyectoLibros.deps.json
+C:\Users\gabri\Documents\DAW\Programación\ProyectoLibros\bin\Debug\net8.0\ProyectoLibros.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\ProyectoLibros\bin\Debug\net8.0\ProyectoLibros.dll
+C:\Users\gabri\Documents\DAW\Programación\ProyectoLibros\bin\Debug\net8.0\ProyectoLibros.pdb
+C:\Users\gabri\Documents\DAW\Programación\ProyectoLibros\obj\Debug\net8.0\ProyectoLibros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\ProyectoLibros\obj\Debug\net8.0\ProyectoLibros.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\ProyectoLibros\obj\Debug\net8.0\ProyectoLibros.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\ProyectoLibros\obj\Debug\net8.0\ProyectoLibros.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\ProyectoLibros\obj\Debug\net8.0\ProyectoLibros.dll
+C:\Users\gabri\Documents\DAW\Programación\ProyectoLibros\obj\Debug\net8.0\refint\ProyectoLibros.dll
+C:\Users\gabri\Documents\DAW\Programación\ProyectoLibros\obj\Debug\net8.0\ProyectoLibros.pdb
+C:\Users\gabri\Documents\DAW\Programación\ProyectoLibros\obj\Debug\net8.0\ProyectoLibros.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\ProyectoLibros\obj\Debug\net8.0\ref\ProyectoLibros.dll

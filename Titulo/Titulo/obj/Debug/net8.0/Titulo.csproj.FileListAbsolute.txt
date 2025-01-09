@@ -1,0 +1,14 @@
+C:\Users\gabhercol\source\repos\Titulo\Titulo\bin\Debug\net8.0\Titulo.exe
+C:\Users\gabhercol\source\repos\Titulo\Titulo\bin\Debug\net8.0\Titulo.deps.json
+C:\Users\gabhercol\source\repos\Titulo\Titulo\bin\Debug\net8.0\Titulo.runtimeconfig.json
+C:\Users\gabhercol\source\repos\Titulo\Titulo\bin\Debug\net8.0\Titulo.dll
+C:\Users\gabhercol\source\repos\Titulo\Titulo\bin\Debug\net8.0\Titulo.pdb
+C:\Users\gabhercol\source\repos\Titulo\Titulo\obj\Debug\net8.0\Titulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\source\repos\Titulo\Titulo\obj\Debug\net8.0\Titulo.AssemblyInfoInputs.cache
+C:\Users\gabhercol\source\repos\Titulo\Titulo\obj\Debug\net8.0\Titulo.AssemblyInfo.cs
+C:\Users\gabhercol\source\repos\Titulo\Titulo\obj\Debug\net8.0\Titulo.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\source\repos\Titulo\Titulo\obj\Debug\net8.0\Titulo.dll
+C:\Users\gabhercol\source\repos\Titulo\Titulo\obj\Debug\net8.0\refint\Titulo.dll
+C:\Users\gabhercol\source\repos\Titulo\Titulo\obj\Debug\net8.0\Titulo.pdb
+C:\Users\gabhercol\source\repos\Titulo\Titulo\obj\Debug\net8.0\Titulo.genruntimeconfig.cache
+C:\Users\gabhercol\source\repos\Titulo\Titulo\obj\Debug\net8.0\ref\Titulo.dll
