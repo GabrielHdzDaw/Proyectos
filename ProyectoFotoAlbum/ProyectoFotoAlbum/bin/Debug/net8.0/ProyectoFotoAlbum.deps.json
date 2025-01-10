@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProyectoFotoAlbum/1.0.0": {
+        "runtime": {
+          "ProyectoFotoAlbum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoFotoAlbum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

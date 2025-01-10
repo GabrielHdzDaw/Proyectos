@@ -14,6 +14,9 @@
             Console.WriteLine(persona1.ToString()); 
             Console.WriteLine(persona2.ToString()); 
             Console.WriteLine(persona3.ToString());
+
+            Estudiante estudiante1 = new Estudiante();
+            estudiante1.Saludar();
         }
     }
 }

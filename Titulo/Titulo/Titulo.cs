@@ -8,9 +8,9 @@ namespace ConsolAppTest
 {
     public class Titulo
     {
-        string texto;
-        int x;
-        int y;
+        protected string texto;
+        protected int x;
+        protected int y;
 
         public Titulo(string texto, int x, int y)
         {
@@ -33,7 +33,7 @@ namespace ConsolAppTest
             y = 5;
         }
 
-        public string GetTexto(string texto)
+        public string GetTexto()
         {
             return texto;
         }
@@ -57,7 +57,7 @@ namespace ConsolAppTest
         {
             this.y = y;
         }
-        public void Mostrar()
+        public virtual void Mostrar()
         {
             Console.SetCursorPosition(x, y);
             Console.WriteLine(texto);

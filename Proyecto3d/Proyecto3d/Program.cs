@@ -22,7 +22,7 @@ namespace Proyecto3d
 
             for (int i = 1; i < arrayPuntos.Length; i++)
             {
-                Console.WriteLine($"La distancia entre {arrayPuntos[0].ToString()} y {arrayPuntos[i].ToString()} es {arrayPuntos[0].DistanceTo(arrayPuntos[i]).ToString("N2")}");
+                Console.WriteLine($"La distancia entre {arrayPuntos[0]} y {arrayPuntos[i]} es {arrayPuntos[0].DistanceTo(arrayPuntos[i]).ToString("N2")}");
             }
 
         }

@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabhercol\\source\\repos\\Titulo\\",
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|c:\\users\\gabhercol\\source\\repos\\titulo\\titulo\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\titulo\\titulo\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|solutionrelative:titulo\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|c:\\users\\gabhercol\\source\\repos\\titulo\\titulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\titulo\\titulo\\titulosubrayado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|solutionrelative:titulo\\titulosubrayado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\titulo\\titulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|solutionrelative:titulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Titulo.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\source\\repos\\Titulo\\Titulo\\Titulo.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\Titulo\\Titulo.cs",
               "RelativeDocumentMoniker": "Titulo\\Titulo.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\source\\repos\\Titulo\\Titulo\\Titulo.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\Titulo\\Titulo.cs",
               "RelativeToolTip": "Titulo\\Titulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T10:33:35.477Z",
               "EditorCaption": ""
@@ -36,12 +40,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TituloSubrayado.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\Titulo\\TituloSubrayado.cs",
+              "RelativeDocumentMoniker": "Titulo\\TituloSubrayado.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\Titulo\\TituloSubrayado.cs",
+              "RelativeToolTip": "Titulo\\TituloSubrayado.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:45:31.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\source\\repos\\Titulo\\Titulo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\Titulo\\Program.cs",
               "RelativeDocumentMoniker": "Titulo\\Program.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\source\\repos\\Titulo\\Titulo\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\Titulo\\Program.cs",
               "RelativeToolTip": "Titulo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T10:33:16.037Z",
               "EditorCaption": ""

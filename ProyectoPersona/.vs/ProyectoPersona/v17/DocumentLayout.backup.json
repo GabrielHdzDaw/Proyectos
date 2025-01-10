@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\ProyectoPersona\\",
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoPersona\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BE1F4EC-9845-4243-8D70-97769D99CAC7}|ProyectoPersona.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectopersona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BE1F4EC-9845-4243-8D70-97769D99CAC7}|ProyectoPersona.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BE1F4EC-9845-4243-8D70-97769D99CAC7}|ProyectoPersona.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectopersona\\pruebapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE1F4EC-9845-4243-8D70-97769D99CAC7}|ProyectoPersona.csproj|solutionrelative:pruebapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BE1F4EC-9845-4243-8D70-97769D99CAC7}|ProyectoPersona.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectopersona\\pruebapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BE1F4EC-9845-4243-8D70-97769D99CAC7}|ProyectoPersona.csproj|solutionrelative:pruebapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BE1F4EC-9845-4243-8D70-97769D99CAC7}|ProyectoPersona.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectopersona\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE1F4EC-9845-4243-8D70-97769D99CAC7}|ProyectoPersona.csproj|solutionrelative:estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE1F4EC-9845-4243-8D70-97769D99CAC7}|ProyectoPersona.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectopersona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE1F4EC-9845-4243-8D70-97769D99CAC7}|ProyectoPersona.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoPersona\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Estudiante.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoPersona\\Estudiante.cs",
+              "RelativeToolTip": "Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:39:32.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\ProyectoPersona\\Persona.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoPersona\\Persona.cs",
               "RelativeDocumentMoniker": "Persona.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\ProyectoPersona\\Persona.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoPersona\\Persona.cs",
               "RelativeToolTip": "Persona.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwDAAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T19:22:48.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PruebaPersona.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\ProyectoPersona\\PruebaPersona.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoPersona\\PruebaPersona.cs",
               "RelativeDocumentMoniker": "PruebaPersona.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\ProyectoPersona\\PruebaPersona.cs",
-              "RelativeToolTip": "PruebaPersona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoPersona\\PruebaPersona.cs*",
+              "RelativeToolTip": "PruebaPersona.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T19:22:26.139Z",
               "EditorCaption": ""

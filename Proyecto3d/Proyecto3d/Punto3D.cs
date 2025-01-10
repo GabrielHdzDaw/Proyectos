@@ -55,7 +55,7 @@ namespace Proyecto3d
         }
         public double DistanceTo(Punto3D p)
         {
-            return Math.Sqrt((double)Math.Pow(x - p.x, 2) + (double)Math.Pow(y - p.y, 2) + (double)Math.Pow(z - p.z, 2));
+            return Math.Sqrt(Math.Pow(x - p.x, 2) + Math.Pow(y - p.y, 2) + Math.Pow(z - p.z, 2));
         }
 
         public override string ToString()

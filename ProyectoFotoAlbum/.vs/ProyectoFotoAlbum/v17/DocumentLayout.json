@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|c:\\users\\gabhercol\\source\\repos\\proyectofotoalbum\\proyectofotoalbum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|solutionrelative:proyectofotoalbum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|c:\\users\\gabhercol\\source\\repos\\proyectofotoalbum\\proyectofotoalbum\\granalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|solutionrelative:proyectofotoalbum\\granalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|c:\\users\\gabhercol\\source\\repos\\proyectofotoalbum\\proyectofotoalbum\\fotoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|solutionrelative:proyectofotoalbum\\fotoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GranAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\GranAlbum.cs",
+              "RelativeDocumentMoniker": "ProyectoFotoAlbum\\GranAlbum.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\GranAlbum.cs",
+              "RelativeToolTip": "ProyectoFotoAlbum\\GranAlbum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:22:24.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FotoAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\FotoAlbum.cs",
+              "RelativeDocumentMoniker": "ProyectoFotoAlbum\\FotoAlbum.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\FotoAlbum.cs",
+              "RelativeToolTip": "ProyectoFotoAlbum\\FotoAlbum.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:12:58.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoFotoAlbum\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\Program.cs",
+              "RelativeToolTip": "ProyectoFotoAlbum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:12:44.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
