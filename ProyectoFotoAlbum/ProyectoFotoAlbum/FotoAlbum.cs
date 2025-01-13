@@ -8,7 +8,7 @@ namespace ProyectoFotoAlbum
 {
     internal class FotoAlbum
     {
-        int numeroPaginas;
+        protected int numeroPaginas;
 
         public FotoAlbum(int numeroPaginas)
         {

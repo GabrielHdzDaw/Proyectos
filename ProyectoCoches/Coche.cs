@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace ProyectoCoches
 {
-    internal class Coche
+    internal class Coche:Vehiculo
     {
-        string marca;
-        string modelo;
-        int cilindrada;
-        double potencia;
+        
     }
 }

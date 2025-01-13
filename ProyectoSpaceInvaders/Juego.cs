@@ -6,8 +6,17 @@ namespace ProyectoSpaceInvaders
     {
         public void Lanzar()
         {
-            Console.WriteLine("Bienvenido a Console Invaders. Pulse intro para salir.");
-            Console.ReadLine();
+            
+            Bienvenida bienvenida = new Bienvenida();
+            Partida partida = new Partida();
+            while (!bienvenida.GetSalir())
+            {
+                bienvenida.Lanzar();
+                if (!bienvenida.GetSalir())
+                {
+                    partida.Lanzar();
+                }
+            }
         }
     }
 }

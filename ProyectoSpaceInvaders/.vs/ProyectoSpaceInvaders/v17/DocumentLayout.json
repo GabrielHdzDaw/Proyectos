@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3A1E4584-E299-4B57-8468-0E1B6F18FD27}|ProyectoSpaceInvaders.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectospaceinvaders\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1E4584-E299-4B57-8468-0E1B6F18FD27}|ProyectoSpaceInvaders.csproj|solutionrelative:partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1E4584-E299-4B57-8468-0E1B6F18FD27}|ProyectoSpaceInvaders.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectospaceinvaders\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1E4584-E299-4B57-8468-0E1B6F18FD27}|ProyectoSpaceInvaders.csproj|solutionrelative:nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1E4584-E299-4B57-8468-0E1B6F18FD27}|ProyectoSpaceInvaders.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectospaceinvaders\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1E4584-E299-4B57-8468-0E1B6F18FD27}|ProyectoSpaceInvaders.csproj|solutionrelative:enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1E4584-E299-4B57-8468-0E1B6F18FD27}|ProyectoSpaceInvaders.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectospaceinvaders\\bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1E4584-E299-4B57-8468-0E1B6F18FD27}|ProyectoSpaceInvaders.csproj|solutionrelative:bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1E4584-E299-4B57-8468-0E1B6F18FD27}|ProyectoSpaceInvaders.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectospaceinvaders\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1E4584-E299-4B57-8468-0E1B6F18FD27}|ProyectoSpaceInvaders.csproj|solutionrelative:sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A1E4584-E299-4B57-8468-0E1B6F18FD27}|ProyectoSpaceInvaders.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectospaceinvaders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A1E4584-E299-4B57-8468-0E1B6F18FD27}|ProyectoSpaceInvaders.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,33 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Juego.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Juego.cs",
-              "RelativeDocumentMoniker": "Juego.cs",
-              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Juego.cs",
-              "RelativeToolTip": "Juego.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "DocumentIndex": 4,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Sprite.cs",
+              "RelativeDocumentMoniker": "Sprite.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Sprite.cs",
+              "RelativeToolTip": "Sprite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:39:10.183Z",
+              "WhenOpened": "2025-01-12T11:37:40.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemigo.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Enemigo.cs",
+              "RelativeDocumentMoniker": "Enemigo.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Enemigo.cs",
+              "RelativeToolTip": "Enemigo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:28:01.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nave.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Nave.cs",
+              "RelativeDocumentMoniker": "Nave.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Nave.cs",
+              "RelativeToolTip": "Nave.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:33:09.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Partida.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Partida.cs",
+              "RelativeDocumentMoniker": "Partida.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Partida.cs",
+              "RelativeToolTip": "Partida.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:46:07.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bienvenida.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Bienvenida.cs",
+              "RelativeDocumentMoniker": "Bienvenida.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Bienvenida.cs",
+              "RelativeToolTip": "Bienvenida.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:45:55.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Juego.cs",
+              "RelativeDocumentMoniker": "Juego.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Juego.cs",
+              "RelativeToolTip": "Juego.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T19:39:10.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoSpaceInvaders\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:25:53.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T19:25:53.42Z"
             }
           ]
         }

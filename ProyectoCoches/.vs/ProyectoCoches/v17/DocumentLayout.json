@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoCoches\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA89DE8A-6F7E-4123-A887-852DC08A28EA}|ProyectoCoches.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectocoches\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA89DE8A-6F7E-4123-A887-852DC08A28EA}|ProyectoCoches.csproj|solutionrelative:coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA89DE8A-6F7E-4123-A887-852DC08A28EA}|ProyectoCoches.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectocoches\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA89DE8A-6F7E-4123-A887-852DC08A28EA}|ProyectoCoches.csproj|solutionrelative:vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA89DE8A-6F7E-4123-A887-852DC08A28EA}|ProyectoCoches.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectocoches\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA89DE8A-6F7E-4123-A887-852DC08A28EA}|ProyectoCoches.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA89DE8A-6F7E-4123-A887-852DC08A28EA}|ProyectoCoches.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectocoches\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA89DE8A-6F7E-4123-A887-852DC08A28EA}|ProyectoCoches.csproj|solutionrelative:coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA89DE8A-6F7E-4123-A887-852DC08A28EA}|ProyectoCoches.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectocoches\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA89DE8A-6F7E-4123-A887-852DC08A28EA}|ProyectoCoches.csproj|solutionrelative:moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoCoches\\Moto.cs",
+              "RelativeDocumentMoniker": "Moto.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoCoches\\Moto.cs",
+              "RelativeToolTip": "Moto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:41:47.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoCoches\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Vehiculo.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoCoches\\Vehiculo.cs",
+              "RelativeToolTip": "Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:41:40.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Coche.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoCoches\\Coche.cs",
               "RelativeDocumentMoniker": "Coche.cs",
               "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoCoches\\Coche.cs",
               "RelativeToolTip": "Coche.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T19:53:00.606Z",
               "EditorCaption": ""

@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\DAW\Programación\ProyectoSpaceInvaders\bin\Debug\net8.0\ProyectoSpaceInvaders.exe
+C:\Users\gabri\Documents\DAW\Programación\ProyectoSpaceInvaders\bin\Debug\net8.0\ProyectoSpaceInvaders.deps.json
+C:\Users\gabri\Documents\DAW\Programación\ProyectoSpaceInvaders\bin\Debug\net8.0\ProyectoSpaceInvaders.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\ProyectoSpaceInvaders\bin\Debug\net8.0\ProyectoSpaceInvaders.dll
+C:\Users\gabri\Documents\DAW\Programación\ProyectoSpaceInvaders\bin\Debug\net8.0\ProyectoSpaceInvaders.pdb
+C:\Users\gabri\Documents\DAW\Programación\ProyectoSpaceInvaders\obj\Debug\net8.0\ProyectoSpaceInvaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\ProyectoSpaceInvaders\obj\Debug\net8.0\ProyectoSpaceInvaders.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\ProyectoSpaceInvaders\obj\Debug\net8.0\ProyectoSpaceInvaders.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\ProyectoSpaceInvaders\obj\Debug\net8.0\ProyectoSpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\ProyectoSpaceInvaders\obj\Debug\net8.0\ProyectoSpaceInvaders.dll
+C:\Users\gabri\Documents\DAW\Programación\ProyectoSpaceInvaders\obj\Debug\net8.0\refint\ProyectoSpaceInvaders.dll
+C:\Users\gabri\Documents\DAW\Programación\ProyectoSpaceInvaders\obj\Debug\net8.0\ProyectoSpaceInvaders.pdb
+C:\Users\gabri\Documents\DAW\Programación\ProyectoSpaceInvaders\obj\Debug\net8.0\ProyectoSpaceInvaders.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\ProyectoSpaceInvaders\obj\Debug\net8.0\ref\ProyectoSpaceInvaders.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj",
+      "projectUniqueName": "C:\\Users\\gabhercol\\Documents\\Programación\\Proyectos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj",
       "projectName": "ProyectoFotoAlbum",
-      "projectPath": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj",
+      "projectPath": "C:\\Users\\gabhercol\\Documents\\Programación\\Proyectos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj",
       "packagesPath": "C:\\Users\\gabhercol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\obj\\",
+      "outputPath": "C:\\Users\\gabhercol\\Documents\\Programación\\Proyectos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

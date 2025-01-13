@@ -1,22 +1,21 @@
-﻿namespace ProyectoPersona
+﻿using System.Globalization;
+
+namespace ProyectoPersona
 {
     internal class PruebaPersona
     {
-        static void Main(string[] args)
-        {
-            Persona persona1 = new Persona("Lentejas", 145, "Wisconsin");
-            Persona persona2 = new Persona("Patatas");
-            Persona persona3 = new Persona();
-
+        //static void Main(string[] args)
+        //{
+        //    Persona persona1 = new Persona("Sergio", 20, 49);
             
-            persona2.SetNombre("Matilde");
+        //    Persona persona2 = new Persona();
 
-            Console.WriteLine(persona1.ToString()); 
-            Console.WriteLine(persona2.ToString()); 
-            Console.WriteLine(persona3.ToString());
+        //    //Console.WriteLine(persona1.GetNombre());
+        //    //Console.WriteLine(persona2.GetNombre());
 
-            Estudiante estudiante1 = new Estudiante();
-            estudiante1.Saludar();
-        }
+        //    Console.WriteLine(persona1.ToString());
+
+
+        //}
     }
 }

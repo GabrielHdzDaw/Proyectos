@@ -6,40 +6,47 @@ using System.Threading.Tasks;
 
 namespace ProyectoLibros
 {
-    internal class Libro
+    internal class Libro:Documento
     {
-        string autor;
-        string titulo;
-        string ubicacion;
+        protected int paginas;
 
-        public void SetAutor(string autor)
+        public void SetPaginas(int paginas)
+        { 
+            this.paginas = paginas; 
+        } 
+        public int GetPaginas() 
         {
-            this.autor = autor; 
+            return this.paginas;
         }
 
-        public void SetTitulo(string titulo)
-        {
-            this.titulo = titulo;
-        }
+        //public void SetAutor(string autor)
+        //{
+        //    this.autor = autor; 
+        //}
 
-        public void SetUbicacion(string ubicacion)
-        {
-            this.ubicacion = ubicacion;
-        }
+        //public void SetTitulo(string titulo)
+        //{
+        //    this.titulo = titulo;
+        //}
+
+        //public void SetUbicacion(string ubicacion)
+        //{
+        //    this.ubicacion = ubicacion;
+        //}
         
-        public string GetAutor()
-        {
-            return this.autor; 
-        }
+        //public string GetAutor()
+        //{
+        //    return this.autor; 
+        //}
 
-        public string GetTitulo()
-        {
-            return this.titulo;
-        }
+        //public string GetTitulo()
+        //{
+        //    return this.titulo;
+        //}
 
-        public string GetUbicacion()
-        {
-            return this.ubicacion;
-        }
+        //public string GetUbicacion()
+        //{
+        //    return this.ubicacion;
+        //}
     }
 }

@@ -8,45 +8,73 @@ namespace ProyectoPersona
 {
     internal class Persona
     {
-        string nombre;
+        protected string nombre;
         int edad;
-        string direccion;
+        int altura;
 
-
-        public Persona (string nombre, int edad, string direccion)
+        public Persona(string nombre, int edad, int altura)
         {
             this.nombre = nombre;
             this.edad = edad;
-            this.direccion = direccion;
+            this.altura = altura;
         }
-
-        public Persona(string nombre)
+        public Persona() : this("juan", 70, 0)
+        {
+            
+        }
+        public Persona(string nombre) : this("juan", 70, 0)
         {
             this.nombre = nombre;
-            edad = 0;
-            direccion = "";
         }
 
-        public Persona()
+        public Persona(string nombre, int edad): this("juan", 70, 0)
         {
-            nombre = "Fulanito";
-            edad = 0;
-            direccion = "";
+            this.nombre = nombre;
+            this.edad = edad;
+            
         }
+
+        
+
 
         public void SetNombre(string nombre)
         {
             this.nombre = nombre;
         }
+        public string GetNombre()
+        {
+            return nombre;
+        }
 
-        public void Saludar()
+        public void SetEdad(int edad)
+        {
+            this.edad = edad;
+        }
+
+        public int GetEdad()
+        {
+            return edad;
+        }
+
+        public void SetAltura(int altura)
+        {
+            this.altura = altura;
+        }
+        public int GetAltura()
+        {
+            return altura;
+        }
+
+        
+
+        virtual public void Saludar()
         {
             Console.WriteLine($"Hola, soy {this.nombre}");
         }
 
         public override string ToString()
         {
-            return $"Nombre: {nombre}\nEdad: {edad}\nDirección: {direccion}\n";
+            return $"Nombre: {nombre}\nEdad: {edad}\nAltura: {altura}";
         }
     }
 }

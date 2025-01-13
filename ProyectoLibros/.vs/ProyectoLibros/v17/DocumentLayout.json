@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoLibros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B19279D-6919-47AE-963A-E9F56FCC5AC4}|ProyectoLibros.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectolibros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B19279D-6919-47AE-963A-E9F56FCC5AC4}|ProyectoLibros.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6B19279D-6919-47AE-963A-E9F56FCC5AC4}|ProyectoLibros.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectolibros\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B19279D-6919-47AE-963A-E9F56FCC5AC4}|ProyectoLibros.csproj|solutionrelative:libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B19279D-6919-47AE-963A-E9F56FCC5AC4}|ProyectoLibros.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectolibros\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B19279D-6919-47AE-963A-E9F56FCC5AC4}|ProyectoLibros.csproj|solutionrelative:documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B19279D-6919-47AE-963A-E9F56FCC5AC4}|ProyectoLibros.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectolibros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B19279D-6919-47AE-963A-E9F56FCC5AC4}|ProyectoLibros.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,25 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoLibros\\Documento.cs",
+              "RelativeDocumentMoniker": "Documento.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoLibros\\Documento.cs",
+              "RelativeToolTip": "Documento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:26:42.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoLibros\\Libro.cs",
               "RelativeDocumentMoniker": "Libro.cs",
               "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoLibros\\Libro.cs",
               "RelativeToolTip": "Libro.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCkAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T19:43:02.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoLibros\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\ProyectoLibros\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T19:41:42.273Z",
               "EditorCaption": ""

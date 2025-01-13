@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabhercol\\Documents\\Programación\\Proyectos\\ProyectoPersona\\ProyectoPersona.csproj": {}
+    "C:\\Users\\gabri\\Documents\\DAW\\Programación\\ProyectoPersona\\ProyectoPersona.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabhercol\\Documents\\Programación\\Proyectos\\ProyectoPersona\\ProyectoPersona.csproj": {
+    "C:\\Users\\gabri\\Documents\\DAW\\Programación\\ProyectoPersona\\ProyectoPersona.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabhercol\\Documents\\Programación\\Proyectos\\ProyectoPersona\\ProyectoPersona.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\Documents\\DAW\\Programación\\ProyectoPersona\\ProyectoPersona.csproj",
         "projectName": "ProyectoPersona",
-        "projectPath": "C:\\Users\\gabhercol\\Documents\\Programación\\Proyectos\\ProyectoPersona\\ProyectoPersona.csproj",
-        "packagesPath": "C:\\Users\\gabhercol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabhercol\\Documents\\Programación\\Proyectos\\ProyectoPersona\\obj\\",
+        "projectPath": "C:\\Users\\gabri\\Documents\\DAW\\Programación\\ProyectoPersona\\ProyectoPersona.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabri\\Documents\\DAW\\Programación\\ProyectoPersona\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gabhercol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {}
         },
         "frameworks": {
           "net8.0": {
@@ -42,9 +42,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
