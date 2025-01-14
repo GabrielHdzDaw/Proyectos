@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimales\ProyectoAnimales\bin\Debug\net8.0\ProyectoAnimales.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimales\ProyectoAnimales\bin\Debug\net8.0\ProyectoAnimales.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimales\ProyectoAnimales\bin\Debug\net8.0\ProyectoAnimales.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimales\ProyectoAnimales\bin\Debug\net8.0\ProyectoAnimales.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimales\ProyectoAnimales\bin\Debug\net8.0\ProyectoAnimales.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimales\ProyectoAnimales\obj\Debug\net8.0\ProyectoAnimales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimales\ProyectoAnimales\obj\Debug\net8.0\ProyectoAnimales.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimales\ProyectoAnimales\obj\Debug\net8.0\ProyectoAnimales.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimales\ProyectoAnimales\obj\Debug\net8.0\ProyectoAnimales.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimales\ProyectoAnimales\obj\Debug\net8.0\ProyectoAnimales.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimales\ProyectoAnimales\obj\Debug\net8.0\ProyectoAnimales.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimales\ProyectoAnimales\obj\Debug\net8.0\refint\ProyectoAnimales.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimales\ProyectoAnimales\obj\Debug\net8.0\ProyectoAnimales.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimales\ProyectoAnimales\obj\Debug\net8.0\ProyectoAnimales.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimales\ProyectoAnimales\obj\Debug\net8.0\ref\ProyectoAnimales.dll

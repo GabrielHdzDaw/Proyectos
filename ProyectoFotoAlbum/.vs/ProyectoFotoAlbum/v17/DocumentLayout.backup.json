@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\",
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFotoAlbum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|c:\\users\\gabhercol\\source\\repos\\proyectofotoalbum\\proyectofotoalbum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectofotoalbum\\proyectofotoalbum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|solutionrelative:proyectofotoalbum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|c:\\users\\gabhercol\\source\\repos\\proyectofotoalbum\\proyectofotoalbum\\granalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|solutionrelative:proyectofotoalbum\\granalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectofotoalbum\\proyectofotoalbum\\fotoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|solutionrelative:proyectofotoalbum\\fotoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|c:\\users\\gabhercol\\source\\repos\\proyectofotoalbum\\proyectofotoalbum\\fotoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|solutionrelative:proyectofotoalbum\\fotoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectofotoalbum\\proyectofotoalbum\\granalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2571E987-FBEC-4184-9517-98A7800FD454}|ProyectoFotoAlbum\\ProyectoFotoAlbum.csproj|solutionrelative:proyectofotoalbum\\granalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,26 +26,25 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GranAlbum.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\GranAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\GranAlbum.cs",
               "RelativeDocumentMoniker": "ProyectoFotoAlbum\\GranAlbum.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\GranAlbum.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\GranAlbum.cs",
               "RelativeToolTip": "ProyectoFotoAlbum\\GranAlbum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T11:22:24.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T11:22:24.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FotoAlbum.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\FotoAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\FotoAlbum.cs",
               "RelativeDocumentMoniker": "ProyectoFotoAlbum\\FotoAlbum.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\FotoAlbum.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\FotoAlbum.cs",
               "RelativeToolTip": "ProyectoFotoAlbum\\FotoAlbum.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T11:12:58.341Z",
               "EditorCaption": ""
@@ -54,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\Program.cs",
               "RelativeDocumentMoniker": "ProyectoFotoAlbum\\Program.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\source\\repos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFotoAlbum\\ProyectoFotoAlbum\\Program.cs",
               "RelativeToolTip": "ProyectoFotoAlbum\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

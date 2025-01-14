@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoNumerosComplejos\ProyectoNumerosComplejos\bin\Debug\net8.0\ProyectoNumerosComplejos.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoNumerosComplejos\ProyectoNumerosComplejos\bin\Debug\net8.0\ProyectoNumerosComplejos.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoNumerosComplejos\ProyectoNumerosComplejos\bin\Debug\net8.0\ProyectoNumerosComplejos.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoNumerosComplejos\ProyectoNumerosComplejos\bin\Debug\net8.0\ProyectoNumerosComplejos.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoNumerosComplejos\ProyectoNumerosComplejos\bin\Debug\net8.0\ProyectoNumerosComplejos.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoNumerosComplejos\ProyectoNumerosComplejos\obj\Debug\net8.0\ProyectoNumerosComplejos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoNumerosComplejos\ProyectoNumerosComplejos\obj\Debug\net8.0\ProyectoNumerosComplejos.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoNumerosComplejos\ProyectoNumerosComplejos\obj\Debug\net8.0\ProyectoNumerosComplejos.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoNumerosComplejos\ProyectoNumerosComplejos\obj\Debug\net8.0\ProyectoNumerosComplejos.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoNumerosComplejos\ProyectoNumerosComplejos\obj\Debug\net8.0\ProyectoNumerosComplejos.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoNumerosComplejos\ProyectoNumerosComplejos\obj\Debug\net8.0\ProyectoNumerosComplejos.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoNumerosComplejos\ProyectoNumerosComplejos\obj\Debug\net8.0\refint\ProyectoNumerosComplejos.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoNumerosComplejos\ProyectoNumerosComplejos\obj\Debug\net8.0\ProyectoNumerosComplejos.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoNumerosComplejos\ProyectoNumerosComplejos\obj\Debug\net8.0\ProyectoNumerosComplejos.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoNumerosComplejos\ProyectoNumerosComplejos\obj\Debug\net8.0\ref\ProyectoNumerosComplejos.dll

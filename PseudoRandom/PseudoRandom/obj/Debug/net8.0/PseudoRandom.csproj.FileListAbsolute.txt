@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\PseudoRandom\PseudoRandom\bin\Debug\net8.0\PseudoRandom.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\PseudoRandom\PseudoRandom\bin\Debug\net8.0\PseudoRandom.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\PseudoRandom\PseudoRandom\bin\Debug\net8.0\PseudoRandom.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\PseudoRandom\PseudoRandom\bin\Debug\net8.0\PseudoRandom.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\PseudoRandom\PseudoRandom\bin\Debug\net8.0\PseudoRandom.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\PseudoRandom\PseudoRandom\obj\Debug\net8.0\PseudoRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\PseudoRandom\PseudoRandom\obj\Debug\net8.0\PseudoRandom.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\PseudoRandom\PseudoRandom\obj\Debug\net8.0\PseudoRandom.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\PseudoRandom\PseudoRandom\obj\Debug\net8.0\PseudoRandom.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\PseudoRandom\PseudoRandom\obj\Debug\net8.0\PseudoRandom.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\PseudoRandom\PseudoRandom\obj\Debug\net8.0\PseudoRandom.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\PseudoRandom\PseudoRandom\obj\Debug\net8.0\refint\PseudoRandom.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\PseudoRandom\PseudoRandom\obj\Debug\net8.0\PseudoRandom.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\PseudoRandom\PseudoRandom\obj\Debug\net8.0\PseudoRandom.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\PseudoRandom\PseudoRandom\obj\Debug\net8.0\ref\PseudoRandom.dll

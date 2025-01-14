@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|solutionrelative:titulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\titulo\\titulo\\titulosubrayado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|solutionrelative:titulo\\titulosubrayado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\titulo\\titulo\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|solutionrelative:titulo\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\titulo\\titulo\\titulocentrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|solutionrelative:titulo\\titulocentrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\titulo\\titulo\\titulosubrayado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1E65BD-C273-4C45-A33B-490CAA9B49A2}|Titulo\\Titulo.csproj|solutionrelative:titulo\\titulosubrayado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TituloCentrado.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\Titulo\\TituloCentrado.cs",
+              "RelativeDocumentMoniker": "Titulo\\TituloCentrado.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\Titulo\\TituloCentrado.cs",
+              "RelativeToolTip": "Titulo\\TituloCentrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:31:59.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Titulo.cs",
               "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\Titulo\\Titulo.cs",
               "RelativeDocumentMoniker": "Titulo\\Titulo.cs",
               "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\Titulo\\Titulo.cs",
               "RelativeToolTip": "Titulo\\Titulo.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAA8wDsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T10:33:35.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TituloSubrayado.cs",
               "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\Titulo\\TituloSubrayado.cs",
               "RelativeDocumentMoniker": "Titulo\\TituloSubrayado.cs",
               "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\Titulo\\TituloSubrayado.cs",
               "RelativeToolTip": "Titulo\\TituloSubrayado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T10:45:31.69Z",
               "EditorCaption": ""
@@ -56,9 +73,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\Titulo\\Program.cs",
               "RelativeDocumentMoniker": "Titulo\\Program.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\Titulo\\Program.cs",
-              "RelativeToolTip": "Titulo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Titulo\\Titulo\\Program.cs*",
+              "RelativeToolTip": "Titulo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T10:33:16.037Z",
               "EditorCaption": ""

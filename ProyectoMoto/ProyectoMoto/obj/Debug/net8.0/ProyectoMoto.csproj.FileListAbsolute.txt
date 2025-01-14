@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMoto\ProyectoMoto\bin\Debug\net8.0\ProyectoMoto.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMoto\ProyectoMoto\bin\Debug\net8.0\ProyectoMoto.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMoto\ProyectoMoto\bin\Debug\net8.0\ProyectoMoto.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMoto\ProyectoMoto\bin\Debug\net8.0\ProyectoMoto.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMoto\ProyectoMoto\bin\Debug\net8.0\ProyectoMoto.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMoto\ProyectoMoto\obj\Debug\net8.0\ProyectoMoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMoto\ProyectoMoto\obj\Debug\net8.0\ProyectoMoto.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMoto\ProyectoMoto\obj\Debug\net8.0\ProyectoMoto.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMoto\ProyectoMoto\obj\Debug\net8.0\ProyectoMoto.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMoto\ProyectoMoto\obj\Debug\net8.0\ProyectoMoto.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMoto\ProyectoMoto\obj\Debug\net8.0\ProyectoMoto.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMoto\ProyectoMoto\obj\Debug\net8.0\refint\ProyectoMoto.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMoto\ProyectoMoto\obj\Debug\net8.0\ProyectoMoto.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMoto\ProyectoMoto\obj\Debug\net8.0\ProyectoMoto.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMoto\ProyectoMoto\obj\Debug\net8.0\ref\ProyectoMoto.dll

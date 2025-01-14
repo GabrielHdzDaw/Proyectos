@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Vector2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D62C32-797A-441E-AFB6-CE148FA98FA5}|Vector2D\\Vector2D.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\vector2d\\vector2d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D62C32-797A-441E-AFB6-CE148FA98FA5}|Vector2D\\Vector2D.csproj|solutionrelative:vector2d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D62C32-797A-441E-AFB6-CE148FA98FA5}|Vector2D\\Vector2D.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\vector2d\\vector2d\\vector2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D62C32-797A-441E-AFB6-CE148FA98FA5}|Vector2D\\Vector2D.csproj|solutionrelative:vector2d\\vector2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector2D.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Vector2D\\Vector2D\\Vector2D.cs",
+              "RelativeDocumentMoniker": "Vector2D\\Vector2D.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Vector2D\\Vector2D\\Vector2D.cs",
+              "RelativeToolTip": "Vector2D\\Vector2D.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:25:19.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Vector2D\\Vector2D\\Program.cs",
+              "RelativeDocumentMoniker": "Vector2D\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Vector2D\\Vector2D\\Program.cs",
+              "RelativeToolTip": "Vector2D\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:25:12.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\Vector2D\Vector2D\bin\Debug\net8.0\ProyectoVector2D.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\Vector2D\Vector2D\bin\Debug\net8.0\ProyectoVector2D.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\Vector2D\Vector2D\bin\Debug\net8.0\ProyectoVector2D.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\Vector2D\Vector2D\bin\Debug\net8.0\ProyectoVector2D.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\Vector2D\Vector2D\bin\Debug\net8.0\ProyectoVector2D.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\Vector2D\Vector2D\obj\Debug\net8.0\ProyectoVector2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\Vector2D\Vector2D\obj\Debug\net8.0\ProyectoVector2D.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\Vector2D\Vector2D\obj\Debug\net8.0\ProyectoVector2D.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\Vector2D\Vector2D\obj\Debug\net8.0\ProyectoVector2D.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\Vector2D\Vector2D\obj\Debug\net8.0\ProyectoVector2D.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\Vector2D\Vector2D\obj\Debug\net8.0\ProyectoVector2D.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\Vector2D\Vector2D\obj\Debug\net8.0\refint\ProyectoVector2D.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\Vector2D\Vector2D\obj\Debug\net8.0\ProyectoVector2D.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\Vector2D\Vector2D\obj\Debug\net8.0\ProyectoVector2D.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\Vector2D\Vector2D\obj\Debug\net8.0\ref\ProyectoVector2D.dll

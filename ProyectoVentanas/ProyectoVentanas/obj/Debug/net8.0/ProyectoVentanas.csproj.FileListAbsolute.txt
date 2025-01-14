@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVentanas\ProyectoVentanas\bin\Debug\net8.0\ProyectoVentanas.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVentanas\ProyectoVentanas\bin\Debug\net8.0\ProyectoVentanas.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVentanas\ProyectoVentanas\bin\Debug\net8.0\ProyectoVentanas.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVentanas\ProyectoVentanas\bin\Debug\net8.0\ProyectoVentanas.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVentanas\ProyectoVentanas\bin\Debug\net8.0\ProyectoVentanas.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVentanas\ProyectoVentanas\obj\Debug\net8.0\ProyectoVentanas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVentanas\ProyectoVentanas\obj\Debug\net8.0\ProyectoVentanas.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVentanas\ProyectoVentanas\obj\Debug\net8.0\ProyectoVentanas.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVentanas\ProyectoVentanas\obj\Debug\net8.0\ProyectoVentanas.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVentanas\ProyectoVentanas\obj\Debug\net8.0\ProyectoVentanas.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVentanas\ProyectoVentanas\obj\Debug\net8.0\ProyectoVentanas.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVentanas\ProyectoVentanas\obj\Debug\net8.0\refint\ProyectoVentanas.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVentanas\ProyectoVentanas\obj\Debug\net8.0\ProyectoVentanas.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVentanas\ProyectoVentanas\obj\Debug\net8.0\ProyectoVentanas.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVentanas\ProyectoVentanas\obj\Debug\net8.0\ref\ProyectoVentanas.dll

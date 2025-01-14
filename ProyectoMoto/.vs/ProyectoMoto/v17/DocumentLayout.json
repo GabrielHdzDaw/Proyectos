@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMoto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F436C9DA-55DF-4D97-9B27-4C404EB7F7BA}|ProyectoMoto\\ProyectoMoto.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomoto\\proyectomoto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F436C9DA-55DF-4D97-9B27-4C404EB7F7BA}|ProyectoMoto\\ProyectoMoto.csproj|solutionrelative:proyectomoto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F436C9DA-55DF-4D97-9B27-4C404EB7F7BA}|ProyectoMoto\\ProyectoMoto.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomoto\\proyectomoto\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F436C9DA-55DF-4D97-9B27-4C404EB7F7BA}|ProyectoMoto\\ProyectoMoto.csproj|solutionrelative:proyectomoto\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMoto\\ProyectoMoto\\Moto.cs",
+              "RelativeDocumentMoniker": "ProyectoMoto\\Moto.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMoto\\ProyectoMoto\\Moto.cs",
+              "RelativeToolTip": "ProyectoMoto\\Moto.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:03:59.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMoto\\ProyectoMoto\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoMoto\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMoto\\ProyectoMoto\\Program.cs",
+              "RelativeToolTip": "ProyectoMoto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:03:51.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
