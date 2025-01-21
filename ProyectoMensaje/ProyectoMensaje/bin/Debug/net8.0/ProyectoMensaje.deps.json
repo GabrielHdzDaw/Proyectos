@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProyectoMensaje/1.0.0": {
+        "runtime": {
+          "ProyectoMensaje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoMensaje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMensaje\ProyectoMensaje\bin\Debug\net8.0\ProyectoMensaje.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMensaje\ProyectoMensaje\bin\Debug\net8.0\ProyectoMensaje.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMensaje\ProyectoMensaje\bin\Debug\net8.0\ProyectoMensaje.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMensaje\ProyectoMensaje\bin\Debug\net8.0\ProyectoMensaje.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMensaje\ProyectoMensaje\bin\Debug\net8.0\ProyectoMensaje.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMensaje\ProyectoMensaje\obj\Debug\net8.0\ProyectoMensaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMensaje\ProyectoMensaje\obj\Debug\net8.0\ProyectoMensaje.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMensaje\ProyectoMensaje\obj\Debug\net8.0\ProyectoMensaje.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMensaje\ProyectoMensaje\obj\Debug\net8.0\ProyectoMensaje.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMensaje\ProyectoMensaje\obj\Debug\net8.0\ProyectoMensaje.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMensaje\ProyectoMensaje\obj\Debug\net8.0\ProyectoMensaje.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMensaje\ProyectoMensaje\obj\Debug\net8.0\refint\ProyectoMensaje.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMensaje\ProyectoMensaje\obj\Debug\net8.0\ProyectoMensaje.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMensaje\ProyectoMensaje\obj\Debug\net8.0\ProyectoMensaje.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMensaje\ProyectoMensaje\obj\Debug\net8.0\ref\ProyectoMensaje.dll
