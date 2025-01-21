@@ -1,0 +1,13 @@
+C:\Users\Profesor\source\repos\Fracciones\Fracciones\bin\Debug\netcoreapp3.1\Fracciones.exe
+C:\Users\Profesor\source\repos\Fracciones\Fracciones\bin\Debug\netcoreapp3.1\Fracciones.deps.json
+C:\Users\Profesor\source\repos\Fracciones\Fracciones\bin\Debug\netcoreapp3.1\Fracciones.runtimeconfig.json
+C:\Users\Profesor\source\repos\Fracciones\Fracciones\bin\Debug\netcoreapp3.1\Fracciones.runtimeconfig.dev.json
+C:\Users\Profesor\source\repos\Fracciones\Fracciones\bin\Debug\netcoreapp3.1\Fracciones.dll
+C:\Users\Profesor\source\repos\Fracciones\Fracciones\bin\Debug\netcoreapp3.1\Fracciones.pdb
+C:\Users\Profesor\source\repos\Fracciones\Fracciones\obj\Debug\netcoreapp3.1\Fracciones.csprojAssemblyReference.cache
+C:\Users\Profesor\source\repos\Fracciones\Fracciones\obj\Debug\netcoreapp3.1\Fracciones.AssemblyInfoInputs.cache
+C:\Users\Profesor\source\repos\Fracciones\Fracciones\obj\Debug\netcoreapp3.1\Fracciones.AssemblyInfo.cs
+C:\Users\Profesor\source\repos\Fracciones\Fracciones\obj\Debug\netcoreapp3.1\Fracciones.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\Fracciones\Fracciones\obj\Debug\netcoreapp3.1\Fracciones.dll
+C:\Users\Profesor\source\repos\Fracciones\Fracciones\obj\Debug\netcoreapp3.1\Fracciones.pdb
+C:\Users\Profesor\source\repos\Fracciones\Fracciones\obj\Debug\netcoreapp3.1\Fracciones.genruntimeconfig.cache

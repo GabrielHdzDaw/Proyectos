@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMesa\ProyectoMesa\bin\Debug\net8.0\ProyectoMesa.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMesa\ProyectoMesa\bin\Debug\net8.0\ProyectoMesa.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMesa\ProyectoMesa\bin\Debug\net8.0\ProyectoMesa.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMesa\ProyectoMesa\bin\Debug\net8.0\ProyectoMesa.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMesa\ProyectoMesa\bin\Debug\net8.0\ProyectoMesa.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMesa\ProyectoMesa\obj\Debug\net8.0\ProyectoMesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMesa\ProyectoMesa\obj\Debug\net8.0\ProyectoMesa.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMesa\ProyectoMesa\obj\Debug\net8.0\ProyectoMesa.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMesa\ProyectoMesa\obj\Debug\net8.0\ProyectoMesa.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMesa\ProyectoMesa\obj\Debug\net8.0\ProyectoMesa.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMesa\ProyectoMesa\obj\Debug\net8.0\ProyectoMesa.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMesa\ProyectoMesa\obj\Debug\net8.0\refint\ProyectoMesa.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMesa\ProyectoMesa\obj\Debug\net8.0\ProyectoMesa.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMesa\ProyectoMesa\obj\Debug\net8.0\ProyectoMesa.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMesa\ProyectoMesa\obj\Debug\net8.0\ref\ProyectoMesa.dll
