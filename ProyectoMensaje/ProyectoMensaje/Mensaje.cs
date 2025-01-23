@@ -61,7 +61,7 @@ namespace ProyectoMensaje
         public void SetFecha(string fecha)
         {
             string[] fechaSplit = fecha.Split('/');
-            string fechaString = fechaSplit[0] + fechaSplit[1] + fechaSplit[2];
+            string fechaString = Convert.ToInt32(fechaSplit[0]).ToString("D2") + Convert.ToInt32(fechaSplit[1]).ToString("D2") + Convert.ToInt32(fechaSplit[2]).ToString("D2");
             this.fecha = Convert.ToInt32(fechaString);
         }
 

@@ -6,8 +6,8 @@
         {
             Mensaje mensaje = new Mensaje();
             Console.WriteLine(mensaje.GetFecha());
-            mensaje.SetFecha("2/7/1993");
-            Console.WriteLine(mensaje.GetFecha());
+            mensaje.SetFecha("11/7/1993");
+            Console.WriteLine(mensaje);
         }
     }
 }

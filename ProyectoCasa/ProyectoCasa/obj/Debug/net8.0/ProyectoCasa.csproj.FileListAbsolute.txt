@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoCasa\ProyectoCasa\bin\Debug\net8.0\ProyectoCasa.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoCasa\ProyectoCasa\bin\Debug\net8.0\ProyectoCasa.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoCasa\ProyectoCasa\bin\Debug\net8.0\ProyectoCasa.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoCasa\ProyectoCasa\bin\Debug\net8.0\ProyectoCasa.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoCasa\ProyectoCasa\bin\Debug\net8.0\ProyectoCasa.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoCasa\ProyectoCasa\obj\Debug\net8.0\ProyectoCasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoCasa\ProyectoCasa\obj\Debug\net8.0\ProyectoCasa.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoCasa\ProyectoCasa\obj\Debug\net8.0\ProyectoCasa.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoCasa\ProyectoCasa\obj\Debug\net8.0\ProyectoCasa.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoCasa\ProyectoCasa\obj\Debug\net8.0\ProyectoCasa.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoCasa\ProyectoCasa\obj\Debug\net8.0\ProyectoCasa.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoCasa\ProyectoCasa\obj\Debug\net8.0\refint\ProyectoCasa.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoCasa\ProyectoCasa\obj\Debug\net8.0\ProyectoCasa.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoCasa\ProyectoCasa\obj\Debug\net8.0\ProyectoCasa.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoCasa\ProyectoCasa\obj\Debug\net8.0\ref\ProyectoCasa.dll

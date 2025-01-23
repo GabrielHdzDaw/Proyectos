@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCasa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE822F91-42F9-412B-86D2-F5FBEDD92BCE}|ProyectoCasa\\ProyectoCasa.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectocasa\\proyectocasa\\puerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE822F91-42F9-412B-86D2-F5FBEDD92BCE}|ProyectoCasa\\ProyectoCasa.csproj|solutionrelative:proyectocasa\\puerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE822F91-42F9-412B-86D2-F5FBEDD92BCE}|ProyectoCasa\\ProyectoCasa.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectocasa\\proyectocasa\\apartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE822F91-42F9-412B-86D2-F5FBEDD92BCE}|ProyectoCasa\\ProyectoCasa.csproj|solutionrelative:proyectocasa\\apartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE822F91-42F9-412B-86D2-F5FBEDD92BCE}|ProyectoCasa\\ProyectoCasa.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectocasa\\proyectocasa\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE822F91-42F9-412B-86D2-F5FBEDD92BCE}|ProyectoCasa\\ProyectoCasa.csproj|solutionrelative:proyectocasa\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE822F91-42F9-412B-86D2-F5FBEDD92BCE}|ProyectoCasa\\ProyectoCasa.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectocasa\\proyectocasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE822F91-42F9-412B-86D2-F5FBEDD92BCE}|ProyectoCasa\\ProyectoCasa.csproj|solutionrelative:proyectocasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE822F91-42F9-412B-86D2-F5FBEDD92BCE}|ProyectoCasa\\ProyectoCasa.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectocasa\\proyectocasa\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE822F91-42F9-412B-86D2-F5FBEDD92BCE}|ProyectoCasa\\ProyectoCasa.csproj|solutionrelative:proyectocasa\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCasa\\ProyectoCasa\\Persona.cs",
+              "RelativeDocumentMoniker": "ProyectoCasa\\Persona.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCasa\\ProyectoCasa\\Persona.cs",
+              "RelativeToolTip": "ProyectoCasa\\Persona.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:34:46.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Apartamento.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCasa\\ProyectoCasa\\Apartamento.cs",
+              "RelativeDocumentMoniker": "ProyectoCasa\\Apartamento.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCasa\\ProyectoCasa\\Apartamento.cs",
+              "RelativeToolTip": "ProyectoCasa\\Apartamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:32:41.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Puerta.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCasa\\ProyectoCasa\\Puerta.cs",
+              "RelativeDocumentMoniker": "ProyectoCasa\\Puerta.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCasa\\ProyectoCasa\\Puerta.cs",
+              "RelativeToolTip": "ProyectoCasa\\Puerta.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:28:05.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Casa.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCasa\\ProyectoCasa\\Casa.cs",
+              "RelativeDocumentMoniker": "ProyectoCasa\\Casa.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCasa\\ProyectoCasa\\Casa.cs",
+              "RelativeToolTip": "ProyectoCasa\\Casa.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:25:48.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCasa\\ProyectoCasa\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoCasa\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCasa\\ProyectoCasa\\Program.cs",
+              "RelativeToolTip": "ProyectoCasa\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:24:59.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoMesa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fec4a0a9a144fc0f61d15604bed989b618c3b2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04b08357b675e8afb2278519b679b6afd62c52e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoMesa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoMesa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

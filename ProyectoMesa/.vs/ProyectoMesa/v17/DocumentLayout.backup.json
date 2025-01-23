@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{23B7B6F0-4DC9-436A-BD32-EEACEC024F7C}|ProyectoMesa\\ProyectoMesa.csproj|solutionrelative:proyectomesa\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23B7B6F0-4DC9-436A-BD32-EEACEC024F7C}|ProyectoMesa\\ProyectoMesa.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomesa\\proyectomesa\\mesita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23B7B6F0-4DC9-436A-BD32-EEACEC024F7C}|ProyectoMesa\\ProyectoMesa.csproj|solutionrelative:proyectomesa\\mesita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23B7B6F0-4DC9-436A-BD32-EEACEC024F7C}|ProyectoMesa\\ProyectoMesa.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomesa\\proyectomesa\\pata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23B7B6F0-4DC9-436A-BD32-EEACEC024F7C}|ProyectoMesa\\ProyectoMesa.csproj|solutionrelative:proyectomesa\\pata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B7B6F0-4DC9-436A-BD32-EEACEC024F7C}|ProyectoMesa\\ProyectoMesa.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomesa\\proyectomesa\\mesita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B7B6F0-4DC9-436A-BD32-EEACEC024F7C}|ProyectoMesa\\ProyectoMesa.csproj|solutionrelative:proyectomesa\\mesita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Mesita.cs",
               "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMesa\\ProyectoMesa\\Mesita.cs",
               "RelativeDocumentMoniker": "ProyectoMesa\\Mesita.cs",
@@ -38,11 +38,12 @@
               "RelativeToolTip": "ProyectoMesa\\Mesita.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T10:54:39.96Z"
+              "WhenOpened": "2025-01-21T10:54:39.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Pata.cs",
               "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMesa\\ProyectoMesa\\Pata.cs",
               "RelativeDocumentMoniker": "ProyectoMesa\\Pata.cs",
@@ -50,7 +51,8 @@
               "RelativeToolTip": "ProyectoMesa\\Pata.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T10:19:12.777Z"
+              "WhenOpened": "2025-01-21T10:19:12.777Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,7 +62,7 @@
               "RelativeDocumentMoniker": "ProyectoMesa\\Mesa.cs",
               "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMesa\\ProyectoMesa\\Mesa.cs",
               "RelativeToolTip": "ProyectoMesa\\Mesa.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T10:19:03.204Z",
               "EditorCaption": ""
