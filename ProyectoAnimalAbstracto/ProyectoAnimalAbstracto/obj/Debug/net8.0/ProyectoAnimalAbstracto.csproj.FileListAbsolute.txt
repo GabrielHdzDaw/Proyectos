@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimalAbstracto\ProyectoAnimalAbstracto\bin\Debug\net8.0\ProyectoAnimalAbstracto.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimalAbstracto\ProyectoAnimalAbstracto\bin\Debug\net8.0\ProyectoAnimalAbstracto.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimalAbstracto\ProyectoAnimalAbstracto\bin\Debug\net8.0\ProyectoAnimalAbstracto.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimalAbstracto\ProyectoAnimalAbstracto\bin\Debug\net8.0\ProyectoAnimalAbstracto.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimalAbstracto\ProyectoAnimalAbstracto\bin\Debug\net8.0\ProyectoAnimalAbstracto.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimalAbstracto\ProyectoAnimalAbstracto\obj\Debug\net8.0\ProyectoAnimalAbstracto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimalAbstracto\ProyectoAnimalAbstracto\obj\Debug\net8.0\ProyectoAnimalAbstracto.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimalAbstracto\ProyectoAnimalAbstracto\obj\Debug\net8.0\ProyectoAnimalAbstracto.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimalAbstracto\ProyectoAnimalAbstracto\obj\Debug\net8.0\ProyectoAnimalAbstracto.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimalAbstracto\ProyectoAnimalAbstracto\obj\Debug\net8.0\ProyectoAnimalAbstracto.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimalAbstracto\ProyectoAnimalAbstracto\obj\Debug\net8.0\ProyectoAnimalAbstracto.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimalAbstracto\ProyectoAnimalAbstracto\obj\Debug\net8.0\refint\ProyectoAnimalAbstracto.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimalAbstracto\ProyectoAnimalAbstracto\obj\Debug\net8.0\ProyectoAnimalAbstracto.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimalAbstracto\ProyectoAnimalAbstracto\obj\Debug\net8.0\ProyectoAnimalAbstracto.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAnimalAbstracto\ProyectoAnimalAbstracto\obj\Debug\net8.0\ref\ProyectoAnimalAbstracto.dll
