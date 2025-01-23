@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\Plantilla\bin\Debug\net8.0\Plantilla.exe
+C:\Users\gabri\source\repos\Plantilla\bin\Debug\net8.0\Plantilla.deps.json
+C:\Users\gabri\source\repos\Plantilla\bin\Debug\net8.0\Plantilla.runtimeconfig.json
+C:\Users\gabri\source\repos\Plantilla\bin\Debug\net8.0\Plantilla.dll
+C:\Users\gabri\source\repos\Plantilla\bin\Debug\net8.0\Plantilla.pdb
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\Plantilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\Plantilla.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\Plantilla.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\Plantilla.dll
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\refint\Plantilla.dll
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\Plantilla.pdb
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\Plantilla.genruntimeconfig.cache
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\ref\Plantilla.dll

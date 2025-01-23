@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\ProyectoZoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\ProyectoZoologico.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\ProyectoZoologico.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\ProyectoZoologico.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Plantilla\bin\Debug\net8.0\ProyectoZoologico.exe
+C:\Users\gabri\source\repos\Plantilla\bin\Debug\net8.0\ProyectoZoologico.deps.json
+C:\Users\gabri\source\repos\Plantilla\bin\Debug\net8.0\ProyectoZoologico.runtimeconfig.json
+C:\Users\gabri\source\repos\Plantilla\bin\Debug\net8.0\ProyectoZoologico.dll
+C:\Users\gabri\source\repos\Plantilla\bin\Debug\net8.0\ProyectoZoologico.pdb
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\ProyectoZoologico.dll
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\refint\ProyectoZoologico.dll
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\ProyectoZoologico.pdb
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\ProyectoZoologico.genruntimeconfig.cache
+C:\Users\gabri\source\repos\Plantilla\obj\Debug\net8.0\ref\ProyectoZoologico.dll

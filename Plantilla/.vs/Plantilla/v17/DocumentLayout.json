@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Plantilla\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\Plantilla\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2D6872C-B599-4036-868D-35C74317C914}|Plantilla\\Plantilla.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\plantilla\\plantilla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2D6872C-B599-4036-868D-35C74317C914}|Plantilla\\Plantilla.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\plantilla\\plantilla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2D6872C-B599-4036-868D-35C74317C914}|Plantilla\\Plantilla.csproj|solutionrelative:plantilla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Plantilla\\Plantilla\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\Plantilla\\Plantilla\\Program.cs",
               "RelativeDocumentMoniker": "Plantilla\\Program.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\Plantilla\\Plantilla\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\Plantilla\\Plantilla\\Program.cs",
               "RelativeToolTip": "Plantilla\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T10:18:35.21Z",
               "EditorCaption": ""
