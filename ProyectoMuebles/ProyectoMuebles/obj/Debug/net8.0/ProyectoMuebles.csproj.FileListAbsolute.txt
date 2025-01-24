@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuebles\ProyectoMuebles\bin\Debug\net8.0\ProyectoMuebles.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuebles\ProyectoMuebles\bin\Debug\net8.0\ProyectoMuebles.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuebles\ProyectoMuebles\bin\Debug\net8.0\ProyectoMuebles.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuebles\ProyectoMuebles\bin\Debug\net8.0\ProyectoMuebles.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuebles\ProyectoMuebles\bin\Debug\net8.0\ProyectoMuebles.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuebles\ProyectoMuebles\obj\Debug\net8.0\ProyectoMuebles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuebles\ProyectoMuebles\obj\Debug\net8.0\ProyectoMuebles.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuebles\ProyectoMuebles\obj\Debug\net8.0\ProyectoMuebles.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuebles\ProyectoMuebles\obj\Debug\net8.0\ProyectoMuebles.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuebles\ProyectoMuebles\obj\Debug\net8.0\ProyectoMuebles.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuebles\ProyectoMuebles\obj\Debug\net8.0\ProyectoMuebles.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuebles\ProyectoMuebles\obj\Debug\net8.0\refint\ProyectoMuebles.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuebles\ProyectoMuebles\obj\Debug\net8.0\ProyectoMuebles.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuebles\ProyectoMuebles\obj\Debug\net8.0\ProyectoMuebles.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuebles\ProyectoMuebles\obj\Debug\net8.0\ref\ProyectoMuebles.dll

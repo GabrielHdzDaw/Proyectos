@@ -1,5 +1,5 @@
-﻿/* Autor: $username$
-   Fecha: $date$
+﻿/* Autor: Gabriel
+   Fecha: 23/1/2025
    Descripción:
 Ejercicio: Animales y Hábitat
 . Crea una clase Animal con los atributos nombre y tipoAlimentacion (herbívoro, carnívoro,
@@ -25,11 +25,11 @@ namespace ProyectoZoologico
     {
         static void Main(string[] args)
         {
-            
-            Animal leon = new Animal("león", "carnívoro", new Habitat("sabana"));
-            Pez pez = new Pez();
-            Animal oso = new Animal("oso", "carnívoro", new Habitat("bosque"));
-            Animal[] animales = { leon, pez, oso};
+            Animal[] animales = {
+                new Animal("león", "carnívoro", new Habitat("sabana")),
+                new Pez(),
+                new Animal("oso", "carnívoro", new Habitat("bosque"))
+            };
 
             Zoologico zoo = new Zoologico(animales);
 

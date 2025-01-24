@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVehiculoAbstracto\ProyectoVehiculoAbstracto\bin\Debug\net8.0\ProyectoVehiculoAbstracto.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVehiculoAbstracto\ProyectoVehiculoAbstracto\bin\Debug\net8.0\ProyectoVehiculoAbstracto.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVehiculoAbstracto\ProyectoVehiculoAbstracto\bin\Debug\net8.0\ProyectoVehiculoAbstracto.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVehiculoAbstracto\ProyectoVehiculoAbstracto\bin\Debug\net8.0\ProyectoVehiculoAbstracto.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVehiculoAbstracto\ProyectoVehiculoAbstracto\bin\Debug\net8.0\ProyectoVehiculoAbstracto.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVehiculoAbstracto\ProyectoVehiculoAbstracto\obj\Debug\net8.0\ProyectoVehiculoAbstracto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVehiculoAbstracto\ProyectoVehiculoAbstracto\obj\Debug\net8.0\ProyectoVehiculoAbstracto.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVehiculoAbstracto\ProyectoVehiculoAbstracto\obj\Debug\net8.0\ProyectoVehiculoAbstracto.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVehiculoAbstracto\ProyectoVehiculoAbstracto\obj\Debug\net8.0\ProyectoVehiculoAbstracto.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVehiculoAbstracto\ProyectoVehiculoAbstracto\obj\Debug\net8.0\ProyectoVehiculoAbstracto.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVehiculoAbstracto\ProyectoVehiculoAbstracto\obj\Debug\net8.0\ProyectoVehiculoAbstracto.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVehiculoAbstracto\ProyectoVehiculoAbstracto\obj\Debug\net8.0\refint\ProyectoVehiculoAbstracto.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVehiculoAbstracto\ProyectoVehiculoAbstracto\obj\Debug\net8.0\ProyectoVehiculoAbstracto.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVehiculoAbstracto\ProyectoVehiculoAbstracto\obj\Debug\net8.0\ProyectoVehiculoAbstracto.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoVehiculoAbstracto\ProyectoVehiculoAbstracto\obj\Debug\net8.0\ref\ProyectoVehiculoAbstracto.dll
