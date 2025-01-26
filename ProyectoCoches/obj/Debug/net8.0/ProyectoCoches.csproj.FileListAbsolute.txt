@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCoches\bin\Debug\net8.0\ProyectoCoches.exe
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCoches\bin\Debug\net8.0\ProyectoCoches.deps.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCoches\bin\Debug\net8.0\ProyectoCoches.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCoches\bin\Debug\net8.0\ProyectoCoches.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCoches\bin\Debug\net8.0\ProyectoCoches.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCoches\obj\Debug\net8.0\ProyectoCoches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCoches\obj\Debug\net8.0\ProyectoCoches.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCoches\obj\Debug\net8.0\ProyectoCoches.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCoches\obj\Debug\net8.0\ProyectoCoches.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCoches\obj\Debug\net8.0\ProyectoCoches.sourcelink.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCoches\obj\Debug\net8.0\ProyectoCoches.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCoches\obj\Debug\net8.0\refint\ProyectoCoches.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCoches\obj\Debug\net8.0\ProyectoCoches.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCoches\obj\Debug\net8.0\ProyectoCoches.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCoches\obj\Debug\net8.0\ref\ProyectoCoches.dll

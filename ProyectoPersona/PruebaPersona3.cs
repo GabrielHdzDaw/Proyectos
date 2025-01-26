@@ -11,7 +11,7 @@ namespace ProyectoPersona
         public static void Main()
         {
             PersonaInglesa personaInglesa = new PersonaInglesa("Jimmy");
-            PersonaItaliana personaItaliana = new PersonaItaliana("Federico");
+            PersonaItaliana personaItaliana = new PersonaItaliana();
 
             personaInglesa.Saludar();
             personaItaliana.Saludar();

@@ -10,6 +10,16 @@ namespace ProyectoLibros
     {
         protected int paginas;
 
+        public Libro(string autor, string titulo, string ubicacion, int paginas) : base(autor, titulo, ubicacion) 
+        {
+            Console.WriteLine("Creando libro");
+            this.paginas = paginas;
+        }
+
+        public Libro(string autor, string titulo) : base(autor, titulo, "No detallada")
+        {
+            Console.WriteLine("Creando libro");
+        }
         public void SetPaginas(int paginas)
         { 
             this.paginas = paginas; 
@@ -19,34 +29,6 @@ namespace ProyectoLibros
             return this.paginas;
         }
 
-        //public void SetAutor(string autor)
-        //{
-        //    this.autor = autor; 
-        //}
-
-        //public void SetTitulo(string titulo)
-        //{
-        //    this.titulo = titulo;
-        //}
-
-        //public void SetUbicacion(string ubicacion)
-        //{
-        //    this.ubicacion = ubicacion;
-        //}
         
-        //public string GetAutor()
-        //{
-        //    return this.autor; 
-        //}
-
-        //public string GetTitulo()
-        //{
-        //    return this.titulo;
-        //}
-
-        //public string GetUbicacion()
-        //{
-        //    return this.ubicacion;
-        //}
     }
 }

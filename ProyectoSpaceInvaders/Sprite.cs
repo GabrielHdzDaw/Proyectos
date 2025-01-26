@@ -10,8 +10,15 @@ namespace ProyectoSpaceInvaders
     {
         protected int x;
         protected int y;
-        string imagen = "][";
+        protected string imagen;
 
+        public Sprite(int x, int y, string imagen)
+        {
+            Console.WriteLine("Creando sprite");
+            this.x = x;
+            this.y = y;
+            this.imagen = imagen;
+        }
         public void SetX(int x)
         {
             this.x = x;

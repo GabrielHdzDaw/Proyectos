@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\Documents\\DAW\\Programación\\ProyectoPersona\\ProyectoPersona.csproj": {}
+    "C:\\Users\\gabri\\Documents\\DAW\\Programación\\Proyectos\\ProyectoPersona\\ProyectoPersona.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\Documents\\DAW\\Programación\\ProyectoPersona\\ProyectoPersona.csproj": {
+    "C:\\Users\\gabri\\Documents\\DAW\\Programación\\Proyectos\\ProyectoPersona\\ProyectoPersona.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\Documents\\DAW\\Programación\\ProyectoPersona\\ProyectoPersona.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\Documents\\DAW\\Programación\\Proyectos\\ProyectoPersona\\ProyectoPersona.csproj",
         "projectName": "ProyectoPersona",
-        "projectPath": "C:\\Users\\gabri\\Documents\\DAW\\Programación\\ProyectoPersona\\ProyectoPersona.csproj",
+        "projectPath": "C:\\Users\\gabri\\Documents\\DAW\\Programación\\Proyectos\\ProyectoPersona\\ProyectoPersona.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\Documents\\DAW\\Programación\\ProyectoPersona\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\Documents\\DAW\\Programación\\Proyectos\\ProyectoPersona\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8,9 +8,9 @@ namespace ProyectoPersona
 {
     internal class PersonaItaliana:Persona
     {
-        public PersonaItaliana(string nombre):base() 
+        public PersonaItaliana():base() 
         {
-            base.nombre = nombre;
+            
         }
         public override void Saludar()
         {

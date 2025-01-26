@@ -9,7 +9,7 @@ namespace ProyectoPersona
     internal class PersonaInglesa:Persona
     {
 
-        public PersonaInglesa() : base() { }
+        public PersonaInglesa() : base("Jhon") { }
 
         public PersonaInglesa(string nombre) : base() 
         {

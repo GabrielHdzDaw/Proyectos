@@ -9,8 +9,8 @@ namespace ProyectoPersona
     internal class Persona
     {
         protected string nombre;
-        int edad;
-        int altura;
+        protected int edad;
+        protected int altura;
 
         public Persona(string nombre, int edad, int altura)
         {
@@ -70,6 +70,11 @@ namespace ProyectoPersona
         virtual public void Saludar()
         {
             Console.WriteLine($"Hola, soy {this.nombre}");
+        }
+
+        virtual public void Saludar(string saludo)
+        {
+            Console.WriteLine($"Hola, soy {this.nombre}. {saludo}");
         }
 
         public override string ToString()

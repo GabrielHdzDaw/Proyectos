@@ -8,5 +8,12 @@ namespace ProyectoCoches
 {
     internal class Moto:Vehiculo
     {
+        public Moto(string marca, string modelo, int cilindrada, double potencia) : base(marca, modelo, cilindrada, potencia, 2)
+        {
+            Console.WriteLine("Constructor moto");
+
+        }
+
+        
     }
 }
