@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInterfazFiguras\ProyectoInterfazFiguras\bin\Debug\net8.0\ProyectoInterfazFiguras.exe
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInterfazFiguras\ProyectoInterfazFiguras\bin\Debug\net8.0\ProyectoInterfazFiguras.deps.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInterfazFiguras\ProyectoInterfazFiguras\bin\Debug\net8.0\ProyectoInterfazFiguras.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInterfazFiguras\ProyectoInterfazFiguras\bin\Debug\net8.0\ProyectoInterfazFiguras.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInterfazFiguras\ProyectoInterfazFiguras\bin\Debug\net8.0\ProyectoInterfazFiguras.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInterfazFiguras\ProyectoInterfazFiguras\obj\Debug\net8.0\ProyectoInterfazFiguras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInterfazFiguras\ProyectoInterfazFiguras\obj\Debug\net8.0\ProyectoInterfazFiguras.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInterfazFiguras\ProyectoInterfazFiguras\obj\Debug\net8.0\ProyectoInterfazFiguras.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInterfazFiguras\ProyectoInterfazFiguras\obj\Debug\net8.0\ProyectoInterfazFiguras.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInterfazFiguras\ProyectoInterfazFiguras\obj\Debug\net8.0\ProyectoInterfazFiguras.sourcelink.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInterfazFiguras\ProyectoInterfazFiguras\obj\Debug\net8.0\ProyectoInterfazFiguras.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInterfazFiguras\ProyectoInterfazFiguras\obj\Debug\net8.0\refint\ProyectoInterfazFiguras.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInterfazFiguras\ProyectoInterfazFiguras\obj\Debug\net8.0\ProyectoInterfazFiguras.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInterfazFiguras\ProyectoInterfazFiguras\obj\Debug\net8.0\ProyectoInterfazFiguras.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInterfazFiguras\ProyectoInterfazFiguras\obj\Debug\net8.0\ref\ProyectoInterfazFiguras.dll

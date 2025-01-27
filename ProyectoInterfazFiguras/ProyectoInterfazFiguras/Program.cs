@@ -13,7 +13,11 @@ namespace ProyectoInterfazFiguras
     {
         static void Main(string[] args)
         {
-            FiguraG triangulo = new Triangulo(2, 5, 3, 7);
+            FiguraG triangulo = new Triangulo(10, 25, 20, 35);
+            FiguraG cuadrado = new Cuadrado(1, 10, 2, 15);
+
+            ((IDibujable)triangulo).Dibujar();
+            //((IDibujable)cuadrado).Dibujar();
         }
     }
 }
