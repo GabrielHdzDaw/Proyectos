@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMediaNota\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8AB5A2-E71C-42CB-ABFB-917BCA392C17}|ProyectoMediaNota\\ProyectoMediaNota.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomedianota\\proyectomedianota\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8AB5A2-E71C-42CB-ABFB-917BCA392C17}|ProyectoMediaNota\\ProyectoMediaNota.csproj|solutionrelative:proyectomedianota\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8AB5A2-E71C-42CB-ABFB-917BCA392C17}|ProyectoMediaNota\\ProyectoMediaNota.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomedianota\\proyectomedianota\\pruebamedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8AB5A2-E71C-42CB-ABFB-917BCA392C17}|ProyectoMediaNota\\ProyectoMediaNota.csproj|solutionrelative:proyectomedianota\\pruebamedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8AB5A2-E71C-42CB-ABFB-917BCA392C17}|ProyectoMediaNota\\ProyectoMediaNota.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomedianota\\proyectomedianota\\sonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8AB5A2-E71C-42CB-ABFB-917BCA392C17}|ProyectoMediaNota\\ProyectoMediaNota.csproj|solutionrelative:proyectomedianota\\sonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8AB5A2-E71C-42CB-ABFB-917BCA392C17}|ProyectoMediaNota\\ProyectoMediaNota.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomedianota\\proyectomedianota\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8AB5A2-E71C-42CB-ABFB-917BCA392C17}|ProyectoMediaNota\\ProyectoMediaNota.csproj|solutionrelative:proyectomedianota\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8AB5A2-E71C-42CB-ABFB-917BCA392C17}|ProyectoMediaNota\\ProyectoMediaNota.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomedianota\\proyectomedianota\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8AB5A2-E71C-42CB-ABFB-917BCA392C17}|ProyectoMediaNota\\ProyectoMediaNota.csproj|solutionrelative:proyectomedianota\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMediaNota\\ProyectoMediaNota\\Video.cs",
+              "RelativeDocumentMoniker": "ProyectoMediaNota\\Video.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMediaNota\\ProyectoMediaNota\\Video.cs",
+              "RelativeToolTip": "ProyectoMediaNota\\Video.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA9wC4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:21:54.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sonido.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMediaNota\\ProyectoMediaNota\\Sonido.cs",
+              "RelativeDocumentMoniker": "ProyectoMediaNota\\Sonido.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMediaNota\\ProyectoMediaNota\\Sonido.cs",
+              "RelativeToolTip": "ProyectoMediaNota\\Sonido.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:14:30.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMediaNota\\ProyectoMediaNota\\Imagen.cs",
+              "RelativeDocumentMoniker": "ProyectoMediaNota\\Imagen.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMediaNota\\ProyectoMediaNota\\Imagen.cs",
+              "RelativeToolTip": "ProyectoMediaNota\\Imagen.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwC4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:10:56.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMediaNota\\ProyectoMediaNota\\Media.cs",
+              "RelativeDocumentMoniker": "ProyectoMediaNota\\Media.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMediaNota\\ProyectoMediaNota\\Media.cs",
+              "RelativeToolTip": "ProyectoMediaNota\\Media.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:06:31.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PruebaMedia.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMediaNota\\ProyectoMediaNota\\PruebaMedia.cs",
+              "RelativeDocumentMoniker": "ProyectoMediaNota\\PruebaMedia.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMediaNota\\ProyectoMediaNota\\PruebaMedia.cs",
+              "RelativeToolTip": "ProyectoMediaNota\\PruebaMedia.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:06:01.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMediaNota\ProyectoMediaNota\bin\Debug\net8.0\ProyectoMediaNota.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMediaNota\ProyectoMediaNota\bin\Debug\net8.0\ProyectoMediaNota.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMediaNota\ProyectoMediaNota\bin\Debug\net8.0\ProyectoMediaNota.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMediaNota\ProyectoMediaNota\bin\Debug\net8.0\ProyectoMediaNota.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMediaNota\ProyectoMediaNota\bin\Debug\net8.0\ProyectoMediaNota.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMediaNota\ProyectoMediaNota\obj\Debug\net8.0\ProyectoMediaNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMediaNota\ProyectoMediaNota\obj\Debug\net8.0\ProyectoMediaNota.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMediaNota\ProyectoMediaNota\obj\Debug\net8.0\ProyectoMediaNota.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMediaNota\ProyectoMediaNota\obj\Debug\net8.0\ProyectoMediaNota.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMediaNota\ProyectoMediaNota\obj\Debug\net8.0\ProyectoMediaNota.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMediaNota\ProyectoMediaNota\obj\Debug\net8.0\ProyectoMediaNota.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMediaNota\ProyectoMediaNota\obj\Debug\net8.0\refint\ProyectoMediaNota.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMediaNota\ProyectoMediaNota\obj\Debug\net8.0\ProyectoMediaNota.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMediaNota\ProyectoMediaNota\obj\Debug\net8.0\ProyectoMediaNota.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMediaNota\ProyectoMediaNota\obj\Debug\net8.0\ref\ProyectoMediaNota.dll

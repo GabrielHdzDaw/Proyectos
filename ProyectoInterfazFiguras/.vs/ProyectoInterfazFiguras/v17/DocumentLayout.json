@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoInterfazFiguras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B1CB2D-E293-49EB-B0DA-6D469B09DDE4}|ProyectoInterfazFiguras\\ProyectoInterfazFiguras.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectointerfazfiguras\\proyectointerfazfiguras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B1CB2D-E293-49EB-B0DA-6D469B09DDE4}|ProyectoInterfazFiguras\\ProyectoInterfazFiguras.csproj|solutionrelative:proyectointerfazfiguras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B1CB2D-E293-49EB-B0DA-6D469B09DDE4}|ProyectoInterfazFiguras\\ProyectoInterfazFiguras.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectointerfazfiguras\\proyectointerfazfiguras\\figurag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B1CB2D-E293-49EB-B0DA-6D469B09DDE4}|ProyectoInterfazFiguras\\ProyectoInterfazFiguras.csproj|solutionrelative:proyectointerfazfiguras\\figurag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B1CB2D-E293-49EB-B0DA-6D469B09DDE4}|ProyectoInterfazFiguras\\ProyectoInterfazFiguras.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectointerfazfiguras\\proyectointerfazfiguras\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B1CB2D-E293-49EB-B0DA-6D469B09DDE4}|ProyectoInterfazFiguras\\ProyectoInterfazFiguras.csproj|solutionrelative:proyectointerfazfiguras\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B1CB2D-E293-49EB-B0DA-6D469B09DDE4}|ProyectoInterfazFiguras\\ProyectoInterfazFiguras.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectointerfazfiguras\\proyectointerfazfiguras\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B1CB2D-E293-49EB-B0DA-6D469B09DDE4}|ProyectoInterfazFiguras\\ProyectoInterfazFiguras.csproj|solutionrelative:proyectointerfazfiguras\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B1CB2D-E293-49EB-B0DA-6D469B09DDE4}|ProyectoInterfazFiguras\\ProyectoInterfazFiguras.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectointerfazfiguras\\proyectointerfazfiguras\\idibujable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B1CB2D-E293-49EB-B0DA-6D469B09DDE4}|ProyectoInterfazFiguras\\ProyectoInterfazFiguras.csproj|solutionrelative:proyectointerfazfiguras\\idibujable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B1CB2D-E293-49EB-B0DA-6D469B09DDE4}|ProyectoInterfazFiguras\\ProyectoInterfazFiguras.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectointerfazfiguras\\proyectointerfazfiguras\\imedible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B1CB2D-E293-49EB-B0DA-6D469B09DDE4}|ProyectoInterfazFiguras\\ProyectoInterfazFiguras.csproj|solutionrelative:proyectointerfazfiguras\\imedible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoInterfazFiguras\\ProyectoInterfazFiguras\\Triangulo.cs",
+              "RelativeDocumentMoniker": "ProyectoInterfazFiguras\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoInterfazFiguras\\ProyectoInterfazFiguras\\Triangulo.cs",
+              "RelativeToolTip": "ProyectoInterfazFiguras\\Triangulo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:36:04.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoInterfazFiguras\\ProyectoInterfazFiguras\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "ProyectoInterfazFiguras\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoInterfazFiguras\\ProyectoInterfazFiguras\\Cuadrado.cs",
+              "RelativeToolTip": "ProyectoInterfazFiguras\\Cuadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:35:47.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FiguraG.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoInterfazFiguras\\ProyectoInterfazFiguras\\FiguraG.cs",
+              "RelativeDocumentMoniker": "ProyectoInterfazFiguras\\FiguraG.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoInterfazFiguras\\ProyectoInterfazFiguras\\FiguraG.cs",
+              "RelativeToolTip": "ProyectoInterfazFiguras\\FiguraG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:33:17.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDibujable.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoInterfazFiguras\\ProyectoInterfazFiguras\\IDibujable.cs",
+              "RelativeDocumentMoniker": "ProyectoInterfazFiguras\\IDibujable.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoInterfazFiguras\\ProyectoInterfazFiguras\\IDibujable.cs",
+              "RelativeToolTip": "ProyectoInterfazFiguras\\IDibujable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:32:47.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMedible.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoInterfazFiguras\\ProyectoInterfazFiguras\\IMedible.cs",
+              "RelativeDocumentMoniker": "ProyectoInterfazFiguras\\IMedible.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoInterfazFiguras\\ProyectoInterfazFiguras\\IMedible.cs",
+              "RelativeToolTip": "ProyectoInterfazFiguras\\IMedible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:31:38.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoInterfazFiguras\\ProyectoInterfazFiguras\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoInterfazFiguras\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoInterfazFiguras\\ProyectoInterfazFiguras\\Program.cs",
+              "RelativeToolTip": "ProyectoInterfazFiguras\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:30:50.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

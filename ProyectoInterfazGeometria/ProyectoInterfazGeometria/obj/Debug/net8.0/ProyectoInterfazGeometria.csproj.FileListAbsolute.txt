@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoInterfazGeometria\ProyectoInterfazGeometria\bin\Debug\net8.0\ProyectoInterfazGeometria.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoInterfazGeometria\ProyectoInterfazGeometria\bin\Debug\net8.0\ProyectoInterfazGeometria.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoInterfazGeometria\ProyectoInterfazGeometria\bin\Debug\net8.0\ProyectoInterfazGeometria.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoInterfazGeometria\ProyectoInterfazGeometria\bin\Debug\net8.0\ProyectoInterfazGeometria.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoInterfazGeometria\ProyectoInterfazGeometria\bin\Debug\net8.0\ProyectoInterfazGeometria.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoInterfazGeometria\ProyectoInterfazGeometria\obj\Debug\net8.0\ProyectoInterfazGeometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoInterfazGeometria\ProyectoInterfazGeometria\obj\Debug\net8.0\ProyectoInterfazGeometria.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoInterfazGeometria\ProyectoInterfazGeometria\obj\Debug\net8.0\ProyectoInterfazGeometria.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoInterfazGeometria\ProyectoInterfazGeometria\obj\Debug\net8.0\ProyectoInterfazGeometria.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoInterfazGeometria\ProyectoInterfazGeometria\obj\Debug\net8.0\ProyectoInterfazGeometria.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoInterfazGeometria\ProyectoInterfazGeometria\obj\Debug\net8.0\ProyectoInterfazGeometria.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoInterfazGeometria\ProyectoInterfazGeometria\obj\Debug\net8.0\refint\ProyectoInterfazGeometria.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoInterfazGeometria\ProyectoInterfazGeometria\obj\Debug\net8.0\ProyectoInterfazGeometria.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoInterfazGeometria\ProyectoInterfazGeometria\obj\Debug\net8.0\ProyectoInterfazGeometria.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoInterfazGeometria\ProyectoInterfazGeometria\obj\Debug\net8.0\ref\ProyectoInterfazGeometria.dll
