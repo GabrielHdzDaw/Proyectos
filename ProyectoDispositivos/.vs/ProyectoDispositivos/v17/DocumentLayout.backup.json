@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20B6F65C-C8F6-4F1A-A0ED-0E4886B9655F}|ProyectoDispositivos\\ProyectoDispositivos.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectodispositivos\\proyectodispositivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B6F65C-C8F6-4F1A-A0ED-0E4886B9655F}|ProyectoDispositivos\\ProyectoDispositivos.csproj|solutionrelative:proyectodispositivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B6F65C-C8F6-4F1A-A0ED-0E4886B9655F}|ProyectoDispositivos\\ProyectoDispositivos.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectodispositivos\\proyectodispositivos\\tactil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B6F65C-C8F6-4F1A-A0ED-0E4886B9655F}|ProyectoDispositivos\\ProyectoDispositivos.csproj|solutionrelative:proyectodispositivos\\tactil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B6F65C-C8F6-4F1A-A0ED-0E4886B9655F}|ProyectoDispositivos\\ProyectoDispositivos.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectodispositivos\\proyectodispositivos\\conteclado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B6F65C-C8F6-4F1A-A0ED-0E4886B9655F}|ProyectoDispositivos\\ProyectoDispositivos.csproj|solutionrelative:proyectodispositivos\\conteclado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B6F65C-C8F6-4F1A-A0ED-0E4886B9655F}|ProyectoDispositivos\\ProyectoDispositivos.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectodispositivos\\proyectodispositivos\\ordenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B6F65C-C8F6-4F1A-A0ED-0E4886B9655F}|ProyectoDispositivos\\ProyectoDispositivos.csproj|solutionrelative:proyectodispositivos\\ordenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B6F65C-C8F6-4F1A-A0ED-0E4886B9655F}|ProyectoDispositivos\\ProyectoDispositivos.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectodispositivos\\proyectodispositivos\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B6F65C-C8F6-4F1A-A0ED-0E4886B9655F}|ProyectoDispositivos\\ProyectoDispositivos.csproj|solutionrelative:proyectodispositivos\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B6F65C-C8F6-4F1A-A0ED-0E4886B9655F}|ProyectoDispositivos\\ProyectoDispositivos.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectodispositivos\\proyectodispositivos\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B6F65C-C8F6-4F1A-A0ED-0E4886B9655F}|ProyectoDispositivos\\ProyectoDispositivos.csproj|solutionrelative:proyectodispositivos\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B6F65C-C8F6-4F1A-A0ED-0E4886B9655F}|ProyectoDispositivos\\ProyectoDispositivos.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectodispositivos\\proyectodispositivos\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B6F65C-C8F6-4F1A-A0ED-0E4886B9655F}|ProyectoDispositivos\\ProyectoDispositivos.csproj|solutionrelative:proyectodispositivos\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tablet.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\ProyectoDispositivos\\Tablet.cs",
+              "RelativeDocumentMoniker": "ProyectoDispositivos\\Tablet.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\ProyectoDispositivos\\Tablet.cs",
+              "RelativeToolTip": "ProyectoDispositivos\\Tablet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:35:13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dispositivo.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\ProyectoDispositivos\\Dispositivo.cs",
+              "RelativeDocumentMoniker": "ProyectoDispositivos\\Dispositivo.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\ProyectoDispositivos\\Dispositivo.cs",
+              "RelativeToolTip": "ProyectoDispositivos\\Dispositivo.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:11:54.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ordenador.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\ProyectoDispositivos\\Ordenador.cs",
+              "RelativeDocumentMoniker": "ProyectoDispositivos\\Ordenador.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\ProyectoDispositivos\\Ordenador.cs",
+              "RelativeToolTip": "ProyectoDispositivos\\Ordenador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:19:36.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConTeclado.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\ProyectoDispositivos\\ConTeclado.cs",
+              "RelativeDocumentMoniker": "ProyectoDispositivos\\ConTeclado.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\ProyectoDispositivos\\ConTeclado.cs",
+              "RelativeToolTip": "ProyectoDispositivos\\ConTeclado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:19:19.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\ProyectoDispositivos\\Smartphone.cs",
+              "RelativeDocumentMoniker": "ProyectoDispositivos\\Smartphone.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\ProyectoDispositivos\\Smartphone.cs",
+              "RelativeToolTip": "ProyectoDispositivos\\Smartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:18:41.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tactil.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\ProyectoDispositivos\\Tactil.cs",
+              "RelativeDocumentMoniker": "ProyectoDispositivos\\Tactil.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\ProyectoDispositivos\\Tactil.cs",
+              "RelativeToolTip": "ProyectoDispositivos\\Tactil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:18:08.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\ProyectoDispositivos\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoDispositivos\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\ProyectoDispositivos\\Program.cs",
+              "RelativeToolTip": "ProyectoDispositivos\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:05:35.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

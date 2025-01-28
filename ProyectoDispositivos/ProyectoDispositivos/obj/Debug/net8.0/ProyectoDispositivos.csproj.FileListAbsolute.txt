@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDispositivos\ProyectoDispositivos\obj\Debug\net8.0\ProyectoDispositivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDispositivos\ProyectoDispositivos\obj\Debug\net8.0\ProyectoDispositivos.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDispositivos\ProyectoDispositivos\obj\Debug\net8.0\ProyectoDispositivos.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDispositivos\ProyectoDispositivos\obj\Debug\net8.0\ProyectoDispositivos.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDispositivos\ProyectoDispositivos\obj\Debug\net8.0\ProyectoDispositivos.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDispositivos\ProyectoDispositivos\bin\Debug\net8.0\ProyectoDispositivos.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDispositivos\ProyectoDispositivos\bin\Debug\net8.0\ProyectoDispositivos.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDispositivos\ProyectoDispositivos\bin\Debug\net8.0\ProyectoDispositivos.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDispositivos\ProyectoDispositivos\bin\Debug\net8.0\ProyectoDispositivos.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDispositivos\ProyectoDispositivos\bin\Debug\net8.0\ProyectoDispositivos.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDispositivos\ProyectoDispositivos\obj\Debug\net8.0\ProyectoDispositivos.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDispositivos\ProyectoDispositivos\obj\Debug\net8.0\refint\ProyectoDispositivos.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDispositivos\ProyectoDispositivos\obj\Debug\net8.0\ProyectoDispositivos.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDispositivos\ProyectoDispositivos\obj\Debug\net8.0\ProyectoDispositivos.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDispositivos\ProyectoDispositivos\obj\Debug\net8.0\ref\ProyectoDispositivos.dll

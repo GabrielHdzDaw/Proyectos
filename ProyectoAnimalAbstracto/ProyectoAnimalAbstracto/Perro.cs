@@ -8,9 +8,9 @@ namespace ProyectoAnimalAbstracto
 {
     internal class Perro:Animal
     {
-        public Perro(string nombre) : base("Toby") 
+        public Perro(string nombre, int edad) : base(nombre, edad) 
         { }
-
+        
         public override void Hablar()
         {
             Console.WriteLine("Guau!");

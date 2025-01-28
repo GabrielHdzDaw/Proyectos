@@ -8,7 +8,7 @@ namespace ProyectoAnimalAbstracto
 {
     internal abstract class Ave : Animal
     {
-        public Ave(string nombre) : base(nombre)
+        public Ave(string nombre, int edad) : base(nombre, edad)
         {
         }
 
