@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoMuseo", "ProyectoMuseo.csproj", "{BEF59EE8-E7DC-49E8-A106-F77EE8B7F559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF59EE8-E7DC-49E8-A106-F77EE8B7F559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF59EE8-E7DC-49E8-A106-F77EE8B7F559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF59EE8-E7DC-49E8-A106-F77EE8B7F559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF59EE8-E7DC-49E8-A106-F77EE8B7F559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {463F081E-EAE3-4037-AB68-22F77547EF23}
+	EndGlobalSection
+EndGlobal

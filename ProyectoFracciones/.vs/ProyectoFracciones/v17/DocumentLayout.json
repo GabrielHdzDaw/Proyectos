@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\ProyectoFracciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3908FC04-BB51-4424-AAD5-1444588C131D}|ProyectoFracciones.csproj|c:\\users\\gabri\\source\\repos\\proyectofracciones\\fraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3908FC04-BB51-4424-AAD5-1444588C131D}|ProyectoFracciones.csproj|solutionrelative:fraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3908FC04-BB51-4424-AAD5-1444588C131D}|ProyectoFracciones.csproj|c:\\users\\gabri\\source\\repos\\proyectofracciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3908FC04-BB51-4424-AAD5-1444588C131D}|ProyectoFracciones.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fraccion.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProyectoFracciones\\Fraccion.cs",
+              "RelativeDocumentMoniker": "Fraccion.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProyectoFracciones\\Fraccion.cs",
+              "RelativeToolTip": "Fraccion.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA0wDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:21:07.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProyectoFracciones\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProyectoFracciones\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:36:49.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

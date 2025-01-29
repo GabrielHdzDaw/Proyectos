@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\ProyectoMuseo\obj\Debug\net8.0\ProyectoMuseo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\ProyectoMuseo\obj\Debug\net8.0\ProyectoMuseo.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ProyectoMuseo\obj\Debug\net8.0\ProyectoMuseo.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ProyectoMuseo\obj\Debug\net8.0\ProyectoMuseo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ProyectoMuseo\bin\Debug\net8.0\ProyectoMuseo.exe
+C:\Users\gabri\source\repos\ProyectoMuseo\bin\Debug\net8.0\ProyectoMuseo.deps.json
+C:\Users\gabri\source\repos\ProyectoMuseo\bin\Debug\net8.0\ProyectoMuseo.runtimeconfig.json
+C:\Users\gabri\source\repos\ProyectoMuseo\bin\Debug\net8.0\ProyectoMuseo.dll
+C:\Users\gabri\source\repos\ProyectoMuseo\bin\Debug\net8.0\ProyectoMuseo.pdb
+C:\Users\gabri\source\repos\ProyectoMuseo\obj\Debug\net8.0\ProyectoMuseo.dll
+C:\Users\gabri\source\repos\ProyectoMuseo\obj\Debug\net8.0\refint\ProyectoMuseo.dll
+C:\Users\gabri\source\repos\ProyectoMuseo\obj\Debug\net8.0\ProyectoMuseo.pdb
+C:\Users\gabri\source\repos\ProyectoMuseo\obj\Debug\net8.0\ProyectoMuseo.genruntimeconfig.cache
+C:\Users\gabri\source\repos\ProyectoMuseo\obj\Debug\net8.0\ref\ProyectoMuseo.dll
