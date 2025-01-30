@@ -50,8 +50,7 @@
               "RelativeToolTip": "ProyectoDispositivos\\Tablet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:35:13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:35:13Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "ProyectoDispositivos\\Dispositivo.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAmwA8AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:11:54.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:11:54.361Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "ProyectoDispositivos\\Ordenador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:19:36.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:19:36.883Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "ProyectoDispositivos\\ConTeclado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:19:19.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:19:19.144Z"
             },
             {
               "$type": "Document",
@@ -102,8 +98,7 @@
               "RelativeToolTip": "ProyectoDispositivos\\Smartphone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:18:41.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:18:41.475Z"
             },
             {
               "$type": "Document",
@@ -115,8 +110,7 @@
               "RelativeToolTip": "ProyectoDispositivos\\Tactil.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T11:18:08.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:18:08.094Z"
             },
             {
               "$type": "Document",
@@ -126,7 +120,7 @@
               "RelativeDocumentMoniker": "ProyectoDispositivos\\Program.cs",
               "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoDispositivos\\ProyectoDispositivos\\Program.cs",
               "RelativeToolTip": "ProyectoDispositivos\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwEAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T11:05:35.163Z",
               "EditorCaption": ""

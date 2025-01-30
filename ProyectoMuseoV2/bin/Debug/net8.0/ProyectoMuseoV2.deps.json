@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProyectoMuseoV2/1.0.0": {
+        "runtime": {
+          "ProyectoMuseoV2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoMuseoV2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -57,23 +57,23 @@ namespace ProyectoMuseo
             this.nombre = nombre;
         }
 
-        public void SetAño(int año)
+        public void SetAno(int año)
         {
             this.año = año;
         }
 
         public int CompareTo(Obra obra)
         {
-            if (año == obra.GetAño())
+            if (año == obra.GetAno())
             {
                 return nombre.CompareTo(obra.GetNombre());
             }
-            return año.CompareTo(obra.GetAño());
+            return año.CompareTo(obra.GetAno());
         }
 
         public override string ToString()
         {
-            return $"\nPintura: {GetNombre()}\nAutor: {GetAutor()}\nAño: {GetAño()}\nPropietario: {GetPropietario()}";
+            return $"\nPintura: {GetNombre()}\nAutor: {GetAutor()}\nAño: {GetAno()}\nPropietario: {GetPropietario()}";
         }
     }
 }

@@ -47,8 +47,9 @@ namespace ProyectoIcomparable
             this.curso = curso;
         }
 
-        public int CompareTo(Alumno alumno)
+        public int CompareTo(Alumno? alumno)
         {
+            if (alumno == null) return 1;
             return edad.CompareTo(alumno.edad);
         }
 

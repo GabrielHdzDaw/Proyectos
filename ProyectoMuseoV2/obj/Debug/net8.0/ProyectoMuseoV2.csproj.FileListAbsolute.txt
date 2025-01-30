@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuseoV2\bin\Debug\net8.0\ProyectoMuseoV2.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuseoV2\bin\Debug\net8.0\ProyectoMuseoV2.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuseoV2\bin\Debug\net8.0\ProyectoMuseoV2.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuseoV2\bin\Debug\net8.0\ProyectoMuseoV2.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuseoV2\bin\Debug\net8.0\ProyectoMuseoV2.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuseoV2\obj\Debug\net8.0\ProyectoMuseoV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuseoV2\obj\Debug\net8.0\ProyectoMuseoV2.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuseoV2\obj\Debug\net8.0\ProyectoMuseoV2.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuseoV2\obj\Debug\net8.0\ProyectoMuseoV2.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuseoV2\obj\Debug\net8.0\ProyectoMuseoV2.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuseoV2\obj\Debug\net8.0\ProyectoMuseoV2.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuseoV2\obj\Debug\net8.0\refint\ProyectoMuseoV2.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuseoV2\obj\Debug\net8.0\ProyectoMuseoV2.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuseoV2\obj\Debug\net8.0\ProyectoMuseoV2.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMuseoV2\obj\Debug\net8.0\ref\ProyectoMuseoV2.dll

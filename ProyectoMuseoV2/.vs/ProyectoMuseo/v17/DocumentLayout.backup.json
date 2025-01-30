@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMuseoV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF59EE8-E7DC-49E8-A106-F77EE8B7F559}|ProyectoMuseo.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomuseov2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF59EE8-E7DC-49E8-A106-F77EE8B7F559}|ProyectoMuseo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF59EE8-E7DC-49E8-A106-F77EE8B7F559}|ProyectoMuseo.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomuseov2\\obra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF59EE8-E7DC-49E8-A106-F77EE8B7F559}|ProyectoMuseo.csproj|solutionrelative:obra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF59EE8-E7DC-49E8-A106-F77EE8B7F559}|ProyectoMuseo.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomuseov2\\pintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF59EE8-E7DC-49E8-A106-F77EE8B7F559}|ProyectoMuseo.csproj|solutionrelative:pintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF59EE8-E7DC-49E8-A106-F77EE8B7F559}|ProyectoMuseo.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomuseov2\\escultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF59EE8-E7DC-49E8-A106-F77EE8B7F559}|ProyectoMuseo.csproj|solutionrelative:escultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF59EE8-E7DC-49E8-A106-F77EE8B7F559}|ProyectoMuseo.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomuseov2\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF59EE8-E7DC-49E8-A106-F77EE8B7F559}|ProyectoMuseo.csproj|solutionrelative:autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMuseoV2\\Autor.cs",
+              "RelativeDocumentMoniker": "Autor.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMuseoV2\\Autor.cs",
+              "RelativeToolTip": "Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:02:21.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Escultura.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMuseoV2\\Escultura.cs",
+              "RelativeDocumentMoniker": "Escultura.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMuseoV2\\Escultura.cs",
+              "RelativeToolTip": "Escultura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:55:21.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pintura.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMuseoV2\\Pintura.cs",
+              "RelativeDocumentMoniker": "Pintura.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMuseoV2\\Pintura.cs",
+              "RelativeToolTip": "Pintura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:52:30.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Obra.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMuseoV2\\Obra.cs",
+              "RelativeDocumentMoniker": "Obra.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMuseoV2\\Obra.cs",
+              "RelativeToolTip": "Obra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:37:36.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMuseoV2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMuseoV2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:22:42.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
