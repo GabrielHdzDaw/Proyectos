@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoCentroCultural
 {
-    internal abstract class Material
+    internal abstract class Material:IComparable<Material>
     {
         int codigo;
         string titulo;
@@ -47,6 +47,12 @@ namespace ProyectoCentroCultural
         public void SetAutor(string autor)
         {
             this.autor = autor;
+        }
+
+        public int CompareTo(Material? material)
+        {
+            if (material == null) return 1;
+            return codigo.CompareTo(material.GetCodigo());
         }
 
         public override string ToString()

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoSimuladorInstituto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3983746A-2477-44CD-8DE8-83A775C5AB4F}|ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectosimuladorinstituto\\proyectosimuladorinstituto\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983746A-2477-44CD-8DE8-83A775C5AB4F}|ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto.csproj|solutionrelative:proyectosimuladorinstituto\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3983746A-2477-44CD-8DE8-83A775C5AB4F}|ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectosimuladorinstituto\\proyectosimuladorinstituto\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983746A-2477-44CD-8DE8-83A775C5AB4F}|ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto.csproj|solutionrelative:proyectosimuladorinstituto\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3983746A-2477-44CD-8DE8-83A775C5AB4F}|ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectosimuladorinstituto\\proyectosimuladorinstituto\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983746A-2477-44CD-8DE8-83A775C5AB4F}|ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto.csproj|solutionrelative:proyectosimuladorinstituto\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3983746A-2477-44CD-8DE8-83A775C5AB4F}|ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectosimuladorinstituto\\proyectosimuladorinstituto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983746A-2477-44CD-8DE8-83A775C5AB4F}|ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto.csproj|solutionrelative:proyectosimuladorinstituto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto\\Profesor.cs",
+              "RelativeDocumentMoniker": "ProyectoSimuladorInstituto\\Profesor.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto\\Profesor.cs*",
+              "RelativeToolTip": "ProyectoSimuladorInstituto\\Profesor.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:28:47.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto\\Alumno.cs",
+              "RelativeDocumentMoniker": "ProyectoSimuladorInstituto\\Alumno.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto\\Alumno.cs",
+              "RelativeToolTip": "ProyectoSimuladorInstituto\\Alumno.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:21:30.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto\\Persona.cs",
+              "RelativeDocumentMoniker": "ProyectoSimuladorInstituto\\Persona.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto\\Persona.cs",
+              "RelativeToolTip": "ProyectoSimuladorInstituto\\Persona.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:13:17.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoSimuladorInstituto\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoSimuladorInstituto\\ProyectoSimuladorInstituto\\Program.cs",
+              "RelativeToolTip": "ProyectoSimuladorInstituto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:11:20.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -10,7 +10,7 @@ namespace ProyectoCentroCultural
     {
         string discografia;
 
-        Disco(int codigo, string titulo, string autor, string discografia) : base(codigo, titulo, autor)
+        public Disco(int codigo, string titulo, string autor, string discografia) : base(codigo, titulo, autor)
         {
             this.discografia = discografia;
         }

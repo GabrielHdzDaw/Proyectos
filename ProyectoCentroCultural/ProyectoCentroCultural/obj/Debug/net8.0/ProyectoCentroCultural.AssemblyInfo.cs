@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoCentroCultural")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fe7e5a1c061d9e5b40113a2fc57f71c5e33a53a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24fe990933b5491c9f5d5019d4240486b63a9211")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoCentroCultural")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoCentroCultural")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,5 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoSimuladorInstituto\ProyectoSimuladorInstituto\obj\Debug\net8.0\ProyectoSimuladorInstituto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoSimuladorInstituto\ProyectoSimuladorInstituto\obj\Debug\net8.0\ProyectoSimuladorInstituto.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoSimuladorInstituto\ProyectoSimuladorInstituto\obj\Debug\net8.0\ProyectoSimuladorInstituto.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoSimuladorInstituto\ProyectoSimuladorInstituto\obj\Debug\net8.0\ProyectoSimuladorInstituto.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoSimuladorInstituto\ProyectoSimuladorInstituto\obj\Debug\net8.0\ProyectoSimuladorInstituto.sourcelink.json
