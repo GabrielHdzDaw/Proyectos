@@ -8,6 +8,7 @@ namespace ProyectoSimuladorInstituto
 {
     internal class Aula
     {
+        
         int numero;
         Alumno[] alumnos;
 
@@ -27,9 +28,25 @@ namespace ProyectoSimuladorInstituto
             this.numero = numero;
         }
 
+        public Alumno[] GetAlumnos()
+        {
+            return alumnos;
+        }
+
+        public void SetAlumnos(Alumno[] alumnos)
+        {
+            this.alumnos = alumnos;
+        }
+
+
         public override string ToString()
         {
-            return $"Número de aula: {numero}";
+            string alumnos = "";
+            foreach (Alumno alumno in this.alumnos)
+            {
+                alumnos += alumno.GetNombre() + ", ";
+            }
+            return $"Aula {numero}: {alumnos}";
         }
 
 

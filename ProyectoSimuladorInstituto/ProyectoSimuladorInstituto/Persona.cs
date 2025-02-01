@@ -37,15 +37,11 @@ namespace ProyectoSimuladorInstituto
             this.edad = edad;
         }
 
-        public virtual void MostrarEstado()
-        {
-            
-        }
+        public abstract void MostrarEstado();
 
-        public void Animar15minutos()
-        {
 
-        }
+        public abstract void Animar15minutos(DateTime fecha);
+       
 
         public override string ToString()
         {

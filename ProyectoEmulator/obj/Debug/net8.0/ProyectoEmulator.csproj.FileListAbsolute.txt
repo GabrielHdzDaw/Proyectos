@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\ProyectoEmulator\bin\Debug\net8.0\ProyectoEmulator.exe
+C:\Users\gabri\source\repos\ProyectoEmulator\bin\Debug\net8.0\ProyectoEmulator.deps.json
+C:\Users\gabri\source\repos\ProyectoEmulator\bin\Debug\net8.0\ProyectoEmulator.runtimeconfig.json
+C:\Users\gabri\source\repos\ProyectoEmulator\bin\Debug\net8.0\ProyectoEmulator.dll
+C:\Users\gabri\source\repos\ProyectoEmulator\bin\Debug\net8.0\ProyectoEmulator.pdb
+C:\Users\gabri\source\repos\ProyectoEmulator\obj\Debug\net8.0\ProyectoEmulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\ProyectoEmulator\obj\Debug\net8.0\ProyectoEmulator.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ProyectoEmulator\obj\Debug\net8.0\ProyectoEmulator.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ProyectoEmulator\obj\Debug\net8.0\ProyectoEmulator.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ProyectoEmulator\obj\Debug\net8.0\ProyectoEmulator.dll
+C:\Users\gabri\source\repos\ProyectoEmulator\obj\Debug\net8.0\refint\ProyectoEmulator.dll
+C:\Users\gabri\source\repos\ProyectoEmulator\obj\Debug\net8.0\ProyectoEmulator.pdb
+C:\Users\gabri\source\repos\ProyectoEmulator\obj\Debug\net8.0\ProyectoEmulator.genruntimeconfig.cache
+C:\Users\gabri\source\repos\ProyectoEmulator\obj\Debug\net8.0\ref\ProyectoEmulator.dll

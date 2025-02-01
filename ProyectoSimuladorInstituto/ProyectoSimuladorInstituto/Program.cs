@@ -44,16 +44,47 @@ namespace ProyectoSimuladorInstituto
     {
         static void Main(string[] args)
         {
+            DateTime fecha = new DateTime(2025, 1, 1, 0, 0, 0);
+
+            string hora = fecha.ToString("HH:mm");
+            string dia = fecha.ToString("dddd");
+
             Persona[] personas = {
                 new Conserje("Conserje", 50),
                 new Profesor("Profesor1", 40),
                 new Profesor("Profesor2", 45),
                 new Alumno("Alumno1", 15, 1),
-                new Alumno("Alumno2", 16, 2),
-                new Alumno("Alumno3", 17, 3),
-                new Alumno("Alumno4", 18, 4),
-                new Alumno("Alumno5", 19, 5)
+                new Alumno("Alumno2", 16, 1),
+                new Alumno("Alumno3", 17, 1),
+                new Alumno("Alumno4", 18, 2),
+                new Alumno("Alumno5", 19, 2)
             };
+
+            Alumno[] alumnosAula1 = { (Alumno)personas[3], (Alumno)personas[4], (Alumno)personas[5] };
+            Alumno[] alumnosAula2 = { (Alumno)personas[6], (Alumno)personas[7] };
+
+            Aula aula1 = new Aula(1, alumnosAula1);
+            Aula aula2 = new Aula(2, alumnosAula2);
+
+            while (true)
+            {
+                Console.WriteLine($"{dia} {hora}");
+                foreach (Persona persona in personas)
+                {
+                    persona.Animar15minutos(fecha);
+                    persona.MostrarEstado();
+                }
+                if(fecha.Hour > 7 && fecha.Hour <= 15)
+                {
+                    Console.WriteLine(aula1);
+                    Console.WriteLine(aula2);
+                }
+                Console.ReadLine();
+                fecha = fecha.AddMinutes(15);
+                hora = fecha.ToString("HH:mm");
+                dia = fecha.ToString("dddd");
+                Console.Clear();
+            }
         }
     }
 }

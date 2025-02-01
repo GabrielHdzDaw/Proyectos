@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\ProyectoEmulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80CB7B3D-5B7E-4E0A-BD25-588621CD9954}|ProyectoEmulator.csproj|c:\\users\\gabri\\source\\repos\\proyectoemulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CB7B3D-5B7E-4E0A-BD25-588621CD9954}|ProyectoEmulator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CB7B3D-5B7E-4E0A-BD25-588621CD9954}|ProyectoEmulator.csproj|c:\\users\\gabri\\source\\repos\\proyectoemulator\\procesadorz80.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CB7B3D-5B7E-4E0A-BD25-588621CD9954}|ProyectoEmulator.csproj|solutionrelative:procesadorz80.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CB7B3D-5B7E-4E0A-BD25-588621CD9954}|ProyectoEmulator.csproj|c:\\users\\gabri\\source\\repos\\proyectoemulator\\procesador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CB7B3D-5B7E-4E0A-BD25-588621CD9954}|ProyectoEmulator.csproj|solutionrelative:procesador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CB7B3D-5B7E-4E0A-BD25-588621CD9954}|ProyectoEmulator.csproj|c:\\users\\gabri\\source\\repos\\proyectoemulator\\procesador6502.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CB7B3D-5B7E-4E0A-BD25-588621CD9954}|ProyectoEmulator.csproj|solutionrelative:procesador6502.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CB7B3D-5B7E-4E0A-BD25-588621CD9954}|ProyectoEmulator.csproj|c:\\users\\gabri\\source\\repos\\proyectoemulator\\memoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CB7B3D-5B7E-4E0A-BD25-588621CD9954}|ProyectoEmulator.csproj|solutionrelative:memoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CB7B3D-5B7E-4E0A-BD25-588621CD9954}|ProyectoEmulator.csproj|c:\\users\\gabri\\source\\repos\\proyectoemulator\\ordenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CB7B3D-5B7E-4E0A-BD25-588621CD9954}|ProyectoEmulator.csproj|solutionrelative:ordenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Procesador.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProyectoEmulator\\Procesador.cs",
+              "RelativeDocumentMoniker": "Procesador.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProyectoEmulator\\Procesador.cs",
+              "RelativeToolTip": "Procesador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T20:05:40.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcesadorZ80.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProyectoEmulator\\ProcesadorZ80.cs",
+              "RelativeDocumentMoniker": "ProcesadorZ80.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProyectoEmulator\\ProcesadorZ80.cs",
+              "RelativeToolTip": "ProcesadorZ80.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T20:23:14.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Procesador6502.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProyectoEmulator\\Procesador6502.cs",
+              "RelativeDocumentMoniker": "Procesador6502.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProyectoEmulator\\Procesador6502.cs",
+              "RelativeToolTip": "Procesador6502.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T20:14:15.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ordenador.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProyectoEmulator\\Ordenador.cs",
+              "RelativeDocumentMoniker": "Ordenador.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProyectoEmulator\\Ordenador.cs",
+              "RelativeToolTip": "Ordenador.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T20:05:21.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Memoria.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProyectoEmulator\\Memoria.cs",
+              "RelativeDocumentMoniker": "Memoria.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProyectoEmulator\\Memoria.cs",
+              "RelativeToolTip": "Memoria.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwCUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T20:05:43.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProyectoEmulator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProyectoEmulator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAE4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T20:03:49.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
