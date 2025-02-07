@@ -41,11 +41,11 @@ namespace ProyectoDomotica
                         ((Puerta)dispositivo).Bloquear();
                     }
                 }
-                else if(dispositivo is IEncendible)
+                if(dispositivo is IEncendible)
                 {
                     ((IEncendible)dispositivo).CambiarEstado();
                 }
-                else if (dispositivo is PuertaGaraje)
+                if (dispositivo is PuertaGaraje)
                 {
                     if (((PuertaGaraje)dispositivo).GetApertura() >= 50)
                     {
@@ -56,11 +56,11 @@ namespace ProyectoDomotica
                         ((PuertaGaraje)dispositivo).Subir();
                     }
                 }
-                else if(dispositivo is ITemperatura)
+                if(dispositivo is ITemperatura)
                 {
                     ((ITemperatura)dispositivo).CambiarTemperatura(20);
                 }
-                else if (dispositivo is Ventana)
+                if (dispositivo is Ventana)
                 {
                     ((Ventana)dispositivo).Abrir(25);
                 }

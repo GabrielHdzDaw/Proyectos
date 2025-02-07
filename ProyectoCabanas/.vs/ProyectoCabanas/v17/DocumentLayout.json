@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCabanas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB4C682-A8B9-4193-A0D8-B326B59C488E}|ProyectoCabanas\\ProyectoCabanas.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectocabanas\\proyectocabanas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB4C682-A8B9-4193-A0D8-B326B59C488E}|ProyectoCabanas\\ProyectoCabanas.csproj|solutionrelative:proyectocabanas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB4C682-A8B9-4193-A0D8-B326B59C488E}|ProyectoCabanas\\ProyectoCabanas.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectocabanas\\proyectocabanas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB4C682-A8B9-4193-A0D8-B326B59C488E}|ProyectoCabanas\\ProyectoCabanas.csproj|solutionrelative:proyectocabanas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCabanas\\ProyectoCabanas\\Persona.cs",
+              "RelativeDocumentMoniker": "ProyectoCabanas\\Persona.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCabanas\\ProyectoCabanas\\Persona.cs",
+              "RelativeToolTip": "ProyectoCabanas\\Persona.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:20:40.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCabanas\\ProyectoCabanas\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoCabanas\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoCabanas\\ProyectoCabanas\\Program.cs",
+              "RelativeToolTip": "ProyectoCabanas\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:19:48.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
