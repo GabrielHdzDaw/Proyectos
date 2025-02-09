@@ -26,13 +26,171 @@ cabaña con el siguiente formato:
 Recordad que se tendrá en cuenta, la eficiencia, el código limpio y el tamaño de los
 métodos.
 */
+
 namespace ProyectoCabanas
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public static int[] ObtenerEspecialidades(Alumno[] alumnos)
         {
-            Console.WriteLine("Hello, World!");
+            int[] temp = new int[alumnos.Length];
+            int contador = 0;
+
+            foreach (Alumno alumno in alumnos)
+            {
+                int edadActual = alumno.GetEdad();
+                bool existe = false;
+
+                for (int j = 0; j < contador; j++)
+                {
+                    if (temp[j] == edadActual)
+                    {
+                        existe = true;
+                    }
+                }
+
+                if (!existe)
+                {
+                    temp[contador] = edadActual;
+                    contador++;
+                }
+            }
+
+            
+            int[] especialidades = new int[contador];
+            for (int i = 0; i < contador; i++)
+            {
+                especialidades[i] = temp[i];
+            }
+            return especialidades;
+        }
+
+        public static Monitor[] CrearArrayMonitores(int[] especialidades)
+        {
+            
+            Monitor[] monitores = new Monitor[especialidades.Length];
+            for (int i = 0; i < monitores.Length; i++)
+            {
+                monitores[i] = new Monitor($"Nombre{i}", $"Apellido{i}", new DateTime(1990 + i, 1, 1), especialidades[i]);
+            }
+            return monitores;
+        }
+
+        public static Alumno[] CrearArrayAlumnos(int length)
+        {
+            DateTime fechaNacimiento1 = new DateTime(2010, 1, 1);
+            DateTime fechaNacimiento2 = new DateTime(2013, 1, 1);
+            DateTime fechaNacimiento3 = new DateTime(2017, 1, 1);
+            Alumno[] alumnos = new Alumno[length];
+            
+            for (int i = 0; i < alumnos.Length; i++)
+            {
+                if (i < 20)
+                {
+                    alumnos[i] = new Alumno($"Nombre{i}", $"Apellido{i}", fechaNacimiento1, Convert.ToInt32($"605123{(i % 1000):D3}"));
+                }
+                else if (i < 40)
+                {
+                    alumnos[i] = new Alumno($"Nombre{i}", $"Apellido{i}", fechaNacimiento2, Convert.ToInt32($"605123{(i % 1000):D3}"));
+                }
+                else
+                {
+                    alumnos[i] = new Alumno($"Nombre{i}", $"Apellido{i}", fechaNacimiento3, Convert.ToInt32($"605123{(i % 1000):D3}"));
+                }
+            }
+            return alumnos;
+        }
+
+        public static Cabana[] CrearArrayCabanas(Monitor[] monitores, Alumno[] alumnos, int alumnosPorCabana)
+        {
+            Cabana[] cabanas = new Cabana[monitores.Length];
+            int totalAlumnos = alumnos.Length;
+            int alumnosAsignados = 0;
+
+            for (int i = 0; i < cabanas.Length && alumnosAsignados < totalAlumnos; i++)
+            {
+                int alumnosCabana = Math.Min(alumnosPorCabana, totalAlumnos - alumnosAsignados);
+
+                Persona[] componentes = new Persona[alumnosCabana + 1];
+                componentes[0] = monitores[i];
+
+                for (int j = 1; j <= alumnosCabana; j++)
+                {
+                    componentes[j] = alumnos[alumnosAsignados];
+                    alumnosAsignados++;
+                }
+
+                cabanas[i] = new Cabana($"Cabana{i}", monitores[i].GetEspecialidad(), componentes);
+            }
+
+            return cabanas;
+        }
+
+        public static void MostrarMenu()
+        {
+            Console.WriteLine("1. Consultar los componentes de alguna cabaña");
+            Console.WriteLine("2. Añadir alumno nuevo a la cabaña");
+            Console.WriteLine("3. Eliminar un alumno de una cabaña");
+            Console.WriteLine("4. Ver el nombre del monitor de las cabañas y el nombre de cabaña asignado");
+            Console.WriteLine("s. Salir");
+        }
+
+        public static char ObtenerOpcion()
+        {
+            char opcion;
+            do
+            {
+                Console.Write("Introduce una opción: ");
+                opcion = Convert.ToChar(Console.ReadLine());
+            } while (opcion != '1' && opcion != '2' && opcion != '3' && opcion != '4' && opcion != 's');
+            return opcion;
+        }
+
+        public static void SwitchMenu(Cabana[] cabanas)
+        {
+            char entradaUsuario;
+            do
+            {
+                MostrarMenu();
+                entradaUsuario = ObtenerOpcion();
+                Console.WriteLine();
+                switch (entradaUsuario)
+                {
+                    case '1':
+                        int numeroCabanas = cabanas.Length;
+                        Console.Write($"Introduce el número de la cabaña que quieres consultar ({numeroCabanas} cabañas): ");
+                        int numeroCabana = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine();
+                        Console.WriteLine($"Monitor: {cabanas[numeroCabana - 1].GetComponentes()[0]}");
+                        Array.Sort(cabanas[numeroCabana - 1].GetComponentes());
+                        foreach (Persona componente in cabanas[numeroCabana - 1].GetComponentes())
+                        {
+                            if (componente is not Monitor)
+                            {
+                                Console.WriteLine(componente);
+                            }
+                        }
+                        break;
+                    case '4':
+                        foreach (Cabana cabana in cabanas)
+                        {
+                            Console.WriteLine($"Monitor: {cabana.GetComponentes()[0]} | Nombre de la cabaña: {cabana.GetNombre()}");
+                        }
+                        break;
+                }
+                Console.WriteLine();
+            } while (entradaUsuario != 's');
+            
+            
+        }
+        public static void Main(string[] args)
+        {
+            Alumno[] alumnos = CrearArrayAlumnos(50);
+            int[] especialidades = ObtenerEspecialidades(alumnos);
+            Monitor[] monitores = CrearArrayMonitores(especialidades);
+            Cabana[] cabanas = CrearArrayCabanas(monitores, alumnos, 20);
+            char entradaUsuario;
+            SwitchMenu(cabanas);
         }
     }
 }

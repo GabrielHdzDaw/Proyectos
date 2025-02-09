@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCabanas\ProyectoCabanas\bin\Debug\net8.0\ProyectoCabanas.exe
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCabanas\ProyectoCabanas\bin\Debug\net8.0\ProyectoCabanas.deps.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCabanas\ProyectoCabanas\bin\Debug\net8.0\ProyectoCabanas.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCabanas\ProyectoCabanas\bin\Debug\net8.0\ProyectoCabanas.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCabanas\ProyectoCabanas\bin\Debug\net8.0\ProyectoCabanas.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCabanas\ProyectoCabanas\obj\Debug\net8.0\ProyectoCabanas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCabanas\ProyectoCabanas\obj\Debug\net8.0\ProyectoCabanas.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCabanas\ProyectoCabanas\obj\Debug\net8.0\ProyectoCabanas.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCabanas\ProyectoCabanas\obj\Debug\net8.0\ProyectoCabanas.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCabanas\ProyectoCabanas\obj\Debug\net8.0\ProyectoCabanas.sourcelink.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCabanas\ProyectoCabanas\obj\Debug\net8.0\ProyectoCabanas.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCabanas\ProyectoCabanas\obj\Debug\net8.0\refint\ProyectoCabanas.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCabanas\ProyectoCabanas\obj\Debug\net8.0\ProyectoCabanas.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCabanas\ProyectoCabanas\obj\Debug\net8.0\ProyectoCabanas.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoCabanas\ProyectoCabanas\obj\Debug\net8.0\ref\ProyectoCabanas.dll

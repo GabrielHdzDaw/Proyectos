@@ -6,19 +6,18 @@ using System.Threading.Tasks;
 
 namespace ProyectoCabanas
 {
-    internal class Persona
+    internal abstract class Persona:IComparable<Persona>
     {
-        string nombre;
-        string apellidos;
-        DateTime fechaNacimiento;
-        Alergia[] alergias;
+        protected string nombre;
+        protected string apellidos;
+        protected DateTime fechaNacimiento;
+       
 
-        public Persona(string nombre, string apellidos, DateTime fechaNacimiento, Alergia[] alergias)
+        public Persona(string nombre, string apellidos, DateTime fechaNacimiento)
         {
             this.nombre = nombre;
             this.apellidos = apellidos;
             this.fechaNacimiento = fechaNacimiento;
-            this.alergias = alergias;
         }
 
         public int GetEdad()
@@ -41,9 +40,29 @@ namespace ProyectoCabanas
             return fechaNacimiento.ToString("dd/MM/yyyy");
         }
 
-        public Alergia[] GetAlergias()
+        public void SetNombre(string nombre)
         {
-            return alergias;
+            this.nombre = nombre;
+        }
+
+        public void SetApellidos(string apellidos)
+        {
+            this.apellidos = apellidos;
+        }
+
+        public void SetFechaNacimiento(DateTime fechaNacimiento)
+        {
+            this.fechaNacimiento = fechaNacimiento;
+        }
+
+        public int CompareTo(Persona persona)
+        {
+            return apellidos.CompareTo(persona.GetApellidos());
+        }
+
+        public override string ToString()
+        {
+            return $"Apellido, nombre: {apellidos}, {nombre} | Edad: {GetEdad()} |";
         }
 
     }
