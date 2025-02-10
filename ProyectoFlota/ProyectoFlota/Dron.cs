@@ -22,7 +22,7 @@ namespace ProyectoFlota
 
         public Dron(string nombre) : base(nombre)
         {
-            porcentajeBateria = 100;
+            porcentajeBateria = 10;
             altitud = 0;
             camara = new Camara("Camara1", "Modelo1", "Resolucion1");
         }
@@ -85,7 +85,7 @@ namespace ProyectoFlota
         }
         public override string ToString()
         {
-            return base.ToString() + $" Altitud: {altitud} | Cámara: {camara}";
+            return base.ToString() + $" Batería: {porcentajeBateria} | Altitud: {altitud} | Cámara: {camara}";
         }
     }
 }

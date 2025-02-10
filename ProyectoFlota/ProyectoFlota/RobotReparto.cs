@@ -19,7 +19,7 @@ namespace ProyectoFlota
 
         public RobotReparto(string nombre) : base(nombre)
         {
-            porcentajeBateria = 100;
+            porcentajeBateria = 10;
             SetX(0);
             SetY(0);
         }
@@ -54,7 +54,7 @@ namespace ProyectoFlota
         }
         public override string ToString()
         {
-            return base.ToString();
+            return base.ToString() + $" Batería: {porcentajeBateria}";
         }
     }
 }

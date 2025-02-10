@@ -136,6 +136,29 @@ namespace ProyectoFlota
             return estaciones;
         }
 
+        public static ICargable[] ObtenerCargables(Elemento[] elementos)
+        {
+            int contador = 0;
+            foreach (Elemento elemento in elementos)
+            {
+                if (elemento is ICargable)
+                {
+                    contador++;
+                }
+            }
+            ICargable[] cargables = new ICargable[contador];
+            contador = 0;
+            foreach (Elemento elemento in elementos)
+            {
+                if (elemento is ICargable)
+                {
+                    cargables[contador] = (ICargable)elemento;
+                    contador++;
+                }
+            }
+            return cargables;
+        }
+
         public static void MostrarVehiculosOrdenados(Elemento[] elementos)
         {
             Vehiculo[] vehiculos = ObtenerVehiculos(elementos);
@@ -172,30 +195,102 @@ namespace ProyectoFlota
             }
         }
 
-        public static EstacionCarga ObtenerEstacionMasCercana(EstacionCarga[] estaciones)
+        public static EstacionCarga ObtenerEstacionMasCercana(ICargable cargable, EstacionCarga[] estaciones)
         {
+            Vehiculo vehiculo = (Vehiculo)cargable;
+            EstacionCarga estacionMasCercana = estaciones[0];
+            int distanciaMinima = CalcularDistancia(vehiculo, estaciones[0]);
 
-        }
-        static void Main(string[] args)
-        {
-            Elemento[] elementos =
+            foreach (EstacionCarga estacion in estaciones)
             {
-                new Auto("Auto1"),
-                new Auto("Auto2"),
-                new RobotReparto("RobotReparto1"),
-                new RobotReparto("RobotReparto2"),
-                new Camara("Camara1", "Modelo1", "Resolucion1"),
-                new Camara("Camara2", "Modelo2", "Resolucion2"),
-                new Dron("Dron1"),
-                new Dron("Dron2"),
-            };
+                int distanciaActual = CalcularDistancia(vehiculo, estacion);
+                if (distanciaActual < distanciaMinima)
+                {
+                    distanciaMinima = distanciaActual;
+                    estacionMasCercana = estacion;
+                }
+            }
 
+            return estacionMasCercana;
+        }
 
-            int entradaUsuario; 
+        private static int CalcularDistancia(Vehiculo vehiculo, EstacionCarga estacion)
+        {
+            int x = vehiculo.GetX() - estacion.GetX();
+            int y = vehiculo.GetY() - estacion.GetY();
+            x = x < 0 ? -x : x;
+               
+            y = y < 0 ? -y : y;
+                
+            return x + y;
+        }
+
+        public static void MoverCargablesBajaBateria(Elemento[] elementos, EstacionCarga[] estaciones)
+        {
+            foreach (Elemento elemento in elementos)
+            {
+                int porcentajeBateria = -1;
+
+                if (elemento is Dron dron)
+                {
+                    porcentajeBateria = dron.GetPorcentajeBateria();
+                }
+                else if (elemento is RobotReparto robot)
+                {
+                    porcentajeBateria = robot.GetPorcentajeBateria();
+                }
+                
+                if (porcentajeBateria != -1 && porcentajeBateria < 20 && elemento is ICargable cargable)
+                {
+                    EstacionCarga estacionCercana = ObtenerEstacionMasCercana(cargable, estaciones);
+                    if (estacionCercana != null)
+                    {
+                        Vehiculo vehiculo = (Vehiculo)elemento;
+                        vehiculo.SetX(estacionCercana.GetX());
+                        vehiculo.SetY(estacionCercana.GetY());
+                        Console.WriteLine($"Llevando {vehiculo.GetNombre()} a cargar a {estacionCercana}");
+                    }
+                }
+            }
+        }
+
+        public static void MostrarElementosInactivos(Elemento[] elementos)
+        {
+            foreach (Elemento elemento in elementos)
+            {
+                if (!elemento.GetActivo())
+                {
+                    Console.WriteLine(elemento);
+                }
+            }
+        }
+        public static void MostrarDronesOrdenadosPorAltitud(Elemento[] elementos)
+        {
+            Dron[] drones = ObtenerDrones(elementos);
+            Array.Sort(drones, (d1, d2) => d1.GetAltitud().CompareTo(d2.GetAltitud()));
+            foreach (Dron dron in drones)
+            {
+                Console.WriteLine(dron);
+            }
+        }
+
+        public static void CapturarImagenesDrones(Elemento[] elementos)
+        {
+            foreach (Dron dron in ObtenerDrones(elementos))
+            {
+                dron.CapturaImagenes();
+            }
+        }
+
+        public static void SwitchMenu(Elemento[] elementos)
+        {  
+            int entradaUsuario;
+            
             do
             {
                 MostrarOpciones();
                 entradaUsuario = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine();
                 switch (entradaUsuario)
                 {
                     case 1:
@@ -208,13 +303,40 @@ namespace ProyectoFlota
                         EstablecerAlturaDrones3m(elementos);
                         break;
                     case 4:
-
+                        MoverCargablesBajaBateria(elementos, ObtenerEstaciones(elementos));
+                        break;
+                    case 5:
+                        MostrarDronesOrdenadosPorAltitud(elementos);
+                        break;
+                    case 6:
+                        MostrarElementosInactivos(elementos);
+                        break;
+                    case 7:
+                        CapturarImagenesDrones(elementos);
+                        break;
+                    case 8 :
+                        Console.WriteLine("Saliendo...");
+                        break;
                     default:
                         break;
                 }
-
-            } while (entradaUsuario != 8);
+                Console.WriteLine();
+            } while (entradaUsuario != 8);}
+        static void Main(string[] args)
+        {
+            Elemento[] elementos =
+            {
+                new Auto("Auto1"),
+                new Auto("Auto2"),
+                new RobotReparto("RobotReparto1"),
+                new RobotReparto("RobotReparto2"),
+                new EstacionCarga("EstacionCarga1"),
+                new EstacionCarga("EstacionCarga2"),
+                new Dron("Dron1"),
+                new Dron("Dron2"),
+            };
             
+            SwitchMenu(elementos);            
         }
     }
 }
