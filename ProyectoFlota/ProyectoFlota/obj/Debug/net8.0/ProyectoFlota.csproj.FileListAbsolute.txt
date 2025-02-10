@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoFlota\ProyectoFlota\obj\Debug\net8.0\ProyectoFlota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoFlota\ProyectoFlota\obj\Debug\net8.0\ProyectoFlota.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoFlota\ProyectoFlota\obj\Debug\net8.0\ProyectoFlota.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoFlota\ProyectoFlota\obj\Debug\net8.0\ProyectoFlota.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoFlota\ProyectoFlota\obj\Debug\net8.0\ProyectoFlota.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoFlota\ProyectoFlota\bin\Debug\net8.0\ProyectoFlota.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoFlota\ProyectoFlota\bin\Debug\net8.0\ProyectoFlota.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoFlota\ProyectoFlota\bin\Debug\net8.0\ProyectoFlota.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoFlota\ProyectoFlota\bin\Debug\net8.0\ProyectoFlota.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoFlota\ProyectoFlota\bin\Debug\net8.0\ProyectoFlota.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoFlota\ProyectoFlota\obj\Debug\net8.0\ProyectoFlota.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoFlota\ProyectoFlota\obj\Debug\net8.0\refint\ProyectoFlota.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoFlota\ProyectoFlota\obj\Debug\net8.0\ProyectoFlota.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoFlota\ProyectoFlota\obj\Debug\net8.0\ProyectoFlota.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoFlota\ProyectoFlota\obj\Debug\net8.0\ref\ProyectoFlota.dll
