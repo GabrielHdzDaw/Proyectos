@@ -219,7 +219,6 @@ namespace ProyectoFlota
             int x = vehiculo.GetX() - estacion.GetX();
             int y = vehiculo.GetY() - estacion.GetY();
             x = x < 0 ? -x : x;
-               
             y = y < 0 ? -y : y;
                 
             return x + y;

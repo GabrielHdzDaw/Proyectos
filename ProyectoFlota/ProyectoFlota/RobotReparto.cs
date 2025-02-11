@@ -10,7 +10,6 @@ namespace ProyectoFlota
     {
         int porcentajeBateria;
         
-        
         public RobotReparto(string nombre, bool activo, int x, int y, int porcentajeBateria) : base(nombre, activo, x, y)
         {
             this.porcentajeBateria = porcentajeBateria;
