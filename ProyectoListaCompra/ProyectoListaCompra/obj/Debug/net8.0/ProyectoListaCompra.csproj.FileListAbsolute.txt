@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoListaCompra\ProyectoListaCompra\obj\Debug\net8.0\ProyectoListaCompra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoListaCompra\ProyectoListaCompra\obj\Debug\net8.0\ProyectoListaCompra.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoListaCompra\ProyectoListaCompra\obj\Debug\net8.0\ProyectoListaCompra.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoListaCompra\ProyectoListaCompra\obj\Debug\net8.0\ProyectoListaCompra.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoListaCompra\ProyectoListaCompra\obj\Debug\net8.0\ProyectoListaCompra.sourcelink.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoListaCompra\ProyectoListaCompra\bin\Debug\net8.0\ProyectoListaCompra.exe
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoListaCompra\ProyectoListaCompra\bin\Debug\net8.0\ProyectoListaCompra.deps.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoListaCompra\ProyectoListaCompra\bin\Debug\net8.0\ProyectoListaCompra.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoListaCompra\ProyectoListaCompra\bin\Debug\net8.0\ProyectoListaCompra.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoListaCompra\ProyectoListaCompra\bin\Debug\net8.0\ProyectoListaCompra.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoListaCompra\ProyectoListaCompra\obj\Debug\net8.0\ProyectoListaCompra.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoListaCompra\ProyectoListaCompra\obj\Debug\net8.0\refint\ProyectoListaCompra.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoListaCompra\ProyectoListaCompra\obj\Debug\net8.0\ProyectoListaCompra.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoListaCompra\ProyectoListaCompra\obj\Debug\net8.0\ProyectoListaCompra.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoListaCompra\ProyectoListaCompra\obj\Debug\net8.0\ref\ProyectoListaCompra.dll

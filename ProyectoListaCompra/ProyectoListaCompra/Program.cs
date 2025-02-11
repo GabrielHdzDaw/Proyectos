@@ -58,6 +58,23 @@ namespace ProyectoListaCompra
             return valido;
         }
 
+        public static void MostrarProductosListaCompra(ListaCompra listaCompra)
+        {
+            int i = 0;
+            foreach (Compra compra in listaCompra.GetCompras())
+            {
+                Console.WriteLine($"{i + 1}.{compra}");
+            }
+        }
+
+        public static void MarcarComoAdquirido(ListaCompra listaCompra)
+        {
+            MostrarProductosListaCompra(listaCompra);
+            Console.Write("Introduce el número del producto a adquirir: ");
+            int index = Convert.ToInt32(Console.ReadLine());
+            listaCompra.GetCompras()[index - 1].SetAdquirido(true);
+        }
+
         public static void MostrarMenu()
         {
             Console.WriteLine("1. Añadir producto");
@@ -68,13 +85,23 @@ namespace ProyectoListaCompra
             Console.Write("Introduce la opción deseada:");
         }
 
-        public static void SwitchMenu()
+        public static void SwitchMenu(ListaCompra listaCompra)
         {
             MostrarMenu();
             
             int entradaUsuario = Convert.ToInt32(Console.ReadLine());
             switch (entradaUsuario)
             {
+                case 1:
+                    break;
+                case 2:
+                    break;
+                case 3:
+                    MarcarComoAdquirido(listaCompra);
+                    break;
+                case 4:
+                    MostrarProductosListaCompra(listaCompra);
+                    break;
                 default:
                     break;
             }
@@ -82,6 +109,16 @@ namespace ProyectoListaCompra
         static void Main(string[] args)
         {
             ListaUsuarios listaUsuarios = new ListaUsuarios();
+            ListaCompra listaCompra = new ListaCompra();
+            if (ValidarUsuario(listaUsuarios))
+            {
+                SwitchMenu(listaCompra);
+            } else
+            {
+                Console.WriteLine("Usuario no validado. Saliendo del programa...");
+            }
+            
+            
         }
     }
 }

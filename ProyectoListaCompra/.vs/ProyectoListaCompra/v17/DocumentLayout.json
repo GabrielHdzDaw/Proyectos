@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectolistacompra\\proyectolistacompra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|solutionrelative:proyectolistacompra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectolistacompra\\proyectolistacompra\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|solutionrelative:proyectolistacompra\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectolistacompra\\proyectolistacompra\\listacompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|solutionrelative:proyectolistacompra\\listacompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectolistacompra\\proyectolistacompra\\listausuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|solutionrelative:proyectolistacompra\\listausuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectolistacompra\\proyectolistacompra\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|solutionrelative:proyectolistacompra\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectolistacompra\\proyectolistacompra\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectolistacompra\\proyectolistacompra\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|solutionrelative:proyectolistacompra\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectolistacompra\\proyectolistacompra\\productosdisponibles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectolistacompra\\proyectolistacompra\\listausuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|solutionrelative:proyectolistacompra\\listausuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectolistacompra\\proyectolistacompra\\listacompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|solutionrelative:proyectolistacompra\\listacompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectolistacompra\\proyectolistacompra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|solutionrelative:proyectolistacompra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectolistacompra\\proyectolistacompra\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|solutionrelative:proyectolistacompra\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectolistacompra\\proyectolistacompra\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|solutionrelative:proyectolistacompra\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectolistacompra\\proyectolistacompra\\productosdisponibles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75EDCA20-1237-4191-8632-91AE62965AF3}|ProyectoListaCompra\\ProyectoListaCompra.csproj|solutionrelative:proyectolistacompra\\productosdisponibles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,95 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ProductosDisponibles.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\ProductosDisponibles.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\ProductosDisponibles.cs",
               "RelativeDocumentMoniker": "ProyectoListaCompra\\ProductosDisponibles.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\ProductosDisponibles.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\ProductosDisponibles.cs",
               "RelativeToolTip": "ProyectoListaCompra\\ProductosDisponibles.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAcwBkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T11:01:04.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T11:01:04.295Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ListaCompra.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\ListaCompra.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\ListaCompra.cs",
               "RelativeDocumentMoniker": "ProyectoListaCompra\\ListaCompra.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\ListaCompra.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\ListaCompra.cs",
               "RelativeToolTip": "ProyectoListaCompra\\ListaCompra.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T10:56:52.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ListaUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\ListaUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\ListaUsuarios.cs",
               "RelativeDocumentMoniker": "ProyectoListaCompra\\ListaUsuarios.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\ListaUsuarios.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\ListaUsuarios.cs",
               "RelativeToolTip": "ProyectoListaCompra\\ListaUsuarios.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T10:48:03.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Usuario.cs",
               "RelativeDocumentMoniker": "ProyectoListaCompra\\Usuario.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Usuario.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Usuario.cs",
               "RelativeToolTip": "ProyectoListaCompra\\Usuario.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwBoAAAAeAAAAAAAAAA==",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T10:42:27.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Producto.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Producto.cs",
               "RelativeDocumentMoniker": "ProyectoListaCompra\\Producto.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Producto.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Producto.cs",
               "RelativeToolTip": "ProyectoListaCompra\\Producto.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T10:37:06.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T10:37:06.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Compra.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Compra.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Compra.cs",
               "RelativeDocumentMoniker": "ProyectoListaCompra\\Compra.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Compra.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Compra.cs",
               "RelativeToolTip": "ProyectoListaCompra\\Compra.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwBQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T10:34:34.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T10:34:34.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Program.cs",
               "RelativeDocumentMoniker": "ProyectoListaCompra\\Program.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoListaCompra\\ProyectoListaCompra\\Program.cs",
               "RelativeToolTip": "ProyectoListaCompra\\Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwFMAAAA+AAAAAAAAAA==",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAcwHUAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T10:31:06.836Z",
               "EditorCaption": ""
