@@ -41,4 +41,5 @@ namespace ProyectoListaCompra
         {
             return $"Usuario: {nombre}";
         }
+    }
 }
