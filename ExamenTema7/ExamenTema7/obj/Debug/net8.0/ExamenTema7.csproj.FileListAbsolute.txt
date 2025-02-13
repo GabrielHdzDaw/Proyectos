@@ -1,0 +1,5 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ExamenTema7\ExamenTema7\obj\Debug\net8.0\ExamenTema7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ExamenTema7\ExamenTema7\obj\Debug\net8.0\ExamenTema7.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ExamenTema7\ExamenTema7\obj\Debug\net8.0\ExamenTema7.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ExamenTema7\ExamenTema7\obj\Debug\net8.0\ExamenTema7.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ExamenTema7\ExamenTema7\obj\Debug\net8.0\ExamenTema7.sourcelink.json
