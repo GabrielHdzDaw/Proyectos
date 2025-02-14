@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoPilaBinaria\ProyectoPilaBinaria\bin\Debug\net8.0\ProyectoPilaBinaria.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoPilaBinaria\ProyectoPilaBinaria\bin\Debug\net8.0\ProyectoPilaBinaria.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoPilaBinaria\ProyectoPilaBinaria\bin\Debug\net8.0\ProyectoPilaBinaria.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoPilaBinaria\ProyectoPilaBinaria\bin\Debug\net8.0\ProyectoPilaBinaria.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoPilaBinaria\ProyectoPilaBinaria\bin\Debug\net8.0\ProyectoPilaBinaria.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoPilaBinaria\ProyectoPilaBinaria\obj\Debug\net8.0\ProyectoPilaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoPilaBinaria\ProyectoPilaBinaria\obj\Debug\net8.0\ProyectoPilaBinaria.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoPilaBinaria\ProyectoPilaBinaria\obj\Debug\net8.0\ProyectoPilaBinaria.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoPilaBinaria\ProyectoPilaBinaria\obj\Debug\net8.0\ProyectoPilaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoPilaBinaria\ProyectoPilaBinaria\obj\Debug\net8.0\ProyectoPilaBinaria.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoPilaBinaria\ProyectoPilaBinaria\obj\Debug\net8.0\ProyectoPilaBinaria.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoPilaBinaria\ProyectoPilaBinaria\obj\Debug\net8.0\refint\ProyectoPilaBinaria.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoPilaBinaria\ProyectoPilaBinaria\obj\Debug\net8.0\ProyectoPilaBinaria.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoPilaBinaria\ProyectoPilaBinaria\obj\Debug\net8.0\ProyectoPilaBinaria.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoPilaBinaria\ProyectoPilaBinaria\obj\Debug\net8.0\ref\ProyectoPilaBinaria.dll

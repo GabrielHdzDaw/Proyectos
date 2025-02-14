@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaMedico\ProyectoColaMedico\bin\Debug\net8.0\ProyectoColaMedico.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaMedico\ProyectoColaMedico\bin\Debug\net8.0\ProyectoColaMedico.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaMedico\ProyectoColaMedico\bin\Debug\net8.0\ProyectoColaMedico.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaMedico\ProyectoColaMedico\bin\Debug\net8.0\ProyectoColaMedico.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaMedico\ProyectoColaMedico\bin\Debug\net8.0\ProyectoColaMedico.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaMedico\ProyectoColaMedico\obj\Debug\net8.0\ProyectoColaMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaMedico\ProyectoColaMedico\obj\Debug\net8.0\ProyectoColaMedico.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaMedico\ProyectoColaMedico\obj\Debug\net8.0\ProyectoColaMedico.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaMedico\ProyectoColaMedico\obj\Debug\net8.0\ProyectoColaMedico.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaMedico\ProyectoColaMedico\obj\Debug\net8.0\ProyectoColaMedico.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaMedico\ProyectoColaMedico\obj\Debug\net8.0\ProyectoColaMedico.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaMedico\ProyectoColaMedico\obj\Debug\net8.0\refint\ProyectoColaMedico.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaMedico\ProyectoColaMedico\obj\Debug\net8.0\ProyectoColaMedico.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaMedico\ProyectoColaMedico\obj\Debug\net8.0\ProyectoColaMedico.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaMedico\ProyectoColaMedico\obj\Debug\net8.0\ref\ProyectoColaMedico.dll

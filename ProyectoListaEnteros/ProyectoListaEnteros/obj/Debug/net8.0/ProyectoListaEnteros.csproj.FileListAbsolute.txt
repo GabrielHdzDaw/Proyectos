@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListaEnteros\ProyectoListaEnteros\bin\Debug\net8.0\ProyectoListaEnteros.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListaEnteros\ProyectoListaEnteros\bin\Debug\net8.0\ProyectoListaEnteros.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListaEnteros\ProyectoListaEnteros\bin\Debug\net8.0\ProyectoListaEnteros.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListaEnteros\ProyectoListaEnteros\bin\Debug\net8.0\ProyectoListaEnteros.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListaEnteros\ProyectoListaEnteros\bin\Debug\net8.0\ProyectoListaEnteros.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListaEnteros\ProyectoListaEnteros\obj\Debug\net8.0\ProyectoListaEnteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListaEnteros\ProyectoListaEnteros\obj\Debug\net8.0\ProyectoListaEnteros.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListaEnteros\ProyectoListaEnteros\obj\Debug\net8.0\ProyectoListaEnteros.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListaEnteros\ProyectoListaEnteros\obj\Debug\net8.0\ProyectoListaEnteros.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListaEnteros\ProyectoListaEnteros\obj\Debug\net8.0\ProyectoListaEnteros.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListaEnteros\ProyectoListaEnteros\obj\Debug\net8.0\ProyectoListaEnteros.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListaEnteros\ProyectoListaEnteros\obj\Debug\net8.0\refint\ProyectoListaEnteros.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListaEnteros\ProyectoListaEnteros\obj\Debug\net8.0\ProyectoListaEnteros.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListaEnteros\ProyectoListaEnteros\obj\Debug\net8.0\ProyectoListaEnteros.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListaEnteros\ProyectoListaEnteros\obj\Debug\net8.0\ref\ProyectoListaEnteros.dll
