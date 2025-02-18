@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAhorcado\ProyectoAhorcado\bin\Debug\net8.0\ProyectoAhorcado.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAhorcado\ProyectoAhorcado\bin\Debug\net8.0\ProyectoAhorcado.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAhorcado\ProyectoAhorcado\bin\Debug\net8.0\ProyectoAhorcado.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAhorcado\ProyectoAhorcado\bin\Debug\net8.0\ProyectoAhorcado.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAhorcado\ProyectoAhorcado\bin\Debug\net8.0\ProyectoAhorcado.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAhorcado\ProyectoAhorcado\obj\Debug\net8.0\ProyectoAhorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAhorcado\ProyectoAhorcado\obj\Debug\net8.0\ProyectoAhorcado.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAhorcado\ProyectoAhorcado\obj\Debug\net8.0\ProyectoAhorcado.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAhorcado\ProyectoAhorcado\obj\Debug\net8.0\ProyectoAhorcado.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAhorcado\ProyectoAhorcado\obj\Debug\net8.0\ProyectoAhorcado.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAhorcado\ProyectoAhorcado\obj\Debug\net8.0\ProyectoAhorcado.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAhorcado\ProyectoAhorcado\obj\Debug\net8.0\refint\ProyectoAhorcado.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAhorcado\ProyectoAhorcado\obj\Debug\net8.0\ProyectoAhorcado.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAhorcado\ProyectoAhorcado\obj\Debug\net8.0\ProyectoAhorcado.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAhorcado\ProyectoAhorcado\obj\Debug\net8.0\ref\ProyectoAhorcado.dll
