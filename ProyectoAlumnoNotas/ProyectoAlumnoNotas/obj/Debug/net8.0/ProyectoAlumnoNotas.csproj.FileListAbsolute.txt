@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAlumnoNotas\ProyectoAlumnoNotas\bin\Debug\net8.0\ProyectoAlumnoNotas.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAlumnoNotas\ProyectoAlumnoNotas\bin\Debug\net8.0\ProyectoAlumnoNotas.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAlumnoNotas\ProyectoAlumnoNotas\bin\Debug\net8.0\ProyectoAlumnoNotas.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAlumnoNotas\ProyectoAlumnoNotas\bin\Debug\net8.0\ProyectoAlumnoNotas.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAlumnoNotas\ProyectoAlumnoNotas\bin\Debug\net8.0\ProyectoAlumnoNotas.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAlumnoNotas\ProyectoAlumnoNotas\obj\Debug\net8.0\ProyectoAlumnoNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAlumnoNotas\ProyectoAlumnoNotas\obj\Debug\net8.0\ProyectoAlumnoNotas.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAlumnoNotas\ProyectoAlumnoNotas\obj\Debug\net8.0\ProyectoAlumnoNotas.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAlumnoNotas\ProyectoAlumnoNotas\obj\Debug\net8.0\ProyectoAlumnoNotas.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAlumnoNotas\ProyectoAlumnoNotas\obj\Debug\net8.0\ProyectoAlumnoNotas.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAlumnoNotas\ProyectoAlumnoNotas\obj\Debug\net8.0\ProyectoAlumnoNotas.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAlumnoNotas\ProyectoAlumnoNotas\obj\Debug\net8.0\refint\ProyectoAlumnoNotas.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAlumnoNotas\ProyectoAlumnoNotas\obj\Debug\net8.0\ProyectoAlumnoNotas.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAlumnoNotas\ProyectoAlumnoNotas\obj\Debug\net8.0\ProyectoAlumnoNotas.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoAlumnoNotas\ProyectoAlumnoNotas\obj\Debug\net8.0\ref\ProyectoAlumnoNotas.dll

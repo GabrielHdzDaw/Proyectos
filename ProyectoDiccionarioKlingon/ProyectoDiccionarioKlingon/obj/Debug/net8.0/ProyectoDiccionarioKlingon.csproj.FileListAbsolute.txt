@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDiccionarioKlingon\ProyectoDiccionarioKlingon\bin\Debug\net8.0\ProyectoDiccionarioKlingon.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDiccionarioKlingon\ProyectoDiccionarioKlingon\bin\Debug\net8.0\ProyectoDiccionarioKlingon.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDiccionarioKlingon\ProyectoDiccionarioKlingon\bin\Debug\net8.0\ProyectoDiccionarioKlingon.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDiccionarioKlingon\ProyectoDiccionarioKlingon\bin\Debug\net8.0\ProyectoDiccionarioKlingon.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDiccionarioKlingon\ProyectoDiccionarioKlingon\bin\Debug\net8.0\ProyectoDiccionarioKlingon.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDiccionarioKlingon\ProyectoDiccionarioKlingon\obj\Debug\net8.0\ProyectoDiccionarioKlingon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDiccionarioKlingon\ProyectoDiccionarioKlingon\obj\Debug\net8.0\ProyectoDiccionarioKlingon.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDiccionarioKlingon\ProyectoDiccionarioKlingon\obj\Debug\net8.0\ProyectoDiccionarioKlingon.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDiccionarioKlingon\ProyectoDiccionarioKlingon\obj\Debug\net8.0\ProyectoDiccionarioKlingon.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDiccionarioKlingon\ProyectoDiccionarioKlingon\obj\Debug\net8.0\ProyectoDiccionarioKlingon.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDiccionarioKlingon\ProyectoDiccionarioKlingon\obj\Debug\net8.0\ProyectoDiccionarioKlingon.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDiccionarioKlingon\ProyectoDiccionarioKlingon\obj\Debug\net8.0\refint\ProyectoDiccionarioKlingon.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDiccionarioKlingon\ProyectoDiccionarioKlingon\obj\Debug\net8.0\ProyectoDiccionarioKlingon.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDiccionarioKlingon\ProyectoDiccionarioKlingon\obj\Debug\net8.0\ProyectoDiccionarioKlingon.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoDiccionarioKlingon\ProyectoDiccionarioKlingon\obj\Debug\net8.0\ref\ProyectoDiccionarioKlingon.dll
