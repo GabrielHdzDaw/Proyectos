@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListasAdicional\ProyectoListasAdicional\bin\Debug\net8.0\ProyectoListasAdicional.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListasAdicional\ProyectoListasAdicional\bin\Debug\net8.0\ProyectoListasAdicional.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListasAdicional\ProyectoListasAdicional\bin\Debug\net8.0\ProyectoListasAdicional.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListasAdicional\ProyectoListasAdicional\bin\Debug\net8.0\ProyectoListasAdicional.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListasAdicional\ProyectoListasAdicional\bin\Debug\net8.0\ProyectoListasAdicional.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListasAdicional\ProyectoListasAdicional\obj\Debug\net8.0\ProyectoListasAdicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListasAdicional\ProyectoListasAdicional\obj\Debug\net8.0\ProyectoListasAdicional.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListasAdicional\ProyectoListasAdicional\obj\Debug\net8.0\ProyectoListasAdicional.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListasAdicional\ProyectoListasAdicional\obj\Debug\net8.0\ProyectoListasAdicional.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListasAdicional\ProyectoListasAdicional\obj\Debug\net8.0\ProyectoListasAdicional.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListasAdicional\ProyectoListasAdicional\obj\Debug\net8.0\ProyectoListasAdicional.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListasAdicional\ProyectoListasAdicional\obj\Debug\net8.0\refint\ProyectoListasAdicional.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListasAdicional\ProyectoListasAdicional\obj\Debug\net8.0\ProyectoListasAdicional.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListasAdicional\ProyectoListasAdicional\obj\Debug\net8.0\ProyectoListasAdicional.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoListasAdicional\ProyectoListasAdicional\obj\Debug\net8.0\ref\ProyectoListasAdicional.dll

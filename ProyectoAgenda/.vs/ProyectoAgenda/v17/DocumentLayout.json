@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "ProyectoAgenda\\Agenda.cs",
               "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoAgenda\\ProyectoAgenda\\Agenda.cs",
               "RelativeToolTip": "ProyectoAgenda\\Agenda.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAmwG0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwG4AAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T11:08:24.022Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "ProyectoAgenda\\Reunion.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T11:07:59.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T11:07:59.048Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "ProyectoAgenda\\Contacto.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAcwEUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T11:07:27.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T11:07:27.903Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "ProyectoAgenda\\Program.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAowE0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T11:07:17.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T11:07:17.324Z"
             }
           ]
         }

@@ -1,12 +1,85 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoAgenda\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AD2D14-1957-4859-866A-7A02C1DF4D6A}|ProyectoAgenda\\ProyectoAgenda.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectoagenda\\proyectoagenda\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AD2D14-1957-4859-866A-7A02C1DF4D6A}|ProyectoAgenda\\ProyectoAgenda.csproj|solutionrelative:proyectoagenda\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AD2D14-1957-4859-866A-7A02C1DF4D6A}|ProyectoAgenda\\ProyectoAgenda.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectoagenda\\proyectoagenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AD2D14-1957-4859-866A-7A02C1DF4D6A}|ProyectoAgenda\\ProyectoAgenda.csproj|solutionrelative:proyectoagenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AD2D14-1957-4859-866A-7A02C1DF4D6A}|ProyectoAgenda\\ProyectoAgenda.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectoagenda\\proyectoagenda\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AD2D14-1957-4859-866A-7A02C1DF4D6A}|ProyectoAgenda\\ProyectoAgenda.csproj|solutionrelative:proyectoagenda\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AD2D14-1957-4859-866A-7A02C1DF4D6A}|ProyectoAgenda\\ProyectoAgenda.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectoagenda\\proyectoagenda\\reunion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AD2D14-1957-4859-866A-7A02C1DF4D6A}|ProyectoAgenda\\ProyectoAgenda.csproj|solutionrelative:proyectoagenda\\reunion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Agenda.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoAgenda\\ProyectoAgenda\\Agenda.cs",
+              "RelativeDocumentMoniker": "ProyectoAgenda\\Agenda.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoAgenda\\ProyectoAgenda\\Agenda.cs",
+              "RelativeToolTip": "ProyectoAgenda\\Agenda.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwG4AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:08:24.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reunion.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoAgenda\\ProyectoAgenda\\Reunion.cs",
+              "RelativeDocumentMoniker": "ProyectoAgenda\\Reunion.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoAgenda\\ProyectoAgenda\\Reunion.cs",
+              "RelativeToolTip": "ProyectoAgenda\\Reunion.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:07:59.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoAgenda\\ProyectoAgenda\\Contacto.cs",
+              "RelativeDocumentMoniker": "ProyectoAgenda\\Contacto.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoAgenda\\ProyectoAgenda\\Contacto.cs",
+              "RelativeToolTip": "ProyectoAgenda\\Contacto.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwEUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:07:27.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoAgenda\\ProyectoAgenda\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoAgenda\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoAgenda\\ProyectoAgenda\\Program.cs",
+              "RelativeToolTip": "ProyectoAgenda\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowE0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:07:17.324Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
