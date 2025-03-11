@@ -1,0 +1,50 @@
+Lápiz HB;Staedtler;0.50;100
+Bolígrafo azul;Bic;0.30;200
+Cuaderno rayado;Oxford;2.00;50
+Goma de borrar;Faber-Castell;0.25;150
+Tijeras escolares;Maped;1.50;75
+Regla de 30cm;Staedtler;1.00;100
+Pegamento en barra;Pritt;1.20;80
+Sacapuntas doble;Faber-Castell;0.80;100
+Marcador permanente;Sharpie;1.75;60
+Carpeta de anillas;Leitz;3.00;40
+Resaltador amarillo;Stabilo;0.90;120
+Lápices de colores;Crayola;3.50;30
+Compás escolar;Staedtler;2.50;50
+Calculadora científica;Casio;12.00;20
+Cinta adhesiva;Scotch;1.00;70
+Corrector líquido;Tipp-Ex;1.10;90
+Papel de construcción;Canson;4.00;25
+Bloc de notas;Moleskine;5.00;30
+Archivador;Esselte;4.50;40
+Pinceles escolares;Royal & Langnickel;3.00;50
+Caja de acuarelas;Pelikan;6.00;20
+Plastilina;Play-Doh;2.00;60
+Estuche escolar;Totto;6.50;35
+Cartulina blanca;Canson;0.50;200
+Pegamento líquido;Elmer's;1.20;80
+Rotulador negro;Pilot;1.30;90
+Grapadora;Rapesco;3.00;30
+Caja de grapas;Rapesco;0.75;100
+Bolígrafo negro;Bic;0.30;200
+Papel milimetrado;Oxford;2.00;50
+Lápiz de mina;Staedtler;0.50;100
+Marcador de pizarra blanca;Expo;1.50;70
+Bloc de dibujo;Canson;3.50;40
+Cinta correctora;Tipp-Ex;2.00;60
+Tijeras de punta redonda;Maped;1.50;75
+Pegamento escolar;Pritt;1.20;80
+Lápiz de cera;Crayola;2.50;50
+Marcador de colores;Sharpie;1.75;60
+Archivador de palanca;Leitz;4.00;40
+Cuaderno cuadriculado;Oxford;2.00;50
+Borrador de pizarra blanca;Expo;1.50;50
+Set de geometría;Staedtler;3.50;40
+Cinta adhesiva doble cara;Scotch;2.00;50
+Libro de caligrafía;Rubio;5.00;30
+Agenda escolar;Oxford;4.50;40
+Pegamento en spray;Elmer's;4.00;30
+Regla flexible;Maped;1.20;70
+Lápices acuarelables;Faber-Castell;5.00;20
+Marcador fluorescente;Stabilo;1.00;100
+Papel fotográfico;HP;8.00;15

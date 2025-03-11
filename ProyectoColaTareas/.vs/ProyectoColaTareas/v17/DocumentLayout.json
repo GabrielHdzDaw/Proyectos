@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoColaTareas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E53007FE-72F9-4D73-989B-DFC36D3895B5}|ProyectoColaTareas\\ProyectoColaTareas.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectocolatareas\\proyectocolatareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53007FE-72F9-4D73-989B-DFC36D3895B5}|ProyectoColaTareas\\ProyectoColaTareas.csproj|solutionrelative:proyectocolatareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoColaTareas\\ProyectoColaTareas\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoColaTareas\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoColaTareas\\ProyectoColaTareas\\Program.cs",
+              "RelativeToolTip": "ProyectoColaTareas\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwF0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:21:17.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

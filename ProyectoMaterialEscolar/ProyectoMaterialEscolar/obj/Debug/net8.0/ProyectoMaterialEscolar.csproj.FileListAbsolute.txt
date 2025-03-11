@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMaterialEscolar\ProyectoMaterialEscolar\bin\Debug\net8.0\ProyectoMaterialEscolar.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMaterialEscolar\ProyectoMaterialEscolar\bin\Debug\net8.0\ProyectoMaterialEscolar.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMaterialEscolar\ProyectoMaterialEscolar\bin\Debug\net8.0\ProyectoMaterialEscolar.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMaterialEscolar\ProyectoMaterialEscolar\bin\Debug\net8.0\ProyectoMaterialEscolar.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMaterialEscolar\ProyectoMaterialEscolar\bin\Debug\net8.0\ProyectoMaterialEscolar.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMaterialEscolar\ProyectoMaterialEscolar\obj\Debug\net8.0\ProyectoMaterialEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMaterialEscolar\ProyectoMaterialEscolar\obj\Debug\net8.0\ProyectoMaterialEscolar.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMaterialEscolar\ProyectoMaterialEscolar\obj\Debug\net8.0\ProyectoMaterialEscolar.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMaterialEscolar\ProyectoMaterialEscolar\obj\Debug\net8.0\ProyectoMaterialEscolar.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMaterialEscolar\ProyectoMaterialEscolar\obj\Debug\net8.0\ProyectoMaterialEscolar.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMaterialEscolar\ProyectoMaterialEscolar\obj\Debug\net8.0\ProyectoMaterialEscolar.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMaterialEscolar\ProyectoMaterialEscolar\obj\Debug\net8.0\refint\ProyectoMaterialEscolar.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMaterialEscolar\ProyectoMaterialEscolar\obj\Debug\net8.0\ProyectoMaterialEscolar.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMaterialEscolar\ProyectoMaterialEscolar\obj\Debug\net8.0\ProyectoMaterialEscolar.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoMaterialEscolar\ProyectoMaterialEscolar\obj\Debug\net8.0\ref\ProyectoMaterialEscolar.dll

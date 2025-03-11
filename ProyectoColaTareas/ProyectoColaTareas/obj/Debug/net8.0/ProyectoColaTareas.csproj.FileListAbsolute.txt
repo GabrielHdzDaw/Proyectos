@@ -1,0 +1,15 @@
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaTareas\ProyectoColaTareas\bin\Debug\net8.0\ProyectoColaTareas.exe
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaTareas\ProyectoColaTareas\bin\Debug\net8.0\ProyectoColaTareas.deps.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaTareas\ProyectoColaTareas\bin\Debug\net8.0\ProyectoColaTareas.runtimeconfig.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaTareas\ProyectoColaTareas\bin\Debug\net8.0\ProyectoColaTareas.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaTareas\ProyectoColaTareas\bin\Debug\net8.0\ProyectoColaTareas.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaTareas\ProyectoColaTareas\obj\Debug\net8.0\ProyectoColaTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaTareas\ProyectoColaTareas\obj\Debug\net8.0\ProyectoColaTareas.AssemblyInfoInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaTareas\ProyectoColaTareas\obj\Debug\net8.0\ProyectoColaTareas.AssemblyInfo.cs
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaTareas\ProyectoColaTareas\obj\Debug\net8.0\ProyectoColaTareas.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaTareas\ProyectoColaTareas\obj\Debug\net8.0\ProyectoColaTareas.sourcelink.json
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaTareas\ProyectoColaTareas\obj\Debug\net8.0\ProyectoColaTareas.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaTareas\ProyectoColaTareas\obj\Debug\net8.0\refint\ProyectoColaTareas.dll
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaTareas\ProyectoColaTareas\obj\Debug\net8.0\ProyectoColaTareas.pdb
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaTareas\ProyectoColaTareas\obj\Debug\net8.0\ProyectoColaTareas.genruntimeconfig.cache
+C:\Users\gabhercol\Documents\Programación\Proyectos\ProyectoColaTareas\ProyectoColaTareas\obj\Debug\net8.0\ref\ProyectoColaTareas.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMaterialEscolar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26F9C323-FDE0-4537-96C5-CEC606F845CD}|ProyectoMaterialEscolar\\ProyectoMaterialEscolar.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomaterialescolar\\proyectomaterialescolar\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F9C323-FDE0-4537-96C5-CEC606F845CD}|ProyectoMaterialEscolar\\ProyectoMaterialEscolar.csproj|solutionrelative:proyectomaterialescolar\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F9C323-FDE0-4537-96C5-CEC606F845CD}|ProyectoMaterialEscolar\\ProyectoMaterialEscolar.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomaterialescolar\\proyectomaterialescolar\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F9C323-FDE0-4537-96C5-CEC606F845CD}|ProyectoMaterialEscolar\\ProyectoMaterialEscolar.csproj|solutionrelative:proyectomaterialescolar\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F9C323-FDE0-4537-96C5-CEC606F845CD}|ProyectoMaterialEscolar\\ProyectoMaterialEscolar.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomaterialescolar\\proyectomaterialescolar\\materialescolar.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{26F9C323-FDE0-4537-96C5-CEC606F845CD}|ProyectoMaterialEscolar\\ProyectoMaterialEscolar.csproj|solutionrelative:proyectomaterialescolar\\materialescolar.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F9C323-FDE0-4537-96C5-CEC606F845CD}|ProyectoMaterialEscolar\\ProyectoMaterialEscolar.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectomaterialescolar\\proyectomaterialescolar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F9C323-FDE0-4537-96C5-CEC606F845CD}|ProyectoMaterialEscolar\\ProyectoMaterialEscolar.csproj|solutionrelative:proyectomaterialescolar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "materialEscolar.txt",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMaterialEscolar\\ProyectoMaterialEscolar\\materialEscolar.txt",
+              "RelativeDocumentMoniker": "ProyectoMaterialEscolar\\materialEscolar.txt",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMaterialEscolar\\ProyectoMaterialEscolar\\materialEscolar.txt",
+              "RelativeToolTip": "ProyectoMaterialEscolar\\materialEscolar.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-11T11:19:58.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMaterialEscolar\\ProyectoMaterialEscolar\\Inventario.cs",
+              "RelativeDocumentMoniker": "ProyectoMaterialEscolar\\Inventario.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMaterialEscolar\\ProyectoMaterialEscolar\\Inventario.cs",
+              "RelativeToolTip": "ProyectoMaterialEscolar\\Inventario.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:07:14.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMaterialEscolar\\ProyectoMaterialEscolar\\Material.cs",
+              "RelativeDocumentMoniker": "ProyectoMaterialEscolar\\Material.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMaterialEscolar\\ProyectoMaterialEscolar\\Material.cs",
+              "RelativeToolTip": "ProyectoMaterialEscolar\\Material.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:06:44.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMaterialEscolar\\ProyectoMaterialEscolar\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoMaterialEscolar\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoMaterialEscolar\\ProyectoMaterialEscolar\\Program.cs",
+              "RelativeToolTip": "ProyectoMaterialEscolar\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:06:20.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
