@@ -31,6 +31,10 @@ namespace ProyectoContarPalabras
                     foreach (string line in lineas)
                     {
                         string[] palabras  = line.Split(' ');
+                        for (int i = 0;  i < palabras.Length; i++)
+                        {
+                            palabras[i] = palabras[i].Trim();
+                        }
                         numeroPalabras += palabras.Length;
                     }
                     res = numeroPalabras > 0 ? $"El fichero tiene {numeroPalabras} palabras." : "El fichero está vacío";
