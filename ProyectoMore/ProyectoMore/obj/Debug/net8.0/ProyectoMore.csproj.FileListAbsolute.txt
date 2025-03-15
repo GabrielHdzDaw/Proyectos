@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoMore\ProyectoMore\bin\Debug\net8.0\ProyectoMore.exe
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoMore\ProyectoMore\bin\Debug\net8.0\ProyectoMore.deps.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoMore\ProyectoMore\bin\Debug\net8.0\ProyectoMore.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoMore\ProyectoMore\bin\Debug\net8.0\ProyectoMore.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoMore\ProyectoMore\bin\Debug\net8.0\ProyectoMore.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoMore\ProyectoMore\obj\Debug\net8.0\ProyectoMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoMore\ProyectoMore\obj\Debug\net8.0\ProyectoMore.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoMore\ProyectoMore\obj\Debug\net8.0\ProyectoMore.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoMore\ProyectoMore\obj\Debug\net8.0\ProyectoMore.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoMore\ProyectoMore\obj\Debug\net8.0\ProyectoMore.sourcelink.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoMore\ProyectoMore\obj\Debug\net8.0\ProyectoMore.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoMore\ProyectoMore\obj\Debug\net8.0\refint\ProyectoMore.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoMore\ProyectoMore\obj\Debug\net8.0\ProyectoMore.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoMore\ProyectoMore\obj\Debug\net8.0\ProyectoMore.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoMore\ProyectoMore\obj\Debug\net8.0\ref\ProyectoMore.dll

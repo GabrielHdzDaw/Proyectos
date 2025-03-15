@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|solutionrelative:proyectoflota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\robotreparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|solutionrelative:proyectoflota\\robotreparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\icargable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|solutionrelative:proyectoflota\\icargable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|solutionrelative:proyectoflota\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\dron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|solutionrelative:proyectoflota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\robotreparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|solutionrelative:proyectoflota\\robotreparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\icargable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|solutionrelative:proyectoflota\\icargable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\dron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|solutionrelative:proyectoflota\\dron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|solutionrelative:proyectoflota\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|solutionrelative:proyectoflota\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\camara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\camara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|solutionrelative:proyectoflota\\camara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabhercol\\documents\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\estacioncarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectoflota\\proyectoflota\\estacioncarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00FD41C-DA4F-47F2-AFCF-27E2E061E18E}|ProyectoFlota\\ProyectoFlota.csproj|solutionrelative:proyectoflota\\estacioncarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,15 +46,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Camara.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Camara.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Camara.cs",
               "RelativeDocumentMoniker": "ProyectoFlota\\Camara.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Camara.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Camara.cs",
               "RelativeToolTip": "ProyectoFlota\\Camara.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAzwDcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Dron.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Dron.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Dron.cs",
               "RelativeDocumentMoniker": "ProyectoFlota\\Dron.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Dron.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Dron.cs",
               "RelativeToolTip": "ProyectoFlota\\Dron.cs",
               "ViewState": "AQIAAEUAAAAAAAAAAAAkwFcAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -74,24 +74,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RobotReparto.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\RobotReparto.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\RobotReparto.cs",
               "RelativeDocumentMoniker": "ProyectoFlota\\RobotReparto.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\RobotReparto.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\RobotReparto.cs",
               "RelativeToolTip": "ProyectoFlota\\RobotReparto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:38:19.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T10:38:19.959Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Auto.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Auto.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Auto.cs",
               "RelativeDocumentMoniker": "ProyectoFlota\\Auto.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Auto.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Auto.cs",
               "RelativeToolTip": "ProyectoFlota\\Auto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,37 +98,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Vehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Vehiculo.cs",
               "RelativeDocumentMoniker": "ProyectoFlota\\Vehiculo.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Vehiculo.cs",
               "RelativeToolTip": "ProyectoFlota\\Vehiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAeAAAAAAAAAA==",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwDIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T10:34:30.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ICargable.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\ICargable.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\ICargable.cs",
               "RelativeDocumentMoniker": "ProyectoFlota\\ICargable.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\ICargable.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\ICargable.cs",
               "RelativeToolTip": "ProyectoFlota\\ICargable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:33:45.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T10:33:45.82Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "EstacionCarga.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\EstacionCarga.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\EstacionCarga.cs",
               "RelativeDocumentMoniker": "ProyectoFlota\\EstacionCarga.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\EstacionCarga.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\EstacionCarga.cs",
               "RelativeToolTip": "ProyectoFlota\\EstacionCarga.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,13 +135,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Program.cs",
               "RelativeDocumentMoniker": "ProyectoFlota\\Program.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Program.cs",
               "RelativeToolTip": "ProyectoFlota\\Program.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAnwNwAAAAfAAAAAAAAAA==",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T10:25:44.092Z",
               "EditorCaption": ""
@@ -152,9 +150,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Elemento.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Elemento.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Elemento.cs",
               "RelativeDocumentMoniker": "ProyectoFlota\\Elemento.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\Documents\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Elemento.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoFlota\\ProyectoFlota\\Elemento.cs",
               "RelativeToolTip": "ProyectoFlota\\Elemento.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwDIAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

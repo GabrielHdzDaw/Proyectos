@@ -20,14 +20,37 @@ namespace ProyectoMore
             try
             {
                 List<string> list = new List<string>(File.ReadAllLines(fichero));
-                foreach (string line in list)
+
+                while (list.Count > 0)
                 {
-                    if (line.Length > 79)
+                    for (int i = 0; i < 24 && list.Count > 0; i++)
                     {
-                        
+                        string linea = list[0]; 
+                        list.RemoveAt(0); 
+
+                        if (linea.Length > 79)
+                        {
+                            Console.WriteLine($"{i + 1} {linea.Substring(0, 79)}-");
+                            string resto = linea.Substring(79); 
+
+                            if (resto.Length > 0)
+                            {
+                                i += 1;
+                                Console.WriteLine($"{i + 1} {resto}");
+                            }
+                        }
+                        else
+                        {
+                            Console.WriteLine($"{i + 1} {linea}");
+                        }
+                    }
+
+                    if (list.Count > 0)
+                    {
+                        Console.WriteLine("Presiona Enter para continuar...");
+                        Console.ReadLine();
                     }
                 }
-                
             }
             catch (IOException)
             {
@@ -39,12 +62,12 @@ namespace ProyectoMore
             if (args.Length == 0)
             {
                 string fichero = PedirRutaFichero();
-                
+                Mostrar(fichero);
             }
             else if (args.Length == 1)
             {
                 string fichero = args[0];
-                
+                Mostrar(fichero);
             }
         }
     }
