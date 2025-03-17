@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExtraerTexto\bin\Debug\net8.0\ProyectoExtraerTexto.exe
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExtraerTexto\bin\Debug\net8.0\ProyectoExtraerTexto.deps.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExtraerTexto\bin\Debug\net8.0\ProyectoExtraerTexto.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExtraerTexto\bin\Debug\net8.0\ProyectoExtraerTexto.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExtraerTexto\bin\Debug\net8.0\ProyectoExtraerTexto.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExtraerTexto\obj\Debug\net8.0\ProyectoExtraerTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExtraerTexto\obj\Debug\net8.0\ProyectoExtraerTexto.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExtraerTexto\obj\Debug\net8.0\ProyectoExtraerTexto.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExtraerTexto\obj\Debug\net8.0\ProyectoExtraerTexto.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExtraerTexto\obj\Debug\net8.0\ProyectoExtraerTexto.sourcelink.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExtraerTexto\obj\Debug\net8.0\ProyectoExtraerTexto.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExtraerTexto\obj\Debug\net8.0\refint\ProyectoExtraerTexto.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExtraerTexto\obj\Debug\net8.0\ProyectoExtraerTexto.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExtraerTexto\obj\Debug\net8.0\ProyectoExtraerTexto.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExtraerTexto\obj\Debug\net8.0\ref\ProyectoExtraerTexto.dll
