@@ -27,3 +27,18 @@ C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoLess\obj\Debug\net8
 C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoLess\obj\Debug\net8.0\ProyectoLess.pdb
 C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoLess\obj\Debug\net8.0\ProyectoLess.genruntimeconfig.cache
 C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoLess\obj\Debug\net8.0\ref\ProyectoLess.dll
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoLess\bin\Debug\net8.0\ProyectoLess.exe
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoLess\bin\Debug\net8.0\ProyectoLess.deps.json
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoLess\bin\Debug\net8.0\ProyectoLess.runtimeconfig.json
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoLess\bin\Debug\net8.0\ProyectoLess.dll
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoLess\bin\Debug\net8.0\ProyectoLess.pdb
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoLess\obj\Debug\net8.0\ProyectoLess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoLess\obj\Debug\net8.0\ProyectoLess.AssemblyInfoInputs.cache
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoLess\obj\Debug\net8.0\ProyectoLess.AssemblyInfo.cs
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoLess\obj\Debug\net8.0\ProyectoLess.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoLess\obj\Debug\net8.0\ProyectoLess.sourcelink.json
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoLess\obj\Debug\net8.0\ProyectoLess.dll
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoLess\obj\Debug\net8.0\refint\ProyectoLess.dll
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoLess\obj\Debug\net8.0\ProyectoLess.pdb
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoLess\obj\Debug\net8.0\ProyectoLess.genruntimeconfig.cache
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoLess\obj\Debug\net8.0\ref\ProyectoLess.dll

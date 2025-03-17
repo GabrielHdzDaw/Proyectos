@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoContarA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28F42802-B425-4438-82B3-A8AF50747632}|ProyectoContarA\\ProyectoContarA.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectocontara\\proyectocontara\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F42802-B425-4438-82B3-A8AF50747632}|ProyectoContarA\\ProyectoContarA.csproj|solutionrelative:proyectocontara\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F42802-B425-4438-82B3-A8AF50747632}|ProyectoContarA\\ProyectoContarA.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectocontara\\proyectocontara\\fichero.bmp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{28F42802-B425-4438-82B3-A8AF50747632}|ProyectoContarA\\ProyectoContarA.csproj|solutionrelative:proyectocontara\\fichero.bmp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fichero.bmp",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoContarA\\ProyectoContarA\\fichero.bmp",
+              "RelativeDocumentMoniker": "ProyectoContarA\\fichero.bmp",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoContarA\\ProyectoContarA\\fichero.bmp",
+              "RelativeToolTip": "ProyectoContarA\\fichero.bmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-17T11:30:05.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoContarA\\ProyectoContarA\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoContarA\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoContarA\\ProyectoContarA\\Program.cs*",
+              "RelativeToolTip": "ProyectoContarA\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:15:43.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
