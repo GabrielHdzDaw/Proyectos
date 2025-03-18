@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoContarPalabras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7260e39aa959af3c29c8c990056fd502962f1b58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41b1c630b3e5d0bc4789fc7ebf6f0f993f1a1650")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoContarPalabras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoContarPalabras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
