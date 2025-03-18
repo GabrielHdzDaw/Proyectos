@@ -45,7 +45,7 @@ namespace ProyectoInversorFichero
         {
             if (File.Exists(fichero))
             {
-                FileStream fs = File.OpenWrite(fichero.Replace(fichero.Substring(fichero.LastIndexOf("."), fichero.Length), ".inv"));
+                FileStream fs = File.OpenWrite(fichero);
                 fs.Write(bytes, 0, bytes.Length);
                 Console.WriteLine("Archivo sobreescrito");
                 fs.Close();
@@ -53,7 +53,7 @@ namespace ProyectoInversorFichero
             else
             {
                 Console.WriteLine("Creando archivo vacío");
-                FileStream fs2 = File.Create(fichero.Replace(fichero.Substring(fichero.LastIndexOf("."), fichero.Length), ".inv"));
+                FileStream fs2 = File.OpenWrite(fichero);
                 fs2.Close();
             }
         }
@@ -67,7 +67,7 @@ namespace ProyectoInversorFichero
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            InvertirFichero();
         }
     }
 }

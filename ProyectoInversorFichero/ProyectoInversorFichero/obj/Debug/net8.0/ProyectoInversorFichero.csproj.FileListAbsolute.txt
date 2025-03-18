@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInversorFichero\ProyectoInversorFichero\bin\Debug\net8.0\ProyectoInversorFichero.exe
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInversorFichero\ProyectoInversorFichero\bin\Debug\net8.0\ProyectoInversorFichero.deps.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInversorFichero\ProyectoInversorFichero\bin\Debug\net8.0\ProyectoInversorFichero.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInversorFichero\ProyectoInversorFichero\bin\Debug\net8.0\ProyectoInversorFichero.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInversorFichero\ProyectoInversorFichero\bin\Debug\net8.0\ProyectoInversorFichero.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInversorFichero\ProyectoInversorFichero\obj\Debug\net8.0\ProyectoInversorFichero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInversorFichero\ProyectoInversorFichero\obj\Debug\net8.0\ProyectoInversorFichero.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInversorFichero\ProyectoInversorFichero\obj\Debug\net8.0\ProyectoInversorFichero.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInversorFichero\ProyectoInversorFichero\obj\Debug\net8.0\ProyectoInversorFichero.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInversorFichero\ProyectoInversorFichero\obj\Debug\net8.0\ProyectoInversorFichero.sourcelink.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInversorFichero\ProyectoInversorFichero\obj\Debug\net8.0\ProyectoInversorFichero.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInversorFichero\ProyectoInversorFichero\obj\Debug\net8.0\refint\ProyectoInversorFichero.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInversorFichero\ProyectoInversorFichero\obj\Debug\net8.0\ProyectoInversorFichero.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInversorFichero\ProyectoInversorFichero\obj\Debug\net8.0\ProyectoInversorFichero.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoInversorFichero\ProyectoInversorFichero\obj\Debug\net8.0\ref\ProyectoInversorFichero.dll

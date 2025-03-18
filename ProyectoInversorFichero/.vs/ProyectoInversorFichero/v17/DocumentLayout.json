@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoInversorFichero\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoInversorFichero\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCD4EDC9-A037-4757-83E6-B1E7B122C64D}|ProyectoInversorFichero\\ProyectoInversorFichero.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoinversorfichero\\proyectoinversorfichero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCD4EDC9-A037-4757-83E6-B1E7B122C64D}|ProyectoInversorFichero\\ProyectoInversorFichero.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectoinversorfichero\\proyectoinversorfichero\\fichero.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FCD4EDC9-A037-4757-83E6-B1E7B122C64D}|ProyectoInversorFichero\\ProyectoInversorFichero.csproj|solutionrelative:proyectoinversorfichero\\fichero.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD4EDC9-A037-4757-83E6-B1E7B122C64D}|ProyectoInversorFichero\\ProyectoInversorFichero.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectoinversorfichero\\proyectoinversorfichero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCD4EDC9-A037-4757-83E6-B1E7B122C64D}|ProyectoInversorFichero\\ProyectoInversorFichero.csproj|solutionrelative:proyectoinversorfichero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "fichero.txt",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoInversorFichero\\ProyectoInversorFichero\\fichero.txt",
+              "RelativeDocumentMoniker": "ProyectoInversorFichero\\fichero.txt",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoInversorFichero\\ProyectoInversorFichero\\fichero.txt",
+              "RelativeToolTip": "ProyectoInversorFichero\\fichero.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-18T18:56:28.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoInversorFichero\\ProyectoInversorFichero\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoInversorFichero\\ProyectoInversorFichero\\Program.cs",
               "RelativeDocumentMoniker": "ProyectoInversorFichero\\Program.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoInversorFichero\\ProyectoInversorFichero\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoInversorFichero\\ProyectoInversorFichero\\Program.cs",
               "RelativeToolTip": "ProyectoInversorFichero\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAswD0AAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDcAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T11:21:20.816Z",
               "EditorCaption": ""

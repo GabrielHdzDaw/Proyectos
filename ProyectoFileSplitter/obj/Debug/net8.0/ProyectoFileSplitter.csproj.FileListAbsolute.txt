@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\ProyectoFileSplitter\bin\Debug\net8.0\ProyectoFileSplitter.exe
+C:\Users\gabri\source\repos\ProyectoFileSplitter\bin\Debug\net8.0\ProyectoFileSplitter.deps.json
+C:\Users\gabri\source\repos\ProyectoFileSplitter\bin\Debug\net8.0\ProyectoFileSplitter.runtimeconfig.json
+C:\Users\gabri\source\repos\ProyectoFileSplitter\bin\Debug\net8.0\ProyectoFileSplitter.dll
+C:\Users\gabri\source\repos\ProyectoFileSplitter\bin\Debug\net8.0\ProyectoFileSplitter.pdb
+C:\Users\gabri\source\repos\ProyectoFileSplitter\obj\Debug\net8.0\ProyectoFileSplitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\ProyectoFileSplitter\obj\Debug\net8.0\ProyectoFileSplitter.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ProyectoFileSplitter\obj\Debug\net8.0\ProyectoFileSplitter.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ProyectoFileSplitter\obj\Debug\net8.0\ProyectoFileSplitter.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ProyectoFileSplitter\obj\Debug\net8.0\ProyectoFileSplitter.dll
+C:\Users\gabri\source\repos\ProyectoFileSplitter\obj\Debug\net8.0\refint\ProyectoFileSplitter.dll
+C:\Users\gabri\source\repos\ProyectoFileSplitter\obj\Debug\net8.0\ProyectoFileSplitter.pdb
+C:\Users\gabri\source\repos\ProyectoFileSplitter\obj\Debug\net8.0\ProyectoFileSplitter.genruntimeconfig.cache
+C:\Users\gabri\source\repos\ProyectoFileSplitter\obj\Debug\net8.0\ref\ProyectoFileSplitter.dll

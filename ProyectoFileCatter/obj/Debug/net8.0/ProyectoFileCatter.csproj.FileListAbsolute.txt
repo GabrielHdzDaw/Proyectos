@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoFileCatter\bin\Debug\net8.0\ProyectoFileCatter.exe
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoFileCatter\bin\Debug\net8.0\ProyectoFileCatter.deps.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoFileCatter\bin\Debug\net8.0\ProyectoFileCatter.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoFileCatter\bin\Debug\net8.0\ProyectoFileCatter.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoFileCatter\bin\Debug\net8.0\ProyectoFileCatter.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoFileCatter\obj\Debug\net8.0\ProyectoFileCatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoFileCatter\obj\Debug\net8.0\ProyectoFileCatter.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoFileCatter\obj\Debug\net8.0\ProyectoFileCatter.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoFileCatter\obj\Debug\net8.0\ProyectoFileCatter.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoFileCatter\obj\Debug\net8.0\ProyectoFileCatter.sourcelink.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoFileCatter\obj\Debug\net8.0\ProyectoFileCatter.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoFileCatter\obj\Debug\net8.0\refint\ProyectoFileCatter.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoFileCatter\obj\Debug\net8.0\ProyectoFileCatter.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoFileCatter\obj\Debug\net8.0\ProyectoFileCatter.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoFileCatter\obj\Debug\net8.0\ref\ProyectoFileCatter.dll
