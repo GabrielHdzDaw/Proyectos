@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoVisorHexadecimal\bin\Debug\net8.0\ProyectoVisorHexadecimal.exe
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoVisorHexadecimal\bin\Debug\net8.0\ProyectoVisorHexadecimal.deps.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoVisorHexadecimal\bin\Debug\net8.0\ProyectoVisorHexadecimal.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoVisorHexadecimal\bin\Debug\net8.0\ProyectoVisorHexadecimal.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoVisorHexadecimal\bin\Debug\net8.0\ProyectoVisorHexadecimal.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoVisorHexadecimal\obj\Debug\net8.0\ProyectoVisorHexadecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoVisorHexadecimal\obj\Debug\net8.0\ProyectoVisorHexadecimal.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoVisorHexadecimal\obj\Debug\net8.0\ProyectoVisorHexadecimal.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoVisorHexadecimal\obj\Debug\net8.0\ProyectoVisorHexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoVisorHexadecimal\obj\Debug\net8.0\ProyectoVisorHexadecimal.sourcelink.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoVisorHexadecimal\obj\Debug\net8.0\ProyectoVisorHexadecimal.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoVisorHexadecimal\obj\Debug\net8.0\refint\ProyectoVisorHexadecimal.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoVisorHexadecimal\obj\Debug\net8.0\ProyectoVisorHexadecimal.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoVisorHexadecimal\obj\Debug\net8.0\ProyectoVisorHexadecimal.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoVisorHexadecimal\obj\Debug\net8.0\ref\ProyectoVisorHexadecimal.dll

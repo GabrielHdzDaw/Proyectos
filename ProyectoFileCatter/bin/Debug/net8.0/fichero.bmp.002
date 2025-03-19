@@ -1,0 +1,152 @@
+ <exif:Mode>2</exif:Mode>
+   <exif:RedEyeMode>False</exif:RedEyeMode>
+   <exif:Return>0</exif:Return>
+  </exif:Flash>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:ColorMode>3</photoshop:ColorMode>
+  <photoshop:ICCProfile>Adobe RGB (1998)</photoshop:ICCProfile>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:tiff='http://ns.adobe.com/tiff/1.0/'>
+  <tiff:BitsPerSample>
+   <rdf:Seq>
+    <rdf:li>8</rdf:li>
+   </rdf:Seq>
+  </tiff:BitsPerSample>
+  <tiff:Compression>6</tiff:Compression>
+  <tiff:ImageLength>5000</tiff:ImageLength>
+  <tiff:ImageWidth>5000</tiff:ImageWidth>
+  <tiff:ResolutionUnit>2</tiff:ResolutionUnit>
+  <tiff:XResolution>300/1</tiff:XResolution>
+  <tiff:YCbCrSubSampling>1 1</tiff:YCbCrSubSampling>
+  <tiff:YResolution>300/1</tiff:YResolution>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xmp='http://ns.adobe.com/xap/1.0/'>
+  <xmp:CreatorTool>Ver.1.01</xmp:CreatorTool>
+  <xmp:MetadataDate>2016-01-05T09:12:01+01:00</xmp:MetadataDate>
+  <xmp:Rating>0</xmp:Rating>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:stEvt='http://ns.adobe.com/xap/1.0/sType/ResourceEvent#'
+  xmlns:stRef='http://ns.adobe.com/xap/1.0/sType/ResourceRef#'
+  xmlns:xmpMM='http://ns.adobe.com/xap/1.0/mm/'>
+  <xmpMM:DerivedFrom rdf:parseType='Resource'>
+   <stRef:documentID>xmp.did:CA73A41ED4B2E511929CB2AF330C9510</stRef:documentID>
+   <stRef:instanceID>xmp.iid:4C3383DB7FB3E511B1F386DCD359270D</stRef:instanceID>
+   <stRef:originalDocumentID>CD042E00AD5E3C4122E49CA912F09AC0</stRef:originalDocumentID>
+  </xmpMM:DerivedFrom>
+  <xmpMM:DocumentID>xmp.did:CA73A41ED4B2E511929CB2AF330C9510</xmpMM:DocumentID>
+  <xmpMM:History>
+   <rdf:Seq>
+    <rdf:li rdf:parseType='Resource'>
+     <stEvt:action>saved</stEvt:action>
+     <stEvt:changed>/metadata</stEvt:changed>
+     <stEvt:instanceID>xmp.iid:976BFC3027AAE511BB43EBC7D90A1BB9</stEvt:instanceID>
+     <stEvt:softwareAgent>Adobe Photoshop Camera Raw 6.7.1 (Windows)</stEvt:softwareAgent>
+     <stEvt:when>2015-12-24T11:15:01+01:00</stEvt:when>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <stEvt:action>derived</stEvt:action>
+     <stEvt:parameters>converted from image/x-nikon-nef to image/tiff</stEvt:parameters>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <stEvt:action>saved</stEvt:action>
+     <stEvt:changed>/</stEvt:changed>
+     <stEvt:instanceID>xmp.iid:CA73A41ED4B2E511929CB2AF330C9510</stEvt:instanceID>
+     <stEvt:softwareAgent>Adobe Photoshop Camera Raw 6.7.1 (Windows)</stEvt:softwareAgent>
+     <stEvt:when>2016-01-05T09:08:57+01:00</stEvt:when>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <stEvt:action>saved</stEvt:action>
+     <stEvt:changed>/</stEvt:changed>
+     <stEvt:instanceID>xmp.iid:4C3383DB7FB3E511B1F386DCD359270D</stEvt:instanceID>
+     <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+     <stEvt:when>2016-01-05T09:12:01+01:00</stEvt:when>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <stEvt:action>converted</stEvt:action>
+     <stEvt:parameters>from image/tiff to image/jpeg</stEvt:parameters>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <stEvt:action>derived</stEvt:action>
+     <stEvt:parameters>converted from image/tiff to image/jpeg</stEvt:parameters>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <stEvt:action>saved</stEvt:action>
+     <stEvt:changed>/</stEvt:changed>
+     <stEvt:instanceID>xmp.iid:4D3383DB7FB3E511B1F386DCD359270D</stEvt:instanceID>
+     <stEvt:softwareAgent>Adobe Photoshop CS5.1 Windows</stEvt:softwareAgent>
+     <stEvt:when>2016-01-05T09:12:01+01:00</stEvt:when>
+    </rdf:li>
+   </rdf:Seq>
+  </xmpMM:History>
+  <xmpMM:InstanceID>xmp.iid:4D3383DB7FB3E511B1F386DCD359270D</xmpMM:InstanceID>
+  <xmpMM:OriginalDocumentID>CD042E00AD5E3C4122E49CA912F09AC0</xmpMM:OriginalDocumentID>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:crs='http://ns.adobe.com/camera-raw-settings/1.0/'>
+  <crs:AlreadyApplied>True</crs:AlreadyApplied>
+  <crs:BlueHue>0</crs:BlueHue>
+  <crs:BlueSaturation>0</crs:BlueSaturation>
+  <crs:Brightness>+50</crs:Brightness>
+  <crs:CameraProfile>Adobe Standard</crs:CameraProfile>
+  <crs:CameraProfileDigest>CA4F221DEBD3C272C94F7C3624CF9A18</crs:CameraProfileDigest>
+  <crs:Clarity>0</crs:Clarity>
+  <crs:ColorNoiseReduction>25</crs:ColorNoiseReduction>
+  <crs:ColorNoiseReductionDetail>50</crs:ColorNoiseReductionDetail>
+  <crs:ConvertToGrayscale>False</crs:ConvertToGrayscale>
+  <crs:Defringe>0</crs:Defringe>
+  <crs:Exposure>-0.25</crs:Exposure>
+  <crs:FillLight>0</crs:FillLight>
+  <crs:GrainAmount>0</crs:GrainAmount>
+  <crs:GreenHue>0</crs:GreenHue>
+  <crs:GreenSaturation>0</crs:GreenSaturation>
+  <crs:HasCrop>False</crs:HasCrop>
+  <crs:HasSettings>True</crs:HasSettings>
+  <crs:HighlightRecovery>0</crs:HighlightRecovery>
+  <crs:HueAdjustmentAqua>0</crs:HueAdjustmentAqua>
+  <crs:HueAdjustmentBlue>0</crs:HueAdjustmentBlue>
+  <crs:HueAdjustmentGreen>0</crs:HueAdjustmentGreen>
+  <crs:HueAdjustmentMagenta>0</crs:HueAdjustmentMagenta>
+  <crs:HueAdjustmentOrange>0</crs:HueAdjustmentOrange>
+  <crs:HueAdjustmentPurple>0</crs:HueAdjustmentPurple>
+  <crs:HueAdjustmentRed>0</crs:HueAdjustmentRed>
+  <crs:HueAdjustmentYellow>0</crs:HueAdjustmentYellow>
+  <crs:LensManualDistortionAmount>0</crs:LensManualDistortionAmount>
+  <crs:LensProfileEnable>0</crs:LensProfileEnable>
+  <crs:LensProfileSetup>LensDefaults</crs:LensProfileSetup>
+  <crs:LuminanceAdjustmentAqua>0</crs:LuminanceAdjustmentAqua>
+  <crs:LuminanceAdjustmentBlue>0</crs:LuminanceAdjustmentBlue>
+  <crs:LuminanceAdjustmentGreen>0</crs:LuminanceAdjustmentGreen>
+  <crs:LuminanceAdjustmentMagenta>0</crs:LuminanceAdjustmentMagenta>
+  <crs:LuminanceAdjustmentOrange>0</crs:LuminanceAdjustmentOrange>
+  <crs:LuminanceAdjustmentPurple>0</crs:LuminanceAdjustmentPurple>
+  <crs:LuminanceAdjustmentRed>0</crs:LuminanceAdjustmentRed>
+  <crs:LuminanceAdjustmentYellow>0</crs:LuminanceAdjustmentYellow>
+  <crs:LuminanceSmoothing>0</crs:LuminanceSmoothing>
+  <crs:ParametricDarks>0</crs:ParametricDarks>
+  <crs:ParametricHighlightSplit>75</crs:ParametricHighlightSplit>
+  <crs:ParametricHighlights>0</crs:ParametricHighlights>
+  <crs:ParametricLights>0</crs:ParametricLights>
+  <crs:ParametricMidtoneSplit>50</crs:ParametricMidtoneSplit>
+  <crs:ParametricShadowSplit>25</crs:ParametricShadowSplit>
+  <crs:ParametricShadows>0</crs:ParametricShadows>
+  <crs:PerspectiveHorizontal>0</crs:PerspectiveHorizontal>
+  <crs:PerspectiveRotate>0.0</crs:PerspectiveRotate>
+  <crs:PerspectiveScale>100</crs:PerspectiveScale>
+  <crs:PerspectiveVertical>0</crs:PerspectiveVertical>
+  <crs:PostCropVignetteAmount>0</crs:PostCropVignetteAmount>
+  <crs:ProcessVersion>5.7</crs:ProcessVersion>
+  <crs:RawFileName>151223-193445.NEF</crs:RawFileName>
+  <crs:RedHue>0</crs:RedHue>
+  <crs:RedSaturation>0</crs:RedSaturation>
+  <crs:SaturationAdjustmentAqua>0</crs:SaturationAdjustmentAqua>
+  <crs:SaturationAdjustmentBlue>

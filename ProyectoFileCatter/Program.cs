@@ -2,7 +2,7 @@
 /* Fecha: 18/03/2025 22:07:47
 /* Descripción:  Vamos a realizar el comando contrario al splitter realizado anteriormente. Se escribirá en consola:
 catter ejemplo.bmp
-Y unirá todos los ficheros ejemplo.bmp.* que encuentre en uno solo concatenandolos en el orden adecuado (001, 002...)
+Y unirá todos los ficheros que encuentre en uno solo concatenandolos en el orden adecuado (001, 002...)
 Se creará un fichero llamado ejemplo.bmp como resultado. Si este fichero ya existe se pregunta si se desea sobreescribir 
 y si se dice que no se crea un fichero llamado ejemplo.bmp.bak
 */
@@ -49,13 +49,22 @@ namespace ProyectoFileCatter
 
         public static void Catter(string fichero)
         {
-            int i = 0;
-            while (File.Exists(fichero + (i + 1).ToString("000")))
+            int i = 1;
+            if (File.Exists(fichero + ".bmp"))
             {
-                Console.WriteLine($"Leyendo bytes del fichero {i + 1}");
+                Console.WriteLine("El fichero ya existe, desea sobreescribirlo? (s/n)");
+                string respuesta = Console.ReadLine();
+                if (respuesta == "n")
+                {
+                    File.Create(fichero + ".bak");
+                }
+            }
+            while (File.Exists(fichero + "." + (i).ToString("000")))
+            {
+                Console.WriteLine($"Leyendo bytes del fichero {i}");
                 byte[] bytes = LeerBytes(fichero + "." + i.ToString("000"));
-                Console.WriteLine($"Escribiendo bytes del fichero {i + 1}");
-                EscribirBytes($"{fichero}.bmp", bytes);
+                Console.WriteLine($"Escribiendo bytes del fichero {i}");
+                EscribirBytes(fichero, bytes);
                 i++;
             }
         }
