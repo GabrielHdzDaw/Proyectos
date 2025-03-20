@@ -45,7 +45,6 @@ namespace ProyectoFileSplitter
             FileStream fsFichero = new FileStream(fichero, FileMode.Open);
             long nBytes = fsFichero.Length;
             long nFicheros = nBytes / tamanyo;
-            long  resto = nBytes % tamanyo;
             int i = 0;
             for (i = 0; i < nFicheros; i++)
             {

@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoMore\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoMore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22EDDE12-2B34-48C1-B476-373F83C12C2E}|ProyectoMore\\ProyectoMore.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectomore\\proyectomore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22EDDE12-2B34-48C1-B476-373F83C12C2E}|ProyectoMore\\ProyectoMore.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectomore\\proyectomore\\fichero.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22EDDE12-2B34-48C1-B476-373F83C12C2E}|ProyectoMore\\ProyectoMore.csproj|solutionrelative:proyectomore\\fichero.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EDDE12-2B34-48C1-B476-373F83C12C2E}|ProyectoMore\\ProyectoMore.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectomore\\proyectomore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22EDDE12-2B34-48C1-B476-373F83C12C2E}|ProyectoMore\\ProyectoMore.csproj|solutionrelative:proyectomore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "fichero.txt",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoMore\\ProyectoMore\\fichero.txt",
+              "RelativeDocumentMoniker": "ProyectoMore\\fichero.txt",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoMore\\ProyectoMore\\fichero.txt",
+              "RelativeToolTip": "ProyectoMore\\fichero.txt",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwCYAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-15T15:45:15.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoMore\\ProyectoMore\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoMore\\ProyectoMore\\Program.cs",
               "RelativeDocumentMoniker": "ProyectoMore\\Program.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoMore\\ProyectoMore\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoMore\\ProyectoMore\\Program.cs",
               "RelativeToolTip": "ProyectoMore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T11:30:34.29Z",
               "EditorCaption": ""

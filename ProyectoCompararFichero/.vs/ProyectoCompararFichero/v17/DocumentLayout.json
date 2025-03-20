@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoCompararFichero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6F0AF6-5F3B-42EB-9895-85D6585E954C}|ProyectoCompararFichero\\ProyectoCompararFichero.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectocompararfichero\\proyectocompararfichero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6F0AF6-5F3B-42EB-9895-85D6585E954C}|ProyectoCompararFichero\\ProyectoCompararFichero.csproj|solutionrelative:proyectocompararfichero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6F0AF6-5F3B-42EB-9895-85D6585E954C}|ProyectoCompararFichero\\ProyectoCompararFichero.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectocompararfichero\\proyectocompararfichero\\fichero2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AF6F0AF6-5F3B-42EB-9895-85D6585E954C}|ProyectoCompararFichero\\ProyectoCompararFichero.csproj|solutionrelative:proyectocompararfichero\\fichero2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6F0AF6-5F3B-42EB-9895-85D6585E954C}|ProyectoCompararFichero\\ProyectoCompararFichero.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectocompararfichero\\proyectocompararfichero\\fichero1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AF6F0AF6-5F3B-42EB-9895-85D6585E954C}|ProyectoCompararFichero\\ProyectoCompararFichero.csproj|solutionrelative:proyectocompararfichero\\fichero1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fichero1.txt",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoCompararFichero\\ProyectoCompararFichero\\fichero1.txt",
+              "RelativeDocumentMoniker": "ProyectoCompararFichero\\fichero1.txt",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoCompararFichero\\ProyectoCompararFichero\\fichero1.txt",
+              "RelativeToolTip": "ProyectoCompararFichero\\fichero1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-20T11:12:36.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fichero2.txt",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoCompararFichero\\ProyectoCompararFichero\\fichero2.txt",
+              "RelativeDocumentMoniker": "ProyectoCompararFichero\\fichero2.txt",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoCompararFichero\\ProyectoCompararFichero\\fichero2.txt",
+              "RelativeToolTip": "ProyectoCompararFichero\\fichero2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-20T11:12:38.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoCompararFichero\\ProyectoCompararFichero\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoCompararFichero\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoCompararFichero\\ProyectoCompararFichero\\Program.cs",
+              "RelativeToolTip": "ProyectoCompararFichero\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:52:36.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
