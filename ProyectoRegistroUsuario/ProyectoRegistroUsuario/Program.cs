@@ -12,12 +12,18 @@ namespace ProyectoRegistroUsuario
     {
         public static bool ValidarUsuario(Usuario usuario)
         {
+            bool validado = false;
             string[] lineas = LeerFichero();
-            if (usuario.GetUsername() == lineas[0] && usuario.GetPassword() == lineas[1])
+            foreach (string linea in lineas)
             {
-                return true;
+                string[] strings = linea.Split(":");
+                if (usuario.GetUsername() == strings[0] && usuario.GetPassword() == strings[1])
+                {
+                    validado = true;
+                    Console.WriteLine("Usuario validado");
+                }
             }
-            return false;
+            return validado;
         }
 
         public static string[] LeerFichero()
@@ -26,6 +32,7 @@ namespace ProyectoRegistroUsuario
             try
             {
                 lineas = File.ReadAllLines(@"..\..\..\users.txt");
+                
                 return lineas;
             }
             catch (IOException)
@@ -35,13 +42,49 @@ namespace ProyectoRegistroUsuario
             return null;
         }
 
-        public static void EscribirLineas()
+        public static void EscribirLinea(string linea)
         {
+            try
+            {
+                StreamWriter sw = File.AppendText(@"..\..\..\registro.txt");
+                
+                sw.WriteLine(linea + DateTime.Now);
 
+                sw.Close();
+                
+            }
+            catch (IOException)
+            {
+                Console.WriteLine("Error al escribir el archivo");
+            }
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.Write("Introduce nombre de usuario: ");
+            string nombreUsuario = Console.ReadLine();
+            Console.Write("Introduce contraseña: ");
+            string password = Console.ReadLine();
+            Usuario usuario = new Usuario(nombreUsuario, password);
+            if (ValidarUsuario(usuario))
+            {
+                
+                string entradaUsuario;
+                do
+                {
+                    Console.Write("Introduce un texto ('fin' para terminar): ");
+                    entradaUsuario = Console.ReadLine();
+                    if (entradaUsuario != "fin")
+                    {
+                        EscribirLinea($"{usuario.GetUsername()}: {entradaUsuario} | {DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss")}");
+                    }
+                    
+                } while (entradaUsuario != "fin");
+                
+            }
+            else
+            {
+                Console.WriteLine("Usuario no validado");
+            }
         }
     }
 }

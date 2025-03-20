@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoRegistroUsuario\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoRegistroUsuario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBD90A49-084E-48B6-BF48-9E5C6733CA6A}|ProyectoRegistroUsuario\\ProyectoRegistroUsuario.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoregistrousuario\\proyectoregistrousuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBD90A49-084E-48B6-BF48-9E5C6733CA6A}|ProyectoRegistroUsuario\\ProyectoRegistroUsuario.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectoregistrousuario\\proyectoregistrousuario\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD90A49-084E-48B6-BF48-9E5C6733CA6A}|ProyectoRegistroUsuario\\ProyectoRegistroUsuario.csproj|solutionrelative:proyectoregistrousuario\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD90A49-084E-48B6-BF48-9E5C6733CA6A}|ProyectoRegistroUsuario\\ProyectoRegistroUsuario.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectoregistrousuario\\proyectoregistrousuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBD90A49-084E-48B6-BF48-9E5C6733CA6A}|ProyectoRegistroUsuario\\ProyectoRegistroUsuario.csproj|solutionrelative:proyectoregistrousuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBD90A49-084E-48B6-BF48-9E5C6733CA6A}|ProyectoRegistroUsuario\\ProyectoRegistroUsuario.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoregistrousuario\\proyectoregistrousuario\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBD90A49-084E-48B6-BF48-9E5C6733CA6A}|ProyectoRegistroUsuario\\ProyectoRegistroUsuario.csproj|solutionrelative:proyectoregistrousuario\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBD90A49-084E-48B6-BF48-9E5C6733CA6A}|ProyectoRegistroUsuario\\ProyectoRegistroUsuario.csproj|c:\\users\\gabri\\documents\\daw\\programaci\u00F3n\\proyectos\\proyectoregistrousuario\\proyectoregistrousuario\\users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DBD90A49-084E-48B6-BF48-9E5C6733CA6A}|ProyectoRegistroUsuario\\ProyectoRegistroUsuario.csproj|solutionrelative:proyectoregistrousuario\\users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,26 +26,38 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "users.txt",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoRegistroUsuario\\ProyectoRegistroUsuario\\users.txt",
+              "RelativeDocumentMoniker": "ProyectoRegistroUsuario\\users.txt",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoRegistroUsuario\\ProyectoRegistroUsuario\\users.txt",
+              "RelativeToolTip": "ProyectoRegistroUsuario\\users.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-20T22:07:40.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoRegistroUsuario\\ProyectoRegistroUsuario\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoRegistroUsuario\\ProyectoRegistroUsuario\\Usuario.cs",
               "RelativeDocumentMoniker": "ProyectoRegistroUsuario\\Usuario.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoRegistroUsuario\\ProyectoRegistroUsuario\\Usuario.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoRegistroUsuario\\ProyectoRegistroUsuario\\Usuario.cs",
               "RelativeToolTip": "ProyectoRegistroUsuario\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T11:36:44.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoRegistroUsuario\\ProyectoRegistroUsuario\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoRegistroUsuario\\ProyectoRegistroUsuario\\Program.cs",
               "RelativeDocumentMoniker": "ProyectoRegistroUsuario\\Program.cs",
-              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoRegistroUsuario\\ProyectoRegistroUsuario\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\DAW\\Programaci\u00F3n\\Proyectos\\ProyectoRegistroUsuario\\ProyectoRegistroUsuario\\Program.cs",
               "RelativeToolTip": "ProyectoRegistroUsuario\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T11:36:00.149Z",
               "EditorCaption": ""
