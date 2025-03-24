@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuarioLectura\bin\Debug\net8.0\ProyectoRegistroUsuarioLectura.exe
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuarioLectura\bin\Debug\net8.0\ProyectoRegistroUsuarioLectura.deps.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuarioLectura\bin\Debug\net8.0\ProyectoRegistroUsuarioLectura.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuarioLectura\bin\Debug\net8.0\ProyectoRegistroUsuarioLectura.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuarioLectura\bin\Debug\net8.0\ProyectoRegistroUsuarioLectura.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuarioLectura\obj\Debug\net8.0\ProyectoRegistroUsuarioLectura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuarioLectura\obj\Debug\net8.0\ProyectoRegistroUsuarioLectura.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuarioLectura\obj\Debug\net8.0\ProyectoRegistroUsuarioLectura.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuarioLectura\obj\Debug\net8.0\ProyectoRegistroUsuarioLectura.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuarioLectura\obj\Debug\net8.0\ProyectoRegistroUsuarioLectura.sourcelink.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuarioLectura\obj\Debug\net8.0\ProyectoRegistroUsuarioLectura.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuarioLectura\obj\Debug\net8.0\refint\ProyectoRegistroUsuarioLectura.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuarioLectura\obj\Debug\net8.0\ProyectoRegistroUsuarioLectura.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuarioLectura\obj\Debug\net8.0\ProyectoRegistroUsuarioLectura.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuarioLectura\obj\Debug\net8.0\ref\ProyectoRegistroUsuarioLectura.dll

@@ -1,0 +1,62 @@
+[
+  {
+    "Titulo": "Sombra Letal",
+    "Genero": "Acci\u00F3n",
+    "Precio": 19.99
+  },
+  {
+    "Titulo": "Reinos Perdidos",
+    "Genero": "Aventura",
+    "Precio": 29.99
+  },
+  {
+    "Titulo": "Velocidad Extrema",
+    "Genero": "Carreras",
+    "Precio": 24.5
+  },
+  {
+    "Titulo": "Mundo de Magia",
+    "Genero": "RPG",
+    "Precio": 34.99
+  },
+  {
+    "Titulo": "Guerras del Futuro",
+    "Genero": "Estrategia",
+    "Precio": 27.75
+  },
+  {
+    "Titulo": "Pesadilla Virtual",
+    "Genero": "Terror",
+    "Precio": 21.99
+  },
+  {
+    "Titulo": "Torneo Gal\u00E1ctico",
+    "Genero": "Lucha",
+    "Precio": 26.49
+  },
+  {
+    "Titulo": "Cazador Nocturno",
+    "Genero": "Sigilo",
+    "Precio": 22.99
+  },
+  {
+    "Titulo": "Batalla de Titanes",
+    "Genero": "Multijugador",
+    "Precio": 31.99
+  },
+  {
+    "Titulo": "Exploradores del Abismo",
+    "Genero": "Plataformas",
+    "Precio": 18.99
+  },
+  {
+    "Titulo": "Lentejas PC",
+    "Genero": "de comer",
+    "Precio": 29
+  },
+  {
+    "Titulo": "Worms",
+    "Genero": "de ostias",
+    "Precio": 29.3
+  }
+]

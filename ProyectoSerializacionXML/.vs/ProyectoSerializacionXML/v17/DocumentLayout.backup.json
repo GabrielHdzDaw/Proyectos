@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionXML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35791468-5547-4254-ADD1-EA87B181CCD4}|ProyectoSerializacionXML\\ProyectoSerializacionXML.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoserializacionxml\\proyectoserializacionxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35791468-5547-4254-ADD1-EA87B181CCD4}|ProyectoSerializacionXML\\ProyectoSerializacionXML.csproj|solutionrelative:proyectoserializacionxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35791468-5547-4254-ADD1-EA87B181CCD4}|ProyectoSerializacionXML\\ProyectoSerializacionXML.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoserializacionxml\\proyectoserializacionxml\\videojuegos.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{35791468-5547-4254-ADD1-EA87B181CCD4}|ProyectoSerializacionXML\\ProyectoSerializacionXML.csproj|solutionrelative:proyectoserializacionxml\\videojuegos.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35791468-5547-4254-ADD1-EA87B181CCD4}|ProyectoSerializacionXML\\ProyectoSerializacionXML.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoserializacionxml\\proyectoserializacionxml\\videojuegoconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35791468-5547-4254-ADD1-EA87B181CCD4}|ProyectoSerializacionXML\\ProyectoSerializacionXML.csproj|solutionrelative:proyectoserializacionxml\\videojuegoconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35791468-5547-4254-ADD1-EA87B181CCD4}|ProyectoSerializacionXML\\ProyectoSerializacionXML.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoserializacionxml\\proyectoserializacionxml\\videojuegopc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35791468-5547-4254-ADD1-EA87B181CCD4}|ProyectoSerializacionXML\\ProyectoSerializacionXML.csproj|solutionrelative:proyectoserializacionxml\\videojuegopc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35791468-5547-4254-ADD1-EA87B181CCD4}|ProyectoSerializacionXML\\ProyectoSerializacionXML.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoserializacionxml\\proyectoserializacionxml\\videojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35791468-5547-4254-ADD1-EA87B181CCD4}|ProyectoSerializacionXML\\ProyectoSerializacionXML.csproj|solutionrelative:proyectoserializacionxml\\videojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "videojuegos.xml",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionXML\\ProyectoSerializacionXML\\videojuegos.xml",
+              "RelativeDocumentMoniker": "ProyectoSerializacionXML\\videojuegos.xml",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionXML\\ProyectoSerializacionXML\\videojuegos.xml",
+              "RelativeToolTip": "ProyectoSerializacionXML\\videojuegos.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-24T11:03:38.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideojuegoConsola.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionXML\\ProyectoSerializacionXML\\VideojuegoConsola.cs",
+              "RelativeDocumentMoniker": "ProyectoSerializacionXML\\VideojuegoConsola.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionXML\\ProyectoSerializacionXML\\VideojuegoConsola.cs",
+              "RelativeToolTip": "ProyectoSerializacionXML\\VideojuegoConsola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:53:20.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideojuegoPC.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionXML\\ProyectoSerializacionXML\\VideojuegoPC.cs",
+              "RelativeDocumentMoniker": "ProyectoSerializacionXML\\VideojuegoPC.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionXML\\ProyectoSerializacionXML\\VideojuegoPC.cs",
+              "RelativeToolTip": "ProyectoSerializacionXML\\VideojuegoPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:37:07.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Videojuego.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionXML\\ProyectoSerializacionXML\\Videojuego.cs",
+              "RelativeDocumentMoniker": "ProyectoSerializacionXML\\Videojuego.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionXML\\ProyectoSerializacionXML\\Videojuego.cs",
+              "RelativeToolTip": "ProyectoSerializacionXML\\Videojuego.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:34:05.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionXML\\ProyectoSerializacionXML\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoSerializacionXML\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionXML\\ProyectoSerializacionXML\\Program.cs",
+              "RelativeToolTip": "ProyectoSerializacionXML\\Program.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwIEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:33:11.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

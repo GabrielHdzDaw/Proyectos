@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVideojuego xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Videojuego>
+    <Titulo>Sombra Letal</Titulo>
+    <Genero>Acción</Genero>
+    <Precio>19.99</Precio>
+  </Videojuego>
+  <Videojuego>
+    <Titulo>Reinos Perdidos</Titulo>
+    <Genero>Aventura</Genero>
+    <Precio>29.99</Precio>
+  </Videojuego>
+  <Videojuego>
+    <Titulo>Velocidad Extrema</Titulo>
+    <Genero>Carreras</Genero>
+    <Precio>24.5</Precio>
+  </Videojuego>
+  <Videojuego>
+    <Titulo>Mundo de Magia</Titulo>
+    <Genero>RPG</Genero>
+    <Precio>34.99</Precio>
+  </Videojuego>
+  <Videojuego>
+    <Titulo>Guerras del Futuro</Titulo>
+    <Genero>Estrategia</Genero>
+    <Precio>27.75</Precio>
+  </Videojuego>
+  <Videojuego>
+    <Titulo>Pesadilla Virtual</Titulo>
+    <Genero>Terror</Genero>
+    <Precio>21.99</Precio>
+  </Videojuego>
+  <Videojuego>
+    <Titulo>Torneo Galáctico</Titulo>
+    <Genero>Lucha</Genero>
+    <Precio>26.49</Precio>
+  </Videojuego>
+  <Videojuego>
+    <Titulo>Cazador Nocturno</Titulo>
+    <Genero>Sigilo</Genero>
+    <Precio>22.99</Precio>
+  </Videojuego>
+  <Videojuego>
+    <Titulo>Batalla de Titanes</Titulo>
+    <Genero>Multijugador</Genero>
+    <Precio>31.99</Precio>
+  </Videojuego>
+  <Videojuego xsi:type="VideojuegoConsola">
+    <Titulo>Perlas</Titulo>
+    <Genero>Submarinismo</Genero>
+    <Precio>89.34</Precio>
+    <Plataforma>PLaystaton</Plataforma>
+  </Videojuego>
+</ArrayOfVideojuego>

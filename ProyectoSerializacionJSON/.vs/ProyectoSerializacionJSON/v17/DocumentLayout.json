@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionJSON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA2166-F062-4D11-AD54-1A32F7CB4FAF}|ProyectoSerializacionJSON\\ProyectoSerializacionJSON.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoserializacionjson\\proyectoserializacionjson\\videojuegos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EECA2166-F062-4D11-AD54-1A32F7CB4FAF}|ProyectoSerializacionJSON\\ProyectoSerializacionJSON.csproj|solutionrelative:proyectoserializacionjson\\videojuegos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA2166-F062-4D11-AD54-1A32F7CB4FAF}|ProyectoSerializacionJSON\\ProyectoSerializacionJSON.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoserializacionjson\\proyectoserializacionjson\\videojuegoconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA2166-F062-4D11-AD54-1A32F7CB4FAF}|ProyectoSerializacionJSON\\ProyectoSerializacionJSON.csproj|solutionrelative:proyectoserializacionjson\\videojuegoconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA2166-F062-4D11-AD54-1A32F7CB4FAF}|ProyectoSerializacionJSON\\ProyectoSerializacionJSON.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoserializacionjson\\proyectoserializacionjson\\videojuegopc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA2166-F062-4D11-AD54-1A32F7CB4FAF}|ProyectoSerializacionJSON\\ProyectoSerializacionJSON.csproj|solutionrelative:proyectoserializacionjson\\videojuegopc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA2166-F062-4D11-AD54-1A32F7CB4FAF}|ProyectoSerializacionJSON\\ProyectoSerializacionJSON.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoserializacionjson\\proyectoserializacionjson\\videojuegos.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EECA2166-F062-4D11-AD54-1A32F7CB4FAF}|ProyectoSerializacionJSON\\ProyectoSerializacionJSON.csproj|solutionrelative:proyectoserializacionjson\\videojuegos.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA2166-F062-4D11-AD54-1A32F7CB4FAF}|ProyectoSerializacionJSON\\ProyectoSerializacionJSON.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoserializacionjson\\proyectoserializacionjson\\videojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA2166-F062-4D11-AD54-1A32F7CB4FAF}|ProyectoSerializacionJSON\\ProyectoSerializacionJSON.csproj|solutionrelative:proyectoserializacionjson\\videojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA2166-F062-4D11-AD54-1A32F7CB4FAF}|ProyectoSerializacionJSON\\ProyectoSerializacionJSON.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoserializacionjson\\proyectoserializacionjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA2166-F062-4D11-AD54-1A32F7CB4FAF}|ProyectoSerializacionJSON\\ProyectoSerializacionJSON.csproj|solutionrelative:proyectoserializacionjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "videojuegos.xml",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionJSON\\ProyectoSerializacionJSON\\videojuegos.xml",
+              "RelativeDocumentMoniker": "ProyectoSerializacionJSON\\videojuegos.xml",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionJSON\\ProyectoSerializacionJSON\\videojuegos.xml",
+              "RelativeToolTip": "ProyectoSerializacionJSON\\videojuegos.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-24T11:33:02.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "videojuegos.json",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionJSON\\ProyectoSerializacionJSON\\videojuegos.json",
+              "RelativeDocumentMoniker": "ProyectoSerializacionJSON\\videojuegos.json",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionJSON\\ProyectoSerializacionJSON\\videojuegos.json",
+              "RelativeToolTip": "ProyectoSerializacionJSON\\videojuegos.json",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T11:31:57.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideojuegoPC.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionJSON\\ProyectoSerializacionJSON\\VideojuegoPC.cs",
+              "RelativeDocumentMoniker": "ProyectoSerializacionJSON\\VideojuegoPC.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionJSON\\ProyectoSerializacionJSON\\VideojuegoPC.cs",
+              "RelativeToolTip": "ProyectoSerializacionJSON\\VideojuegoPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:26:08.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Videojuego.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionJSON\\ProyectoSerializacionJSON\\Videojuego.cs",
+              "RelativeDocumentMoniker": "ProyectoSerializacionJSON\\Videojuego.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionJSON\\ProyectoSerializacionJSON\\Videojuego.cs",
+              "RelativeToolTip": "ProyectoSerializacionJSON\\Videojuego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:25:30.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionJSON\\ProyectoSerializacionJSON\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoSerializacionJSON\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionJSON\\ProyectoSerializacionJSON\\Program.cs",
+              "RelativeToolTip": "ProyectoSerializacionJSON\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAYwFsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:24:49.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideojuegoConsola.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionJSON\\ProyectoSerializacionJSON\\VideojuegoConsola.cs",
+              "RelativeDocumentMoniker": "ProyectoSerializacionJSON\\VideojuegoConsola.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoSerializacionJSON\\ProyectoSerializacionJSON\\VideojuegoConsola.cs",
+              "RelativeToolTip": "ProyectoSerializacionJSON\\VideojuegoConsola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:26:19.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

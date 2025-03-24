@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuario\ProyectoRegistroUsuario\bin\Debug\net8.0\ProyectoRegistroUsuario.exe
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuario\ProyectoRegistroUsuario\bin\Debug\net8.0\ProyectoRegistroUsuario.deps.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuario\ProyectoRegistroUsuario\bin\Debug\net8.0\ProyectoRegistroUsuario.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuario\ProyectoRegistroUsuario\bin\Debug\net8.0\ProyectoRegistroUsuario.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuario\ProyectoRegistroUsuario\bin\Debug\net8.0\ProyectoRegistroUsuario.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuario\ProyectoRegistroUsuario\obj\Debug\net8.0\ProyectoRegistroUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuario\ProyectoRegistroUsuario\obj\Debug\net8.0\ProyectoRegistroUsuario.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuario\ProyectoRegistroUsuario\obj\Debug\net8.0\ProyectoRegistroUsuario.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuario\ProyectoRegistroUsuario\obj\Debug\net8.0\ProyectoRegistroUsuario.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuario\ProyectoRegistroUsuario\obj\Debug\net8.0\ProyectoRegistroUsuario.sourcelink.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuario\ProyectoRegistroUsuario\obj\Debug\net8.0\ProyectoRegistroUsuario.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuario\ProyectoRegistroUsuario\obj\Debug\net8.0\refint\ProyectoRegistroUsuario.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuario\ProyectoRegistroUsuario\obj\Debug\net8.0\ProyectoRegistroUsuario.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuario\ProyectoRegistroUsuario\obj\Debug\net8.0\ProyectoRegistroUsuario.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoRegistroUsuario\ProyectoRegistroUsuario\obj\Debug\net8.0\ref\ProyectoRegistroUsuario.dll
