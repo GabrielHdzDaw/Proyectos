@@ -1,0 +1,20 @@
+Madrid;Hotel Gran Vía;4
+Barcelona;Hotel Mar Azul;3
+Valencia;Hotel Jardines del Turia;5
+Sevilla;Hotel Triana Sol;4
+Bilbao;Hotel Nervión;3
+Granada;Hotel Alhambra Real;5
+Málaga;Hotel Costa del Sol;4
+Zaragoza;Hotel Pilar Centro;3
+Toledo;Hotel Imperial;4
+Santander;Hotel Bahía Norte;5
+Alicante;Hotel Playa Blanca;3
+Valladolid;Hotel Campo Grande;4
+Córdoba;Hotel Mezquita Suites;5
+Pamplona;Hotel San Fermín;3
+Salamanca;Hotel Universidad;4
+Gijón;Hotel Costa Verde;3
+San Sebastián;Hotel La Concha Palace;5
+Murcia;Hotel Segura Park;4
+Logroño;Hotel Rioja Select;3
+Burgos;Hotel Catedral de Castilla;4

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoReceta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BB5B19-DE18-4327-8B67-F5FC72F7F90F}|ProyectoReceta\\ProyectoReceta.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoreceta\\proyectoreceta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BB5B19-DE18-4327-8B67-F5FC72F7F90F}|ProyectoReceta\\ProyectoReceta.csproj|solutionrelative:proyectoreceta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BB5B19-DE18-4327-8B67-F5FC72F7F90F}|ProyectoReceta\\ProyectoReceta.csproj|c:\\users\\gabhercol\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoreceta\\proyectoreceta\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BB5B19-DE18-4327-8B67-F5FC72F7F90F}|ProyectoReceta\\ProyectoReceta.csproj|solutionrelative:proyectoreceta\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Receta.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoReceta\\ProyectoReceta\\Receta.cs",
+              "RelativeDocumentMoniker": "ProyectoReceta\\Receta.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoReceta\\ProyectoReceta\\Receta.cs",
+              "RelativeToolTip": "ProyectoReceta\\Receta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:22:27.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoReceta\\ProyectoReceta\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoReceta\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoReceta\\ProyectoReceta\\Program.cs",
+              "RelativeToolTip": "ProyectoReceta\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:22:16.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

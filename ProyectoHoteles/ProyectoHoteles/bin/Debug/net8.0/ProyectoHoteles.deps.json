@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProyectoHoteles/1.0.0": {
+        "runtime": {
+          "ProyectoHoteles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoHoteles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
