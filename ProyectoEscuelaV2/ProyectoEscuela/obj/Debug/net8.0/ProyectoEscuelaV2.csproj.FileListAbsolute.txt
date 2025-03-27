@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoEscuelaV2\ProyectoEscuela\bin\Debug\net8.0\ProyectoEscuelaV2.exe
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoEscuelaV2\ProyectoEscuela\bin\Debug\net8.0\ProyectoEscuelaV2.deps.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoEscuelaV2\ProyectoEscuela\bin\Debug\net8.0\ProyectoEscuelaV2.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoEscuelaV2\ProyectoEscuela\bin\Debug\net8.0\ProyectoEscuelaV2.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoEscuelaV2\ProyectoEscuela\bin\Debug\net8.0\ProyectoEscuelaV2.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoEscuelaV2\ProyectoEscuela\obj\Debug\net8.0\ProyectoEscuelaV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoEscuelaV2\ProyectoEscuela\obj\Debug\net8.0\ProyectoEscuelaV2.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoEscuelaV2\ProyectoEscuela\obj\Debug\net8.0\ProyectoEscuelaV2.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoEscuelaV2\ProyectoEscuela\obj\Debug\net8.0\ProyectoEscuelaV2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoEscuelaV2\ProyectoEscuela\obj\Debug\net8.0\ProyectoEscuelaV2.sourcelink.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoEscuelaV2\ProyectoEscuela\obj\Debug\net8.0\ProyectoEscuelaV2.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoEscuelaV2\ProyectoEscuela\obj\Debug\net8.0\refint\ProyectoEscuelaV2.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoEscuelaV2\ProyectoEscuela\obj\Debug\net8.0\ProyectoEscuelaV2.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoEscuelaV2\ProyectoEscuela\obj\Debug\net8.0\ProyectoEscuelaV2.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoEscuelaV2\ProyectoEscuela\obj\Debug\net8.0\ref\ProyectoEscuelaV2.dll

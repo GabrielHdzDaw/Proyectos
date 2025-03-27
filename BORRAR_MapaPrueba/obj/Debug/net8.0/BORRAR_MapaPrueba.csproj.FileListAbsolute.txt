@@ -1,0 +1,29 @@
+D:\1.º DAW\Programación (María Consuelo Rubio)\Tema 8- Manejo de ficheros\BORRAR_MapaPrueba\obj\Debug\net8.0\BORRAR_MapaPrueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.º DAW\Programación (María Consuelo Rubio)\Tema 8- Manejo de ficheros\BORRAR_MapaPrueba\obj\Debug\net8.0\BORRAR_MapaPrueba.AssemblyInfoInputs.cache
+D:\1.º DAW\Programación (María Consuelo Rubio)\Tema 8- Manejo de ficheros\BORRAR_MapaPrueba\obj\Debug\net8.0\BORRAR_MapaPrueba.AssemblyInfo.cs
+D:\1.º DAW\Programación (María Consuelo Rubio)\Tema 8- Manejo de ficheros\BORRAR_MapaPrueba\obj\Debug\net8.0\BORRAR_MapaPrueba.csproj.CoreCompileInputs.cache
+D:\1.º DAW\Programación (María Consuelo Rubio)\Tema 8- Manejo de ficheros\BORRAR_MapaPrueba\bin\Debug\net8.0\BORRAR_MapaPrueba.exe
+D:\1.º DAW\Programación (María Consuelo Rubio)\Tema 8- Manejo de ficheros\BORRAR_MapaPrueba\bin\Debug\net8.0\BORRAR_MapaPrueba.deps.json
+D:\1.º DAW\Programación (María Consuelo Rubio)\Tema 8- Manejo de ficheros\BORRAR_MapaPrueba\bin\Debug\net8.0\BORRAR_MapaPrueba.runtimeconfig.json
+D:\1.º DAW\Programación (María Consuelo Rubio)\Tema 8- Manejo de ficheros\BORRAR_MapaPrueba\bin\Debug\net8.0\BORRAR_MapaPrueba.dll
+D:\1.º DAW\Programación (María Consuelo Rubio)\Tema 8- Manejo de ficheros\BORRAR_MapaPrueba\bin\Debug\net8.0\BORRAR_MapaPrueba.pdb
+D:\1.º DAW\Programación (María Consuelo Rubio)\Tema 8- Manejo de ficheros\BORRAR_MapaPrueba\obj\Debug\net8.0\BORRAR_MapaPrueba.dll
+D:\1.º DAW\Programación (María Consuelo Rubio)\Tema 8- Manejo de ficheros\BORRAR_MapaPrueba\obj\Debug\net8.0\refint\BORRAR_MapaPrueba.dll
+D:\1.º DAW\Programación (María Consuelo Rubio)\Tema 8- Manejo de ficheros\BORRAR_MapaPrueba\obj\Debug\net8.0\BORRAR_MapaPrueba.pdb
+D:\1.º DAW\Programación (María Consuelo Rubio)\Tema 8- Manejo de ficheros\BORRAR_MapaPrueba\obj\Debug\net8.0\BORRAR_MapaPrueba.genruntimeconfig.cache
+D:\1.º DAW\Programación (María Consuelo Rubio)\Tema 8- Manejo de ficheros\BORRAR_MapaPrueba\obj\Debug\net8.0\ref\BORRAR_MapaPrueba.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\BORRAR_MapaPrueba\bin\Debug\net8.0\BORRAR_MapaPrueba.exe
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\BORRAR_MapaPrueba\bin\Debug\net8.0\BORRAR_MapaPrueba.deps.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\BORRAR_MapaPrueba\bin\Debug\net8.0\BORRAR_MapaPrueba.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\BORRAR_MapaPrueba\bin\Debug\net8.0\BORRAR_MapaPrueba.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\BORRAR_MapaPrueba\bin\Debug\net8.0\BORRAR_MapaPrueba.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\BORRAR_MapaPrueba\obj\Debug\net8.0\BORRAR_MapaPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\BORRAR_MapaPrueba\obj\Debug\net8.0\BORRAR_MapaPrueba.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\BORRAR_MapaPrueba\obj\Debug\net8.0\BORRAR_MapaPrueba.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\BORRAR_MapaPrueba\obj\Debug\net8.0\BORRAR_MapaPrueba.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\BORRAR_MapaPrueba\obj\Debug\net8.0\BORRAR_MapaPrueba.sourcelink.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\BORRAR_MapaPrueba\obj\Debug\net8.0\BORRAR_MapaPrueba.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\BORRAR_MapaPrueba\obj\Debug\net8.0\refint\BORRAR_MapaPrueba.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\BORRAR_MapaPrueba\obj\Debug\net8.0\BORRAR_MapaPrueba.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\BORRAR_MapaPrueba\obj\Debug\net8.0\BORRAR_MapaPrueba.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\BORRAR_MapaPrueba\obj\Debug\net8.0\ref\BORRAR_MapaPrueba.dll

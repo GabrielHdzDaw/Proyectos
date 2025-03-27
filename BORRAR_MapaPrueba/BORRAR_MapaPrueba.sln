@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BORRAR_MapaPrueba", "BORRAR_MapaPrueba.csproj", "{50CB3226-2B11-4CB5-8A66-4B3F51028A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50CB3226-2B11-4CB5-8A66-4B3F51028A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CB3226-2B11-4CB5-8A66-4B3F51028A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CB3226-2B11-4CB5-8A66-4B3F51028A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CB3226-2B11-4CB5-8A66-4B3F51028A68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7090A4A2-E244-4048-BF0B-4B477CBD1BDF}
+	EndGlobalSection
+EndGlobal

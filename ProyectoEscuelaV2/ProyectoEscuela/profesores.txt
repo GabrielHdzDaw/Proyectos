@@ -1,0 +1,10 @@
+Dr. Martínez;Calle Central 78;1975-08-10;Sevilla;Sevilla;Matemáticas,Física
+Prof. García;Avenida del Norte 9;1980-04-22;Málaga;Málaga;Historia,Geografía
+Dra. López;Plaza Sur 5;1970-12-05;Bilbao;Vizcaya;Química,Biología
+Dr. Rodríguez;Calle Mayor 123;1965-05-15;Madrid;Madrid;Literatura,Arte
+Prof. Sánchez;Avenida del Sol 45;1978-11-23;Barcelona;Barcelona;Matemáticas,Ciencias
+Dra. Fernández;Plaza Central 6;1982-03-30;Valencia;Valencia;Historia,Geografía
+Dr. Pérez;Calle Río 78;1968-07-19;Sevilla;Sevilla;Química,Física
+Prof. Gómez;Avenida Principal 9;1972-09-12;Málaga;Málaga;Biología,Arte
+Dra. Díaz;Calle Norte 34;1985-02-28;Bilbao;Vizcaya;Literatura,Matemáticas
+Dr. Torres;Plaza Sur 56;1977-06-10;Zaragoza;Zaragoza;Geografía,Ciencias
