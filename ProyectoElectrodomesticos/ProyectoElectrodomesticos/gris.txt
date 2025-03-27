@@ -1,3 +1,4 @@
 34354ggfg;tablet 10;tablet samsung 10 pulgadas;200;300;A;20
 Fgffg66;ordenador HP;ordenador HP con 32 GB RAM;900;1200;B;20
 888jjk8;iPad 10;iPad 10 pulgadas;400;600;C;50
+999kkk9;laptop Dell XPS;laptop Dell con pantalla 15 pulgadas;1000;1400;A;30  

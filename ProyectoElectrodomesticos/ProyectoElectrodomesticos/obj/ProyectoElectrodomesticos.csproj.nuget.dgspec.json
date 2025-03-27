@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabhercol\\OneDrive - Conselleria d'Educació\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos.csproj": {}
+    "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d'Educació\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabhercol\\OneDrive - Conselleria d'Educació\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos.csproj": {
+    "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d'Educació\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabhercol\\OneDrive - Conselleria d'Educació\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos.csproj",
+        "projectUniqueName": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d'Educació\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos.csproj",
         "projectName": "ProyectoElectrodomesticos",
-        "projectPath": "C:\\Users\\gabhercol\\OneDrive - Conselleria d'Educació\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos.csproj",
-        "packagesPath": "C:\\Users\\gabhercol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabhercol\\OneDrive - Conselleria d'Educació\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos\\obj\\",
+        "projectPath": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d'Educació\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos.csproj",
+        "packagesPath": "C:\\Users\\gabhercol.EDU\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d'Educació\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoElectrodomesticos\\ProyectoElectrodomesticos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gabhercol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabhercol.EDU\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

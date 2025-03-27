@@ -1,0 +1,10 @@
+Alice Johnson;Calle Falsa 123;2000-05-20;Madrid;Madrid;Matemáticas:8.5,Historia:7.0
+Bob Smith;Avenida Principal 45;1999-11-30;Barcelona;Barcelona;Ciencias:9.0,Literatura:8.0
+Charlie Brown;Plaza Mayor 6;2001-03-15;Valencia;Valencia;Arte:7.5,Biología:8.5
+Diana Prince;Calle Río 78;2002-07-19;Sevilla;Sevilla;Matemáticas:9.0,Física:8.0
+Ethan Hunt;Avenida del Sol 9;2003-09-12;Málaga;Málaga;Historia:7.5,Geografía:8.5
+Fiona Glenn;Calle Norte 34;2004-02-28;Bilbao;Vizcaya;Química:8.0,Biología:9.0
+George Orwell;Plaza Sur 56;2005-06-10;Zaragoza;Zaragoza;Literatura:9.5,Arte:8.5
+Hannah Montana;Calle Este 23;2006-04-05;Granada;Granada;Matemáticas:8.0,Ciencias:9.0
+Ian Fleming;Avenida Oeste 4;2007-12-30;Murcia;Murcia;Historia:8.5,Geografía:7.5
+Julia Roberts;Calle Central 89;2008-08-14;Palma;Islas Baleares;Literatura:9.0,Arte:8.0

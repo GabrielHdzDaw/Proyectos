@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoEscuela\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1F8C5-2188-42F7-A901-3BBF57E5776A}|ProyectoEscuela\\ProyectoEscuela.csproj|c:\\users\\gabhercol.edu\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoescuela\\proyectoescuela\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC1F8C5-2188-42F7-A901-3BBF57E5776A}|ProyectoEscuela\\ProyectoEscuela.csproj|solutionrelative:proyectoescuela\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1F8C5-2188-42F7-A901-3BBF57E5776A}|ProyectoEscuela\\ProyectoEscuela.csproj|c:\\users\\gabhercol.edu\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoescuela\\proyectoescuela\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC1F8C5-2188-42F7-A901-3BBF57E5776A}|ProyectoEscuela\\ProyectoEscuela.csproj|solutionrelative:proyectoescuela\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1F8C5-2188-42F7-A901-3BBF57E5776A}|ProyectoEscuela\\ProyectoEscuela.csproj|c:\\users\\gabhercol.edu\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoescuela\\proyectoescuela\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC1F8C5-2188-42F7-A901-3BBF57E5776A}|ProyectoEscuela\\ProyectoEscuela.csproj|solutionrelative:proyectoescuela\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1F8C5-2188-42F7-A901-3BBF57E5776A}|ProyectoEscuela\\ProyectoEscuela.csproj|c:\\users\\gabhercol.edu\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoescuela\\proyectoescuela\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC1F8C5-2188-42F7-A901-3BBF57E5776A}|ProyectoEscuela\\ProyectoEscuela.csproj|solutionrelative:proyectoescuela\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1F8C5-2188-42F7-A901-3BBF57E5776A}|ProyectoEscuela\\ProyectoEscuela.csproj|c:\\users\\gabhercol.edu\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoescuela\\proyectoescuela\\profesores.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AEC1F8C5-2188-42F7-A901-3BBF57E5776A}|ProyectoEscuela\\ProyectoEscuela.csproj|solutionrelative:proyectoescuela\\profesores.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1F8C5-2188-42F7-A901-3BBF57E5776A}|ProyectoEscuela\\ProyectoEscuela.csproj|c:\\users\\gabhercol.edu\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectoescuela\\proyectoescuela\\estudiantes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AEC1F8C5-2188-42F7-A901-3BBF57E5776A}|ProyectoEscuela\\ProyectoEscuela.csproj|solutionrelative:proyectoescuela\\estudiantes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "estudiantes.txt",
+              "DocumentMoniker": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoEscuela\\ProyectoEscuela\\estudiantes.txt",
+              "RelativeDocumentMoniker": "ProyectoEscuela\\estudiantes.txt",
+              "ToolTip": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoEscuela\\ProyectoEscuela\\estudiantes.txt",
+              "RelativeToolTip": "ProyectoEscuela\\estudiantes.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-27T10:40:22.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "profesores.txt",
+              "DocumentMoniker": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoEscuela\\ProyectoEscuela\\profesores.txt",
+              "RelativeDocumentMoniker": "ProyectoEscuela\\profesores.txt",
+              "ToolTip": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoEscuela\\ProyectoEscuela\\profesores.txt",
+              "RelativeToolTip": "ProyectoEscuela\\profesores.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-27T10:37:14.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoEscuela\\ProyectoEscuela\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ProyectoEscuela\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoEscuela\\ProyectoEscuela\\Estudiante.cs",
+              "RelativeToolTip": "ProyectoEscuela\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:26:35.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoEscuela\\ProyectoEscuela\\Profesor.cs",
+              "RelativeDocumentMoniker": "ProyectoEscuela\\Profesor.cs",
+              "ToolTip": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoEscuela\\ProyectoEscuela\\Profesor.cs",
+              "RelativeToolTip": "ProyectoEscuela\\Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:26:32.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoEscuela\\ProyectoEscuela\\Persona.cs",
+              "RelativeDocumentMoniker": "ProyectoEscuela\\Persona.cs",
+              "ToolTip": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoEscuela\\ProyectoEscuela\\Persona.cs",
+              "RelativeToolTip": "ProyectoEscuela\\Persona.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:26:26.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoEscuela\\ProyectoEscuela\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoEscuela\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoEscuela\\ProyectoEscuela\\Program.cs",
+              "RelativeToolTip": "ProyectoEscuela\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:23:53.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

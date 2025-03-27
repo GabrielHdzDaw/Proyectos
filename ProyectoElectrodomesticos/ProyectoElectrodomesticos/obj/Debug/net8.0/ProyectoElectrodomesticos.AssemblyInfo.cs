@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoElectrodomesticos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5df88ad4ffac8485fe76fc7bcc419b704b93a0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e5e2c29d74f4ccc746c9cef439678a59c39cdab")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoElectrodomesticos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoElectrodomesticos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
