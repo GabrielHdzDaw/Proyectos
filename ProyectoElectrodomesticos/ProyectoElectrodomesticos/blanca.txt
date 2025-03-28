@@ -1,0 +1,4 @@
+12AE;frigorífico;frigorífico blanco 2 metros;400;600;A;20
+34kk;frigorífico metal;frigorífico metal 2 metros;400;600;B;30
+44565mm;lavadora;lavadora blanca;900;600;APLUS;20
+466mk;lavadora; lavadora metal 60;400;600;APLUSPLUS;20

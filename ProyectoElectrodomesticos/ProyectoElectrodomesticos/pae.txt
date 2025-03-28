@@ -1,0 +1,3 @@
+555rr;cafetera automática D;cafetera automática Delongui;400;600;A;21
+666yy;freidora 400;freidora magefesa ;120;180;C;66
+777tt;licuadora PowerBlend 500;licuadora Oster de alta potencia;250;350;B;33  

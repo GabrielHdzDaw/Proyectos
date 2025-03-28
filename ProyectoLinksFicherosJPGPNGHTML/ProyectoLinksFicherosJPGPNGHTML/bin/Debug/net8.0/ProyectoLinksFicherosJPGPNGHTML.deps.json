@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProyectoLinksFicherosJPGPNGHTML/1.0.0": {
+        "runtime": {
+          "ProyectoLinksFicherosJPGPNGHTML.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoLinksFicherosJPGPNGHTML/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

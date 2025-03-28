@@ -5,6 +5,6 @@ Dr. Rodríguez;Calle Mayor 123;1965-05-15;Madrid;Madrid;Literatura,Arte
 Prof. Sánchez;Avenida del Sol 45;1978-11-23;Barcelona;Barcelona;Matemáticas,Ciencias
 Dra. Fernández;Plaza Central 6;1982-03-30;Valencia;Valencia;Historia,Geografía
 Dr. Pérez;Calle Río 78;1968-07-19;Sevilla;Sevilla;Química,Física
-Prof. Gómez;Avenida Principal 9;1972-09-12;Málaga;Málaga;Biología,Arte
+Prof. Gómez;Avenida Principal 9;1972-09-12;Málaga;Málaga;Biología,Arte,Geografía
 Dra. Díaz;Calle Norte 34;1985-02-28;Bilbao;Vizcaya;Literatura,Matemáticas
 Dr. Torres;Plaza Sur 56;1977-06-10;Zaragoza;Zaragoza;Geografía,Ciencias

@@ -1,0 +1,45 @@
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.AssemblyInfoInputs.cache
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.AssemblyInfo.cs
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.sourcelink.json
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\bin\Debug\net8.0\ProyectoElectrodomesticos.exe
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\bin\Debug\net8.0\ProyectoElectrodomesticos.deps.json
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\bin\Debug\net8.0\ProyectoElectrodomesticos.runtimeconfig.json
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\bin\Debug\net8.0\ProyectoElectrodomesticos.dll
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\bin\Debug\net8.0\ProyectoElectrodomesticos.pdb
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.dll
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\refint\ProyectoElectrodomesticos.dll
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.pdb
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.genruntimeconfig.cache
+C:\Users\gabhercol\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ref\ProyectoElectrodomesticos.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.sourcelink.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\refint\ProyectoElectrodomesticos.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\bin\Debug\net8.0\ProyectoElectrodomesticos.exe
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\bin\Debug\net8.0\ProyectoElectrodomesticos.deps.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\bin\Debug\net8.0\ProyectoElectrodomesticos.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\bin\Debug\net8.0\ProyectoElectrodomesticos.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\bin\Debug\net8.0\ProyectoElectrodomesticos.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ref\ProyectoElectrodomesticos.dll
+C:\Users\gabhercol.EDU\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\bin\Debug\net8.0\ProyectoElectrodomesticos.exe
+C:\Users\gabhercol.EDU\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\bin\Debug\net8.0\ProyectoElectrodomesticos.deps.json
+C:\Users\gabhercol.EDU\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\bin\Debug\net8.0\ProyectoElectrodomesticos.runtimeconfig.json
+C:\Users\gabhercol.EDU\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\bin\Debug\net8.0\ProyectoElectrodomesticos.dll
+C:\Users\gabhercol.EDU\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\bin\Debug\net8.0\ProyectoElectrodomesticos.pdb
+C:\Users\gabhercol.EDU\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol.EDU\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.AssemblyInfoInputs.cache
+C:\Users\gabhercol.EDU\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.AssemblyInfo.cs
+C:\Users\gabhercol.EDU\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol.EDU\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.sourcelink.json
+C:\Users\gabhercol.EDU\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.dll
+C:\Users\gabhercol.EDU\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\refint\ProyectoElectrodomesticos.dll
+C:\Users\gabhercol.EDU\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.pdb
+C:\Users\gabhercol.EDU\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ProyectoElectrodomesticos.genruntimeconfig.cache
+C:\Users\gabhercol.EDU\OneDrive - Conselleria d'Educació\Documentos\DAW\Programacion\Proyectos\ProyectoElectrodomesticos\ProyectoElectrodomesticos\obj\Debug\net8.0\ref\ProyectoElectrodomesticos.dll

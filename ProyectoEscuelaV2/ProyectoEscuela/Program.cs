@@ -107,6 +107,7 @@ namespace ProyectoEscuelaV2
             {
                 MostrarMenu();
                 opcion = int.Parse(Console.ReadLine());
+                Console.WriteLine();
                 switch (opcion)
                 {
                     case 1:
@@ -137,8 +138,8 @@ namespace ProyectoEscuelaV2
                     case 6:
                         Console.Write("Introduce asignatura: ");
                         string asignatura3 = Console.ReadLine();
-                        listaPersonas.Where(p => p is Estudiante).ToList().OrderBy(listaPersonas => ((Estudiante)listaPersonas).Asignaturas[asignatura3])
-                            .ToList().Where(p => ((Estudiante)p).Asignaturas.ContainsKey(asignatura3)).ToList().ForEach(p => Console.WriteLine(p));
+                        listaPersonas.Where(p => p is Estudiante).ToList().
+                            ToList().Where(p => ((Estudiante)p).Asignaturas.ContainsKey(asignatura3)).OrderByDescending(p => ((Estudiante)p).Asignaturas[asignatura3]).ToList().ForEach(p => Console.WriteLine(p));
                         break;
                     case 7:
 
@@ -167,6 +168,7 @@ namespace ProyectoEscuelaV2
                         Console.WriteLine("Opción no válida");
                         break;
                 }
+                Console.WriteLine();
             }
             
         }

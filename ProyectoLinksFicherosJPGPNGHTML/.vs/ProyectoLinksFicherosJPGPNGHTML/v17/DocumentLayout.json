@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoLinksFicherosJPGPNGHTML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08AF3C74-8DC0-4A20-980C-CB68874A7F55}|ProyectoLinksFicherosJPGPNGHTML\\ProyectoLinksFicherosJPGPNGHTML.csproj|c:\\users\\gabhercol.edu\\onedrive - conselleria d\u0027educaci\u00F3\\documentos\\daw\\programacion\\proyectos\\proyectolinksficherosjpgpnghtml\\proyectolinksficherosjpgpnghtml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08AF3C74-8DC0-4A20-980C-CB68874A7F55}|ProyectoLinksFicherosJPGPNGHTML\\ProyectoLinksFicherosJPGPNGHTML.csproj|solutionrelative:proyectolinksficherosjpgpnghtml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoLinksFicherosJPGPNGHTML\\ProyectoLinksFicherosJPGPNGHTML\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoLinksFicherosJPGPNGHTML\\Program.cs",
+              "ToolTip": "C:\\Users\\gabhercol.EDU\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Documentos\\DAW\\Programacion\\Proyectos\\ProyectoLinksFicherosJPGPNGHTML\\ProyectoLinksFicherosJPGPNGHTML\\Program.cs",
+              "RelativeToolTip": "ProyectoLinksFicherosJPGPNGHTML\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:52:27.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
