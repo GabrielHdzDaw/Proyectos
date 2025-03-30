@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExploradorArchivos\ProyectoExploradorArchivos\bin\Debug\net8.0\ProyectoExploradorArchivos.exe
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExploradorArchivos\ProyectoExploradorArchivos\bin\Debug\net8.0\ProyectoExploradorArchivos.deps.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExploradorArchivos\ProyectoExploradorArchivos\bin\Debug\net8.0\ProyectoExploradorArchivos.runtimeconfig.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExploradorArchivos\ProyectoExploradorArchivos\bin\Debug\net8.0\ProyectoExploradorArchivos.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExploradorArchivos\ProyectoExploradorArchivos\bin\Debug\net8.0\ProyectoExploradorArchivos.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExploradorArchivos\ProyectoExploradorArchivos\obj\Debug\net8.0\ProyectoExploradorArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExploradorArchivos\ProyectoExploradorArchivos\obj\Debug\net8.0\ProyectoExploradorArchivos.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExploradorArchivos\ProyectoExploradorArchivos\obj\Debug\net8.0\ProyectoExploradorArchivos.AssemblyInfo.cs
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExploradorArchivos\ProyectoExploradorArchivos\obj\Debug\net8.0\ProyectoExploradorArchivos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExploradorArchivos\ProyectoExploradorArchivos\obj\Debug\net8.0\ProyectoExploradorArchivos.sourcelink.json
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExploradorArchivos\ProyectoExploradorArchivos\obj\Debug\net8.0\ProyectoExploradorArchivos.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExploradorArchivos\ProyectoExploradorArchivos\obj\Debug\net8.0\refint\ProyectoExploradorArchivos.dll
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExploradorArchivos\ProyectoExploradorArchivos\obj\Debug\net8.0\ProyectoExploradorArchivos.pdb
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExploradorArchivos\ProyectoExploradorArchivos\obj\Debug\net8.0\ProyectoExploradorArchivos.genruntimeconfig.cache
+C:\Users\gabri\Documents\DAW\Programación\Proyectos\ProyectoExploradorArchivos\ProyectoExploradorArchivos\obj\Debug\net8.0\ref\ProyectoExploradorArchivos.dll
