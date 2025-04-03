@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gabhercol\\.nuget\\packages\\": {},
+    "C:\\Users\\gabhercol.EDU.000\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabhercol\\OneDrive - Conselleria d'Educació\\Documentos\\DAW\\Programacion\\Proyectos\\ExamenTema8\\ExamenTema8\\ExamenTema8.csproj",
+      "projectUniqueName": "C:\\Users\\gabhercol.EDU.000\\Documents\\DAW\\Programacion\\Proyectos\\ExamenTema8\\ExamenTema8\\ExamenTema8.csproj",
       "projectName": "ExamenTema8",
-      "projectPath": "C:\\Users\\gabhercol\\OneDrive - Conselleria d'Educació\\Documentos\\DAW\\Programacion\\Proyectos\\ExamenTema8\\ExamenTema8\\ExamenTema8.csproj",
-      "packagesPath": "C:\\Users\\gabhercol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabhercol\\OneDrive - Conselleria d'Educació\\Documentos\\DAW\\Programacion\\Proyectos\\ExamenTema8\\ExamenTema8\\obj\\",
+      "projectPath": "C:\\Users\\gabhercol.EDU.000\\Documents\\DAW\\Programacion\\Proyectos\\ExamenTema8\\ExamenTema8\\ExamenTema8.csproj",
+      "packagesPath": "C:\\Users\\gabhercol.EDU.000\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabhercol.EDU.000\\Documents\\DAW\\Programacion\\Proyectos\\ExamenTema8\\ExamenTema8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gabhercol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gabhercol.EDU.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

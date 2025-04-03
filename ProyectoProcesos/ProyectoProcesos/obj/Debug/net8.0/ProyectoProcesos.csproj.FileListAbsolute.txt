@@ -1,0 +1,15 @@
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\ProyectoProcesos\ProyectoProcesos\bin\Debug\net8.0\ProyectoProcesos.exe
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\ProyectoProcesos\ProyectoProcesos\bin\Debug\net8.0\ProyectoProcesos.deps.json
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\ProyectoProcesos\ProyectoProcesos\bin\Debug\net8.0\ProyectoProcesos.runtimeconfig.json
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\ProyectoProcesos\ProyectoProcesos\bin\Debug\net8.0\ProyectoProcesos.dll
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\ProyectoProcesos\ProyectoProcesos\bin\Debug\net8.0\ProyectoProcesos.pdb
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\ProyectoProcesos\ProyectoProcesos\obj\Debug\net8.0\ProyectoProcesos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\ProyectoProcesos\ProyectoProcesos\obj\Debug\net8.0\ProyectoProcesos.AssemblyInfoInputs.cache
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\ProyectoProcesos\ProyectoProcesos\obj\Debug\net8.0\ProyectoProcesos.AssemblyInfo.cs
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\ProyectoProcesos\ProyectoProcesos\obj\Debug\net8.0\ProyectoProcesos.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\ProyectoProcesos\ProyectoProcesos\obj\Debug\net8.0\ProyectoProcesos.sourcelink.json
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\ProyectoProcesos\ProyectoProcesos\obj\Debug\net8.0\ProyectoProcesos.dll
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\ProyectoProcesos\ProyectoProcesos\obj\Debug\net8.0\refint\ProyectoProcesos.dll
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\ProyectoProcesos\ProyectoProcesos\obj\Debug\net8.0\ProyectoProcesos.pdb
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\ProyectoProcesos\ProyectoProcesos\obj\Debug\net8.0\ProyectoProcesos.genruntimeconfig.cache
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\ProyectoProcesos\ProyectoProcesos\obj\Debug\net8.0\ref\ProyectoProcesos.dll
