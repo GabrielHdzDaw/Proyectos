@@ -1,0 +1,44 @@
+[
+  {
+    "Nombre": "bin",
+    "EsDirectorio": false,
+    "Longitud": 20,
+    "FechaModificacion": "2025-04-04T11:03:18.6623291+02:00"
+  },
+  {
+    "Nombre": "directoryContents.json",
+    "EsDirectorio": false,
+    "Longitud": 20,
+    "FechaModificacion": "2025-04-04T11:45:52.5379579+02:00"
+  },
+  {
+    "Nombre": "Examen.csproj",
+    "EsDirectorio": false,
+    "Longitud": 20,
+    "FechaModificacion": "2025-04-04T11:03:13.4317799+02:00"
+  },
+  {
+    "Nombre": "Fichero1.txt",
+    "EsDirectorio": false,
+    "Longitud": 20,
+    "FechaModificacion": "2025-04-04T11:20:14.919247+02:00"
+  },
+  {
+    "Nombre": "FileSystemInfoData.cs",
+    "EsDirectorio": false,
+    "Longitud": 20,
+    "FechaModificacion": "2025-04-04T11:07:12.7140603+02:00"
+  },
+  {
+    "Nombre": "obj",
+    "EsDirectorio": false,
+    "Longitud": 20,
+    "FechaModificacion": "2025-04-04T11:03:19.3637194+02:00"
+  },
+  {
+    "Nombre": "Program.cs",
+    "EsDirectorio": false,
+    "Longitud": 20,
+    "FechaModificacion": "2025-04-04T12:08:34.0644851+02:00"
+  }
+]

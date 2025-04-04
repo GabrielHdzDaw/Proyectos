@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoExploradorArchivos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f187d9d036989cbb6c0844254d294962d5a09e54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e8003db895b21e090c695b77b999e1a2bc12fff")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoExploradorArchivos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoExploradorArchivos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

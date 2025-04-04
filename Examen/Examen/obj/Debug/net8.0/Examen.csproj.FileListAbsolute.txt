@@ -1,0 +1,15 @@
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\Examen\Examen\bin\Debug\net8.0\Examen.exe
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\Examen\Examen\bin\Debug\net8.0\Examen.deps.json
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\Examen\Examen\bin\Debug\net8.0\Examen.runtimeconfig.json
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\Examen\Examen\bin\Debug\net8.0\Examen.dll
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\Examen\Examen\bin\Debug\net8.0\Examen.pdb
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\Examen\Examen\obj\Debug\net8.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\Examen\Examen\obj\Debug\net8.0\Examen.AssemblyInfoInputs.cache
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\Examen\Examen\obj\Debug\net8.0\Examen.AssemblyInfo.cs
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\Examen\Examen\obj\Debug\net8.0\Examen.csproj.CoreCompileInputs.cache
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\Examen\Examen\obj\Debug\net8.0\Examen.sourcelink.json
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\Examen\Examen\obj\Debug\net8.0\Examen.dll
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\Examen\Examen\obj\Debug\net8.0\refint\Examen.dll
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\Examen\Examen\obj\Debug\net8.0\Examen.pdb
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\Examen\Examen\obj\Debug\net8.0\Examen.genruntimeconfig.cache
+C:\Users\gabhercol.EDU.000\Documents\DAW\Programacion\Proyectos\Examen\Examen\obj\Debug\net8.0\ref\Examen.dll
